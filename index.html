@@ -351,7 +351,7 @@
 
   <div class="resizer" id="resizer"></div>
 
-  <div class="map-panel" id="map-panel">
+  <div class="map-panel mobile-hidden" id="map-panel">
     <div class="map-toolbar">
       <button class="map-btn" id="btn-map-wide" title="Rozszerz mapę">⬅ Szersza mapa</button>
       <button class="map-btn" id="btn-map-full" title="Mapa na cały ekran">⛶ Pełny ekran</button>
@@ -378,7 +378,7 @@ function showTab(tab) {
     mapPanel.classList.remove('mobile-hidden');
     tabMap.classList.add('active');
     tabTable.classList.remove('active');
-    map.invalidateSize();
+    setTimeout(() => map.invalidateSize(), 50);
   }
 }
 // ───────────────────────────────────────────────────────────
