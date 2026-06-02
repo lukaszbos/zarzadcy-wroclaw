@@ -227,9 +227,70 @@
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    @media (max-width: 900px) {
-      .layout { grid-template-columns: 1fr; grid-template-rows: 1fr 300px; }
-      #map { height: 300px; }
+    /* MOBILE TOGGLE */
+    .mobile-tabs {
+      display: none;
+    }
+
+    @media (max-width: 768px) {
+      /* Przełącznik widoków */
+      .mobile-tabs {
+        display: flex;
+        background: #1a3a5c;
+        padding: 6px 12px;
+        gap: 6px;
+      }
+      .mobile-tab {
+        flex: 1;
+        padding: 8px;
+        border: 2px solid rgba(255,255,255,0.3);
+        border-radius: 6px;
+        background: transparent;
+        color: #fff;
+        font-size: 0.9rem;
+        font-weight: 600;
+        cursor: pointer;
+        text-align: center;
+      }
+      .mobile-tab.active {
+        background: rgba(255,255,255,0.2);
+        border-color: #fff;
+      }
+
+      .layout {
+        flex-direction: column !important;
+        height: calc(100vh - 108px) !important; /* 60px header + 48px tabs */
+        overflow: hidden !important;
+      }
+
+      .table-panel {
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 1 !important;
+        height: 100% !important;
+        overflow: hidden !important;
+      }
+      .table-panel.mobile-hidden { display: none !important; }
+
+      .resizer { display: none !important; }
+      .map-toolbar { display: none !important; }
+
+      .map-panel {
+        width: 100% !important;
+        flex: 1 !important;
+        height: 100% !important;
+      }
+      .map-panel.mobile-hidden { display: none !important; }
+      #map { height: 100% !important; }
+
+      .controls { flex-wrap: wrap; gap: 6px; }
+      .controls input[type=text] { min-width: 100%; }
+
+      thead th:nth-child(3), td:nth-child(3),
+      thead th:nth-child(4), td:nth-child(4),
+      thead th:nth-child(5), td:nth-child(5) { display: none; }
+
+      .details-inner { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -244,6 +305,11 @@
   <h1>🏢 Zarządcy Nieruchomości – Wrocław</h1>
   <span id="header-info"></span>
 </header>
+
+<div class="mobile-tabs">
+  <button class="mobile-tab active" id="tab-table" onclick="showTab('table')">📋 Lista firm</button>
+  <button class="mobile-tab" id="tab-map" onclick="showTab('map')">🗺️ Mapa</button>
+</div>
 
 <div class="layout" id="layout">
   <div class="table-panel" id="table-panel" style="display:flex;flex-direction:column;overflow:hidden;">
@@ -296,6 +362,27 @@
 </div>
 
 <script>
+// ─── MOBILE TABS ───────────────────────────────────────────
+function showTab(tab) {
+  const tablePanel = document.getElementById('table-panel');
+  const mapPanel = document.getElementById('map-panel');
+  const tabTable = document.getElementById('tab-table');
+  const tabMap = document.getElementById('tab-map');
+  if (tab === 'table') {
+    tablePanel.classList.remove('mobile-hidden');
+    mapPanel.classList.add('mobile-hidden');
+    tabTable.classList.add('active');
+    tabMap.classList.remove('active');
+  } else {
+    tablePanel.classList.add('mobile-hidden');
+    mapPanel.classList.remove('mobile-hidden');
+    tabMap.classList.add('active');
+    tabTable.classList.remove('active');
+    map.invalidateSize();
+  }
+}
+// ───────────────────────────────────────────────────────────
+
 // ─── RESIZER ───────────────────────────────────────────────
 const layout = document.getElementById('layout');
 const tablePanel = document.getElementById('table-panel');
