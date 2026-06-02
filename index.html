@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zarządcy Nieruchomości – Wrocław</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f4f6f9;
+      color: #222;
+    }
+
+    header {
+      background: #1a3a5c;
+      color: #fff;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    header h1 { font-size: 1.3rem; font-weight: 600; }
+    header span { font-size: 0.9rem; opacity: 0.7; margin-left: auto; }
+
+    .layout {
+      display: flex;
+      flex-direction: row;
+      height: calc(100vh - 60px);
+      overflow: hidden;
+    }
+
+    .table-panel {
+      flex: 0 0 auto;
+      width: calc(100% - 400px);
+      min-width: 0;
+      max-width: calc(100% - 60px);
+    }
+
+    /* RESIZER */
+    .resizer {
+      width: 6px;
+      background: #dde3ec;
+      cursor: col-resize;
+      flex-shrink: 0;
+      position: relative;
+      transition: background 0.15s;
+      z-index: 10;
+    }
+    .resizer:hover, .resizer.dragging { background: #1a3a5c; }
+    .resizer::after {
+      content: '⋮';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #aaa;
+      font-size: 16px;
+      pointer-events: none;
+    }
+
+    /* MAP PANEL */
+    .map-panel {
+      flex: 1 1 auto;
+      min-width: 60px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .map-toolbar {
+      background: #1a3a5c;
+      display: flex;
+      justify-content: flex-end;
+      padding: 3px 6px;
+      gap: 4px;
+    }
+    .map-btn {
+      background: rgba(255,255,255,0.15);
+      border: none;
+      color: #fff;
+      border-radius: 4px;
+      padding: 3px 8px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .map-btn:hover { background: rgba(255,255,255,0.3); }
+
+    /* LEFT: table panel inner */
+
+    .controls {
+      padding: 12px 16px;
+      background: #fff;
+      border-bottom: 1px solid #dde3ec;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .controls input[type=text] {
+      flex: 1;
+      min-width: 180px;
+      padding: 7px 11px;
+      border: 1px solid #c5cdd8;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+    .controls select {
+      padding: 7px 10px;
+      border: 1px solid #c5cdd8;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      background: #fff;
+    }
+    #count-label { font-size: 0.82rem; color: #666; white-space: nowrap; }
+
+    .table-wrap {
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    thead th {
+      background: #1a3a5c;
+      color: #fff;
+      padding: 10px 12px;
+      text-align: left;
+      position: sticky;
+      top: 0;
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+    thead th:hover { background: #22507a; }
+    thead th .sort-icon { margin-left: 4px; opacity: 0.5; }
+    thead th.active .sort-icon { opacity: 1; }
+
+    tbody tr {
+      border-bottom: 1px solid #e8ecf2;
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+    tbody tr:hover { background: #eef3fb; }
+    tbody tr.selected { background: #dde9f9; }
+
+    td { padding: 9px 12px; vertical-align: top; }
+
+    .rating-stars { color: #f5a623; font-size: 0.8rem; }
+    .rating-num { font-weight: 600; }
+    .reviews-count { color: #888; font-size: 0.78rem; }
+    .status-badge {
+      display: inline-block;
+      padding: 2px 7px;
+      border-radius: 10px;
+      font-size: 0.72rem;
+      font-weight: 600;
+    }
+    .status-OPERATIONAL { background: #d4edda; color: #155724; }
+    .status-CLOSED_TEMPORARILY { background: #fff3cd; color: #856404; }
+    .status-CLOSED_PERMANENTLY { background: #f8d7da; color: #721c24; }
+
+    /* DETAILS ROW */
+    .details-row td {
+      padding: 0;
+      background: #f7faff;
+    }
+    .details-inner {
+      padding: 14px 18px 18px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .details-inner h4 { color: #1a3a5c; font-size: 0.82rem; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.04em; }
+    .details-inner p, .details-inner a { font-size: 0.85rem; color: #333; word-break: break-word; }
+    .details-inner a { color: #1a6eb5; }
+
+    .hours-list { list-style: none; font-size: 0.82rem; line-height: 1.7; }
+
+    /* REVIEWS */
+    .reviews-section { grid-column: 1 / -1; }
+    .review-card {
+      background: #fff;
+      border: 1px solid #dde3ec;
+      border-radius: 8px;
+      padding: 10px 13px;
+      margin-bottom: 8px;
+    }
+    .review-header { display: flex; gap: 8px; align-items: center; margin-bottom: 4px; }
+    .review-author { font-weight: 600; font-size: 0.83rem; }
+    .review-time { color: #999; font-size: 0.78rem; margin-left: auto; }
+    .review-text { font-size: 0.82rem; color: #444; line-height: 1.5; }
+
+    /* MAP */
+    #map {
+      flex: 1;
+      width: 100%;
+      min-height: 0;
+    }
+
+    /* Loading */
+    #loading {
+      position: fixed; inset: 0;
+      background: rgba(255,255,255,0.92);
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      gap: 12px; font-size: 1rem; color: #555;
+      z-index: 9999;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 4px solid #c5cdd8;
+      border-top-color: #1a3a5c;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: 1fr; grid-template-rows: 1fr 300px; }
+      #map { height: 300px; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <span>Ładowanie danych…</span>
+</div>
+
+<header>
+  <h1>🏢 Zarządcy Nieruchomości – Wrocław</h1>
+  <span id="header-info"></span>
+</header>
+
+<div class="layout" id="layout">
+  <div class="table-panel" id="table-panel" style="display:flex;flex-direction:column;overflow:hidden;">
+    <div class="controls">
+      <input type="text" id="search" placeholder="Szukaj nazwy lub adresu…" />
+      <select id="sort-select">
+        <option value="name-asc">Nazwa A–Z</option>
+        <option value="name-desc">Nazwa Z–A</option>
+        <option value="rating-desc" selected>Ocena ↓</option>
+        <option value="rating-asc">Ocena ↑</option>
+        <option value="reviews_count-desc">Liczba opinii ↓</option>
+        <option value="latest_review_ts-desc">Ostatnia opinia (najnowsze)</option>
+        <option value="latest_review_ts-asc">Ostatnia opinia (najstarsze)</option>
+      </select>
+      <select id="min-rating">
+        <option value="0">Wszystkie oceny</option>
+        <option value="0-5">< 5 ★</option>
+        <option value="0-4">< 4 ★</option>
+        <option value="0-3">< 3 ★</option>
+      </select>
+      <span id="count-label"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="main-table">
+        <thead>
+          <tr>
+            <th data-col="name">Nazwa <span class="sort-icon">↕</span></th>
+            <th data-col="rating">Ocena <span class="sort-icon">↕</span></th>
+            <th data-col="phone">Telefon</th>
+            <th data-col="latest_review_ts">Ostatnia opinia <span class="sort-icon">↕</span></th>
+            <th data-col="status">Status</th>
+          </tr>
+        </thead>
+        <tbody id="table-body"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="resizer" id="resizer"></div>
+
+  <div class="map-panel" id="map-panel">
+    <div class="map-toolbar">
+      <button class="map-btn" id="btn-map-wide" title="Rozszerz mapę">⬅ Szersza mapa</button>
+      <button class="map-btn" id="btn-map-full" title="Mapa na cały ekran">⛶ Pełny ekran</button>
+      <button class="map-btn" id="btn-map-reset" title="Resetuj układ">↺ Reset</button>
+    </div>
+    <div id="map"></div>
+  </div>
+</div>
+
+<script>
+// ─── RESIZER ───────────────────────────────────────────────
+const layout = document.getElementById('layout');
+const tablePanel = document.getElementById('table-panel');
+const resizer = document.getElementById('resizer');
+
+resizer.addEventListener('mousedown', e => {
+  e.preventDefault();
+  resizer.classList.add('dragging');
+  const startX = e.clientX;
+  const startW = tablePanel.offsetWidth;
+
+  function onMove(e) {
+    const newW = Math.max(200, Math.min(startW + e.clientX - startX, layout.offsetWidth - 60));
+    tablePanel.style.width = newW + 'px';
+    map.invalidateSize();
+  }
+  function onUp() {
+    resizer.classList.remove('dragging');
+    document.removeEventListener('mousemove', onMove);
+    document.removeEventListener('mouseup', onUp);
+    map.invalidateSize();
+  }
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', onUp);
+});
+
+// Przyciski mapy
+document.getElementById('btn-map-wide').addEventListener('click', () => {
+  const newW = Math.max(200, tablePanel.offsetWidth - 200);
+  tablePanel.style.width = newW + 'px';
+  map.invalidateSize();
+});
+
+document.getElementById('btn-map-full').addEventListener('click', () => {
+  tablePanel.style.width = '0px';
+  tablePanel.style.overflow = 'hidden';
+  resizer.style.display = 'none';
+  document.getElementById('btn-map-full').style.display = 'none';
+  document.getElementById('btn-map-wide').style.display = 'none';
+  document.getElementById('btn-map-reset').textContent = '↺ Pokaż tabelę';
+  map.invalidateSize();
+});
+
+document.getElementById('btn-map-reset').addEventListener('click', () => {
+  tablePanel.style.width = 'calc(100% - 400px)';
+  tablePanel.style.overflow = 'hidden';
+  resizer.style.display = '';
+  document.getElementById('btn-map-full').style.display = '';
+  document.getElementById('btn-map-wide').style.display = '';
+  document.getElementById('btn-map-reset').textContent = '↺ Reset';
+  map.invalidateSize();
+});
+// ───────────────────────────────────────────────────────────
+
+// ─── CONFIG ────────────────────────────────────────────────
+// Aby podmienić dane: zamień plik data.json na nowy (taka sama struktura)
+const DATA_URL = 'data.json';
+// ───────────────────────────────────────────────────────────
+
+let allPlaces = [];
+let filteredPlaces = [];
+let map, markers = [], markerLayer;
+let openRow = null;
+let sortCol = 'rating';
+let sortDir = -1;
+
+function formatTs(ts) {
+  if (!ts) return '—';
+  const d = new Date(ts * 1000);
+  return d.toLocaleDateString('pl-PL', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+function stars(r) {
+  const full = Math.round(r);
+  return '★'.repeat(full) + '☆'.repeat(Math.max(0, 5 - full));
+}
+
+function statusLabel(s) {
+  const map = {
+    'OPERATIONAL': 'Czynne',
+    'CLOSED_TEMPORARILY': 'Tymczasowo zamknięte',
+    'CLOSED_PERMANENTLY': 'Zamknięte'
+  };
+  return map[s] || s || '—';
+}
+
+function renderTable() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const ratingVal = document.getElementById('min-rating').value;
+
+  filteredPlaces = allPlaces.filter(p => {
+    const matchSearch = !search ||
+      (p.name || '').toLowerCase().includes(search) ||
+      (p.address || '').toLowerCase().includes(search);
+    let matchRating = true;
+    if (ratingVal && ratingVal !== '0') {
+      const maxRating = parseFloat(ratingVal.split('-')[1]);
+      matchRating = (p.rating || 0) < maxRating;
+    }
+    return matchSearch && matchRating;
+  });
+
+  // Sort
+  filteredPlaces.sort((a, b) => {
+    let va = a[sortCol] ?? '';
+    let vb = b[sortCol] ?? '';
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    if (va < vb) return -1 * sortDir;
+    if (va > vb) return 1 * sortDir;
+    return 0;
+  });
+
+  document.getElementById('count-label').textContent = `${filteredPlaces.length} / ${allPlaces.length} firm`;
+
+  const tbody = document.getElementById('table-body');
+  tbody.innerHTML = '';
+  openRow = null;
+
+  filteredPlaces.forEach((p, i) => {
+    const tr = document.createElement('tr');
+    tr.dataset.index = i;
+    tr.innerHTML = `
+      <td><strong>${p.name || '—'}</strong><br><small style="color:#888">${p.address || ''}</small></td>
+      <td>
+        <span class="rating-stars">${stars(p.rating || 0)}</span>
+        <span class="rating-num"> ${p.rating || '—'}</span><br>
+        <span class="reviews-count">${p.reviews_count || 0} opinii</span>
+      </td>
+      <td>${p.phone ? `<a href="tel:${p.phone}">${p.phone}</a>` : '—'}</td>
+      <td>${p.latest_review_ts ? formatTs(p.latest_review_ts) : '—'}</td>
+      <td><span class="status-badge status-${p.status || ''}">${statusLabel(p.status)}</span></td>
+    `;
+    tr.addEventListener('click', () => toggleDetails(tr, p));
+    tbody.appendChild(tr);
+  });
+
+  updateMapMarkers();
+}
+
+function toggleDetails(tr, p) {
+  // Zamknij poprzedni
+  if (openRow && openRow !== tr) {
+    const prev = document.querySelector('tr.selected');
+    if (prev) prev.classList.remove('selected');
+    const prevDetail = document.getElementById('detail-row');
+    if (prevDetail) prevDetail.remove();
+  }
+
+  if (tr.classList.contains('selected')) {
+    tr.classList.remove('selected');
+    const dr = document.getElementById('detail-row');
+    if (dr) dr.remove();
+    openRow = null;
+    return;
+  }
+
+  tr.classList.add('selected');
+  openRow = tr;
+
+  const hoursHtml = p.hours && p.hours.length
+    ? `<ul class="hours-list">${p.hours.map(h => `<li>${h}</li>`).join('')}</ul>`
+    : '<p>Brak danych</p>';
+
+  const websiteHtml = p.website
+    ? `<a href="${p.website}" target="_blank" rel="noopener">${p.website}</a>`
+    : '<span style="color:#aaa">brak</span>';
+
+  const mapsHtml = p.maps_url
+    ? `<a href="${p.maps_url}" target="_blank" rel="noopener">📍 Otwórz w Google Maps</a>`
+    : '';
+
+  const reviewsHtml = p.reviews && p.reviews.length
+    ? p.reviews.map(r => `
+        <div class="review-card">
+          <div class="review-header">
+            <span class="rating-stars">${stars(r.rating || 0)}</span>
+            <span class="review-author">${r.author || 'Anonim'}</span>
+            <span class="review-time">${r.date || r.time || ''}</span>
+          </div>
+          <p class="review-text">${r.text ? r.text.replace(/</g,'&lt;') : '<em>brak treści</em>'}</p>
+        </div>`).join('')
+    : '<p style="color:#aaa;font-size:.83rem">Brak recenzji</p>';
+
+  const detailRow = document.createElement('tr');
+  detailRow.id = 'detail-row';
+  detailRow.innerHTML = `
+    <td colspan="4">
+      <div class="details-inner">
+        <div>
+          <h4>Kontakt</h4>
+          <p>📞 ${p.phone || '—'}</p>
+          <p>🌐 ${websiteHtml}</p>
+          <p style="margin-top:6px">${mapsHtml}</p>
+        </div>
+        <div>
+          <h4>Godziny otwarcia</h4>
+          ${hoursHtml}
+        </div>
+        <div class="reviews-section">
+          <h4>Recenzje Google (${p.reviews ? p.reviews.length : 0})</h4>
+          ${reviewsHtml}
+        </div>
+      </div>
+    </td>`;
+  tr.after(detailRow);
+
+  // Centruj mapę na wybranym miejscu
+  if (p.lat && p.lng) {
+    map.setView([p.lat, p.lng], 15);
+    const marker = markers.find(m => m.options.placeIndex === filteredPlaces.indexOf(p));
+    if (marker) marker.openPopup();
+  }
+}
+
+function updateMapMarkers() {
+  if (markerLayer) markerLayer.clearLayers();
+
+  filteredPlaces.forEach((p, i) => {
+    if (!p.lat || !p.lng) return;
+    const marker = L.marker([p.lat, p.lng], { placeIndex: i })
+      .bindPopup(`<strong>${p.name}</strong><br>${p.address || ''}<br>
+        <span style="color:#f5a623">${stars(p.rating||0)}</span> ${p.rating || ''}
+        ${p.phone ? `<br>📞 ${p.phone}` : ''}
+        ${p.maps_url ? `<br><a href="${p.maps_url}" target="_blank">Google Maps</a>` : ''}`);
+    markers.push(marker);
+    markerLayer.addLayer(marker);
+  });
+}
+
+// Sort on header click
+document.querySelectorAll('thead th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) { sortDir *= -1; }
+    else { sortCol = col; sortDir = -1; }
+    document.querySelectorAll('thead th').forEach(t => t.classList.remove('active'));
+    th.classList.add('active');
+    renderTable();
+  });
+});
+
+document.getElementById('search').addEventListener('input', renderTable);
+document.getElementById('sort-select').addEventListener('change', e => {
+  const val = e.target.value;
+  const lastDash = val.lastIndexOf('-');
+  sortCol = val.slice(0, lastDash);
+  sortDir = val.slice(lastDash + 1) === 'desc' ? -1 : 1;
+  renderTable();
+});
+document.getElementById('min-rating').addEventListener('change', renderTable);
+
+// Init map
+map = L.map('map').setView([51.107, 17.038], 12);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 19
+}).addTo(map);
+markerLayer = L.layerGroup().addTo(map);
+
+// Load data
+fetch(DATA_URL)
+  .then(r => {
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  })
+  .then(data => {
+    allPlaces = data.results || data;
+    document.getElementById('header-info').textContent =
+      `Dane: ${data.total || allPlaces.length} firm · ${data.generated_at || ''}`;
+    renderTable();
+    document.getElementById('loading').style.display = 'none';
+  })
+  .catch(err => {
+    document.getElementById('loading').innerHTML =
+      `<p style="color:red">❌ Błąd ładowania danych:<br>${err.message}</p>
+       <p style="margin-top:8px;font-size:.85rem;color:#555">Uruchom stronę przez serwer HTTP (nie przez plik://)</p>`;
+  });
+</script>
+</body>
+</html>
