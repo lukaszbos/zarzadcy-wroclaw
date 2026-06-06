@@ -248,12 +248,21 @@
       font-size: 0.75rem;
       padding: 4px 8px;
       border-radius: 4px;
-      background: #4285f4;
-      color: #fff;
+      background: #fff;
+      color: #1a3a5c;
+      border: 1px solid #4285f4;
+      font-weight: 600;
       text-decoration: none;
       white-space: nowrap;
     }
-    .btn-maps:hover { background: #3367d6; }
+    .btn-maps:hover { background: #eef3fb; color: #1a3a5c; }
+    .details-inner a.btn-maps { color: #1a3a5c; }
+    .wspolnoty-table th.wsp-sortable {
+      cursor: pointer;
+      user-select: none;
+    }
+    .wspolnoty-table th.wsp-sortable:hover { background: #22507a; }
+    .wspolnoty-table th.wsp-sortable.active .sort-icon { opacity: 1; }
     .wspolnoty-export { margin-top: 10px; text-align: right; }
     .btn-export-csv {
       background: #fff;
@@ -529,6 +538,8 @@ let sortCol = 'rating';
 let sortDir = -1;
 let wspolnotyCache = null;
 let wspolnotyLoadPromise = null;
+let wspolnotySortCol = 'data_powstania';
+let wspolnotySortDir = -1;
 
 function formatTs(ts) {
   if (!ts) return '—';
@@ -680,6 +691,41 @@ async function loadWspolnotyIndex() {
   return wspolnotyLoadPromise;
 }
 
+function sortWspolnotyList(list) {
+  const col = wspolnotySortCol;
+  const dir = wspolnotySortDir;
+  return [...list].sort((a, b) => {
+    if (col === 'data_powstania') {
+      const va = a.data_powstania || '';
+      const vb = b.data_powstania || '';
+      if (!va && !vb) return 0;
+      if (!va) return 1;
+      if (!vb) return -1;
+      if (va < vb) return -1 * dir;
+      if (va > vb) return 1 * dir;
+    }
+    return 0;
+  });
+}
+
+function renderWspolnotyContent(container, managerName) {
+  const list = sortWspolnotyList(container._wspolnotyList || []);
+  container.querySelector('.wspolnoty-content').innerHTML = renderWspolnotyTable(list);
+  const exportBtn = container.querySelector('.btn-export-csv');
+  if (exportBtn) {
+    exportBtn.onclick = () => exportWspolnotyCsv(list, managerName || '');
+  }
+  container.querySelectorAll('.wsp-sortable').forEach(th => {
+    th.classList.toggle('active', th.dataset.wspSort === wspolnotySortCol);
+    th.addEventListener('click', () => {
+      const col = th.dataset.wspSort;
+      if (wspolnotySortCol === col) wspolnotySortDir *= -1;
+      else { wspolnotySortCol = col; wspolnotySortDir = -1; }
+      renderWspolnotyContent(container, managerName);
+    });
+  });
+}
+
 function renderWspolnotyTable(list) {
   if (!list || !list.length) {
     return '<p style="color:#aaa;font-size:.83rem">Brak danych GUS dla tego zarządcy.</p>';
@@ -694,13 +740,13 @@ function renderWspolnotyTable(list) {
       <td>${w.telefon || '—'}</td>
       <td>${w.regon || '—'}</td>
       <td>${formatDateIso(w.data_powstania)}</td>
-      <td><a class="btn-maps" href="${mapsUrl}" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
+      <td><a class="btn-maps" href="${mapsUrl}" target="_blank" rel="noopener noreferrer">Maps</a></td>
     </tr>`;
   }).join('');
   return `
     <div class="wspolnoty-table-wrap">
       <table class="wspolnoty-table">
-        <thead><tr><th>Nazwa</th><th>Adres</th><th>Telefon</th><th>REGON</th><th>Data powstania</th><th>Maps</th></tr></thead>
+        <thead><tr><th>Nazwa</th><th>Adres</th><th>Telefon</th><th>REGON</th><th class="wsp-sortable" data-wsp-sort="data_powstania">Data powstania <span class="sort-icon">↕</span></th><th>Maps</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
     </div>
@@ -715,11 +761,8 @@ async function showWspolnoty(managerId, container, managerName) {
   const index = await loadWspolnotyIndex();
   const list = index[managerId] || [];
   container._wspolnotyList = list;
-  container.querySelector('.wspolnoty-content').innerHTML = renderWspolnotyTable(list);
-  const exportBtn = container.querySelector('.btn-export-csv');
-  if (exportBtn) {
-    exportBtn.addEventListener('click', () => exportWspolnotyCsv(list, managerName || managerId));
-  }
+  container._managerName = managerName || managerId;
+  renderWspolnotyContent(container, container._managerName);
   if (btn) { btn.disabled = false; btn.textContent = `Odśwież listę (${list.length})`; }
 }
 
@@ -755,8 +798,11 @@ function toggleDetails(tr, p) {
     ? `<a href="${p.maps_url}" target="_blank" rel="noopener">📍 Otwórz w Google Maps</a>`
     : '';
 
-  const reviewsHtml = p.reviews && p.reviews.length
-    ? p.reviews.map(r => `
+  const sortedReviews = [...(p.reviews || [])].sort(
+    (a, b) => (b.timestamp || 0) - (a.timestamp || 0)
+  );
+  const reviewsHtml = sortedReviews.length
+    ? sortedReviews.map(r => `
         <div class="review-card">
           <div class="review-header">
             <span class="rating-stars">${stars(r.rating || 0)}</span>
@@ -794,7 +840,7 @@ function toggleDetails(tr, p) {
           <div class="wspolnoty-content"></div>
         </div>
         <div class="reviews-section">
-          <h4>Recenzje Google (${p.reviews ? p.reviews.length : 0})</h4>
+          <h4>Recenzje Google (${sortedReviews.length})</h4>
           ${reviewsHtml}
         </div>
       </div>
