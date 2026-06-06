@@ -229,17 +229,43 @@
       font-size: 0.8rem;
     }
     .wspolnoty-table th {
-      background: #eef3fb;
+      background: #1a3a5c;
+      color: #fff;
+      font-weight: 600;
       padding: 8px 10px;
       text-align: left;
       position: sticky;
       top: 0;
+      z-index: 1;
     }
     .wspolnoty-table td {
       padding: 7px 10px;
-      border-top: 1px solid #e8ecf2;
+      border-top: 1px solid #dde3ec;
       vertical-align: top;
     }
+    .btn-maps {
+      display: inline-block;
+      font-size: 0.75rem;
+      padding: 4px 8px;
+      border-radius: 4px;
+      background: #4285f4;
+      color: #fff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .btn-maps:hover { background: #3367d6; }
+    .wspolnoty-export { margin-top: 10px; text-align: right; }
+    .btn-export-csv {
+      background: #fff;
+      color: #1a3a5c;
+      border: 1px solid #1a3a5c;
+      border-radius: 6px;
+      padding: 7px 14px;
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+    .btn-export-csv:hover { background: #eef3fb; }
+    .wsp-count { text-align: center; font-variant-numeric: tabular-nums; }
     .gus-only-badge {
       display: inline-block;
       background: #fff3cd;
@@ -336,7 +362,8 @@
 
       thead th:nth-child(3), td:nth-child(3),
       thead th:nth-child(4), td:nth-child(4),
-      thead th:nth-child(5), td:nth-child(5) { display: none; }
+      thead th:nth-child(5), td:nth-child(5),
+      thead th:nth-child(6), td:nth-child(6) { display: none; }
 
       .details-inner { grid-template-columns: 1fr; }
     }
@@ -371,6 +398,8 @@
         <option value="reviews_count-desc">Liczba opinii ↓</option>
         <option value="latest_review_ts-desc">Ostatnia opinia (najnowsze)</option>
         <option value="latest_review_ts-asc">Ostatnia opinia (najstarsze)</option>
+        <option value="wspolnoty_count-desc">Liczba wspólnot ↓</option>
+        <option value="wspolnoty_count-asc">Liczba wspólnot ↑</option>
       </select>
       <select id="min-rating">
         <option value="0">Wszystkie oceny</option>
@@ -389,6 +418,7 @@
             <th data-col="rating">Ocena <span class="sort-icon">↕</span></th>
             <th data-col="phone">Telefon</th>
             <th data-col="latest_review_ts">Ostatnia opinia <span class="sort-icon">↕</span></th>
+            <th data-col="wspolnoty_count">Liczba wspólnot <span class="sort-icon">↕</span></th>
             <th data-col="status">Status</th>
           </tr>
         </thead>
@@ -511,6 +541,63 @@ function stars(r) {
   return '★'.repeat(full) + '☆'.repeat(Math.max(0, 5 - full));
 }
 
+function formatDateIso(iso) {
+  if (!iso) return '—';
+  const [y, m, d] = iso.split('-');
+  return d && m && y ? `${d}.${m}.${y}` : iso;
+}
+
+function mapsSearchUrl(nazwa) {
+  return 'https://www.google.com/maps/search/?api=1&query='
+    + encodeURIComponent((nazwa || '') + ' Wrocław');
+}
+
+function wspolnotyCount(p) {
+  return (p.gus && p.gus.wspolnoty_count) || 0;
+}
+
+function csvEscapeField(value) {
+  const s = String(value ?? '');
+  if (/[;"\n\r]/.test(s)) {
+    return '"' + s.replace(/"/g, '""') + '"';
+  }
+  return s;
+}
+
+function sanitizeFilename(name) {
+  return (name || 'zarzadca')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-zA-Z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .toLowerCase()
+    .slice(0, 60) || 'zarzadca';
+}
+
+function exportWspolnotyCsv(list, managerName) {
+  if (!list || !list.length) return;
+  const headers = ['Nazwa', 'Adres', 'Telefon', 'REGON', 'NIP', 'Email', 'Data powstania'];
+  const rows = list.map(w => [
+    w.nazwa || '',
+    w.adres || '',
+    w.telefon || '',
+    w.regon || '',
+    w.nip || '',
+    w.email || '',
+    w.data_powstania || '',
+  ].map(csvEscapeField).join(';'));
+  const csv = '\uFEFF' + headers.join(';') + '\n' + rows.join('\n');
+  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `wspolnoty-${sanitizeFilename(managerName)}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
 function statusLabel(s) {
   const map = {
     'OPERATIONAL': 'Czynne',
@@ -538,10 +625,16 @@ function renderTable() {
 
   // Sort
   filteredPlaces.sort((a, b) => {
-    let va = a[sortCol] ?? '';
-    let vb = b[sortCol] ?? '';
-    if (typeof va === 'string') va = va.toLowerCase();
-    if (typeof vb === 'string') vb = vb.toLowerCase();
+    let va, vb;
+    if (sortCol === 'wspolnoty_count') {
+      va = wspolnotyCount(a);
+      vb = wspolnotyCount(b);
+    } else {
+      va = a[sortCol] ?? '';
+      vb = b[sortCol] ?? '';
+      if (typeof va === 'string') va = va.toLowerCase();
+      if (typeof vb === 'string') vb = vb.toLowerCase();
+    }
     if (va < vb) return -1 * sortDir;
     if (va > vb) return 1 * sortDir;
     return 0;
@@ -554,6 +647,7 @@ function renderTable() {
   openRow = null;
 
   filteredPlaces.forEach((p, i) => {
+    const wspCount = wspolnotyCount(p);
     const tr = document.createElement('tr');
     tr.dataset.index = i;
     tr.innerHTML = `
@@ -565,6 +659,7 @@ function renderTable() {
       </td>
       <td>${p.phone ? `<a href="tel:${p.phone}">${p.phone}</a>` : '—'}</td>
       <td>${p.latest_review_ts ? formatTs(p.latest_review_ts) : '—'}</td>
+      <td class="wsp-count">${wspCount > 0 ? wspCount : '—'}</td>
       <td><span class="status-badge status-${p.status || ''}">${statusLabel(p.status)}</span></td>
     `;
     tr.addEventListener('click', () => toggleDetails(tr, p));
@@ -589,28 +684,42 @@ function renderWspolnotyTable(list) {
   if (!list || !list.length) {
     return '<p style="color:#aaa;font-size:.83rem">Brak danych GUS dla tego zarządcy.</p>';
   }
-  const rows = list.map(w => `
+  const rows = list.map(w => {
+    const nazwa = (w.nazwa || '—').replace(/</g, '&lt;');
+    const mapsUrl = mapsSearchUrl(w.nazwa);
+    return `
     <tr>
-      <td>${(w.nazwa || '—').replace(/</g,'&lt;')}</td>
+      <td>${nazwa}</td>
       <td>${(w.adres || '—').replace(/</g,'&lt;')}</td>
       <td>${w.telefon || '—'}</td>
       <td>${w.regon || '—'}</td>
-    </tr>`).join('');
+      <td>${formatDateIso(w.data_powstania)}</td>
+      <td><a class="btn-maps" href="${mapsUrl}" target="_blank" rel="noopener noreferrer">Google Maps</a></td>
+    </tr>`;
+  }).join('');
   return `
     <div class="wspolnoty-table-wrap">
       <table class="wspolnoty-table">
-        <thead><tr><th>Nazwa</th><th>Adres</th><th>Telefon</th><th>REGON</th></tr></thead>
+        <thead><tr><th>Nazwa</th><th>Adres</th><th>Telefon</th><th>REGON</th><th>Data powstania</th><th>Maps</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
+    </div>
+    <div class="wspolnoty-export">
+      <button type="button" class="btn-export-csv">Wyeksportuj do CSV</button>
     </div>`;
 }
 
-async function showWspolnoty(managerId, container) {
+async function showWspolnoty(managerId, container, managerName) {
   const btn = container.querySelector('.btn-wspolnoty');
   if (btn) { btn.disabled = true; btn.textContent = 'Ładowanie…'; }
   const index = await loadWspolnotyIndex();
   const list = index[managerId] || [];
+  container._wspolnotyList = list;
   container.querySelector('.wspolnoty-content').innerHTML = renderWspolnotyTable(list);
+  const exportBtn = container.querySelector('.btn-export-csv');
+  if (exportBtn) {
+    exportBtn.addEventListener('click', () => exportWspolnotyCsv(list, managerName || managerId));
+  }
   if (btn) { btn.disabled = false; btn.textContent = `Odśwież listę (${list.length})`; }
 }
 
@@ -666,7 +775,7 @@ function toggleDetails(tr, p) {
   const detailRow = document.createElement('tr');
   detailRow.id = 'detail-row';
   detailRow.innerHTML = `
-    <td colspan="5">
+    <td colspan="6">
       <div class="details-inner">
         <div>
           <h4>Kontakt</h4>
@@ -694,7 +803,7 @@ function toggleDetails(tr, p) {
 
   const wspSection = detailRow.querySelector('.wspolnoty-section');
   detailRow.querySelector('.btn-wspolnoty').addEventListener('click', () => {
-    showWspolnoty(managerId, wspSection);
+    showWspolnoty(managerId, wspSection, p.name || managerId);
   });
 
   // Centruj mapę na wybranym miejscu
