@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-07 14:47:40",
-  "total": 330,
+  "generated_at": "2026-06-07 15:11:01",
+  "total": 328,
   "sources": {
-    "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\wroclaw\\zarzadcy_wroclaw_full_details.json",
-    "gus_csv": "dane-gus/zarzadcy-gus-wroclaw-portal.csv",
-    "gus_maps": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\gus\\zarzadcy_gus_maps.json"
+    "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\maps\\zarzadcy_wroclaw_full_details.json",
+    "gus_csv": "dane/csv/zarzadcy-gus-wroclaw-portal.csv",
+    "gus_maps": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\maps\\zarzadcy_gus_maps.json"
   },
   "results": [
     {
@@ -132,7 +132,7 @@
     },
     {
       "place_id": "ChIJIbt5RHXCD0cRMxotuaOEBbc",
-      "name": "Archicom (deweloper – nie zarządca)",
+      "name": "Kompleksowa Obsługa Nieruchomości \"Partner\" Bartosz Zakrzewski",
       "address": "MidPoint71, Powstańców Śląskich 9, 53-332 Wrocław, Polska",
       "phone": "71 785 81 41",
       "website": "https://www.archicom.pl/?utm_source=googlemaps&utm_medium=organic&utm_campaign=wizytowka-wroclaw-salon",
@@ -189,23 +189,28 @@
         }
       ],
       "latest_review_ts": 1764181707,
-      "id": "archicom",
+      "id": "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
-          "713941771"
+          "713941771",
+          "713944525",
+          "713379460",
+          "605830309"
         ],
         "emails": [
-          "BARTOSZ.ZAKRZEWSKI@ARCHICOM.PL"
+          "BARTOSZ.ZAKRZEWSKI@ARCHICOM.PL",
+          "kon-partner@wp.pl",
+          "PARTNER00000@WP.PL"
         ],
         "website": "https://archicom.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 5
+        "wspolnoty_count": 10
       },
-      "wspolnoty_count": 5
+      "wspolnoty_count": 10
     },
     {
       "place_id": "ChIJqenHVmXCD0cRHRr6WYFWcng",
@@ -1168,7 +1173,7 @@
     },
     {
       "place_id": "ChIJZ_l3PmfCD0cRkzKaTgwdR8o",
-      "name": "Spółdzielnia Mieszkaniowa Śródmieście-Prasa",
+      "name": "Spółdzielnia Mieszkaniowa Śródmieście Prasa",
       "address": "Łódzka 19, 50-521 Wrocław, Polska",
       "phone": "71 361 60 86",
       "website": "http://smsp.wroc.pl/",
@@ -1316,7 +1321,7 @@
     },
     {
       "place_id": "ChIJm0p0LkDCD0cRqjCZ2OkiGM0",
-      "name": "STRZELECKI-NIERUCHOMOŚCI",
+      "name": "Strzelecki-Nieruchomości",
       "address": "Powstańców Śląskich 114, 53-333 Wrocław, Polska",
       "phone": "71 373 22 87",
       "website": "https://www.nieruchomosci-online.pl/firmy/strzelecki-nieruchomosci-marian-strzelecki,YG9H8.html",
@@ -2490,7 +2495,7 @@
     },
     {
       "place_id": "ChIJ-e-wvnvCD0cR8QiFviodHB0",
-      "name": "Domestia – Zarządzanie Nieruchomościami",
+      "name": "Domestia Sp. z o.o.",
       "address": "Tadeusza Kościuszki 85/b1, 50-442 Wrocław, Polska",
       "phone": "71 343 13 31",
       "website": "http://www.domestia.pl/",
@@ -3849,7 +3854,7 @@
     },
     {
       "place_id": "ChIJB_9ixBroD0cRooJMxMXrdrw",
-      "name": "Przemysław Witczak APW – Zarządzanie Nieruchomościami",
+      "name": "APW. Zarządzanie nieruchomościami. Witczak P.",
       "address": "Partyzantów 72, 51-675 Wrocław, Polska",
       "phone": "71 348 67 53",
       "website": "https://www.gowork.pl/opinie_czytaj,901550",
@@ -5254,7 +5259,7 @@
     },
     {
       "place_id": "ChIJ60AFRRfCD0cRtcqIqstrERk",
-      "name": "AGAL Zarządzanie Nieruchomościami",
+      "name": "Agal. Zarządzanie nieruchomościami. Szczygieł H.",
       "address": "Żelazna 54, 53-429 Wrocław, Polska",
       "phone": "71 799 95 66",
       "website": "http://www.agal-nieruchomosci.pl/",
@@ -6012,7 +6017,7 @@
     },
     {
       "place_id": "ChIJZybDoHPpD0cRU73luVfoI3o",
-      "name": "COMPLEXCITY – Zarządzanie Nieruchomościami",
+      "name": "COMPLEXCITY",
       "address": "Wybrzeże Juliusza Słowackiego 12-14/lok.19, 50-411 Wrocław, Polska",
       "phone": "509 343 394",
       "website": "",
@@ -6089,7 +6094,7 @@
     },
     {
       "place_id": "ChIJ8Tyj_LrDD0cR01V__OTO51Q",
-      "name": "Imperium Zarządzanie Nieruchomościami",
+      "name": "Imperium Zarządzanie",
       "address": "Rybacka 9/III piętro, 53-656 Wrocław, Polska",
       "phone": "459 567 788",
       "website": "https://imperium-zarzadzanie.com.pl/",
@@ -6186,7 +6191,7 @@
     },
     {
       "place_id": "ChIJX64jWoDDD0cRweq4kcQ3ac8",
-      "name": "Expert Dom Sp. z o.o.",
+      "name": "Expert Dom",
       "address": "Stawowa 15/13, 50-018 Wrocław, Polska",
       "phone": "71 733 75 53",
       "website": "http://www.expertdom.pl/",
@@ -6271,7 +6276,7 @@
     },
     {
       "place_id": "ChIJjSTu5y3oD0cRHP9QZuZfgc0",
-      "name": "AMD Zarządca Nieruchomości Sp. z o.o. (nieprawidłowy tel.)",
+      "name": "AMD Zarządca Nieruchomości Sp. z o.o.",
       "address": "Ksawerego Liskego 7, 50-345 Wrocław, Polska",
       "phone": "71 750 04 50",
       "website": "http://amd.wroc.pl/",
@@ -6356,7 +6361,7 @@
     },
     {
       "place_id": "ChIJqRQaBXvCD0cR6NxJnWkGEK4",
-      "name": "ZN BONITATIS Sp. z o.o.",
+      "name": "ZN BONITATIS sp. z o.o.",
       "address": "Kniaziewicza 37, 50-455 Wrocław, Polska",
       "phone": "71 344 02 77",
       "website": "http://www.bonitatis.pl/",
@@ -6434,7 +6439,7 @@
     },
     {
       "place_id": "ChIJ3S5ajiPBD0cR9bE5RrojKyQ",
-      "name": "Herdom Sp. z o.o.",
+      "name": "Herdom Zarządzanie Nieruchomościami",
       "address": "Mińska 38/lokal 100, 54-610 Wrocław, Polska",
       "phone": "537 118 777",
       "website": "https://www.herdom.pl/",
@@ -6511,7 +6516,7 @@
     },
     {
       "place_id": "ChIJZwp4__3DD0cRAkDY171XNY4",
-      "name": "Adm-System (Małgorzata Rauch-Janowicz)",
+      "name": "Zarządzanie Nieruchomościami Adm-System Małgorzata Rauch-Janowicz",
       "address": "Na Grobli 34, 50-421 Wrocław, Polska",
       "phone": "601 199 011",
       "website": "http://adm-rauch.pl/",
@@ -6590,7 +6595,7 @@
     },
     {
       "place_id": "ChIJ7Yeo1nfCD0cRXrKK8WnQJa4",
-      "name": "Domus Sp. z o.o. Sp.k.",
+      "name": "Domus zarządzanie nieruchomościami",
       "address": "Grabiszyńska 163, 53-434 Wrocław, Polska",
       "phone": "71 323 08 09",
       "website": "http://zarzadca.wroclaw.pl/",
@@ -6668,7 +6673,7 @@
     },
     {
       "place_id": "ChIJ8XYbNsPpD0cRdiTfE4R57gk",
-      "name": "Atena & HJW Sp. z o.o.",
+      "name": "ATENA & HJW Sp. z o.o. - Biuro 1",
       "address": "Ołbińska 6, 50-237 Wrocław, Polska",
       "phone": "71 772 63 00",
       "website": "http://www.atena-hjw.pl/",
@@ -6819,7 +6824,7 @@
     },
     {
       "place_id": "ChIJ__-v8xHCD0cR72eB3XcuNI0",
-      "name": "PHU Exist III Sp. z o.o.",
+      "name": "EXIST III Zarządzanie nieruchomościami we Wrocławiu",
       "address": "Aleksandra Ostrowskiego 7, 53-238 Wrocław, Polska",
       "phone": "71 774 69 18",
       "website": "https://exist.com.pl/",
@@ -6898,7 +6903,7 @@
     },
     {
       "place_id": "ChIJ64TvbwzCD0cRGfv6c6N9eKQ",
-      "name": "Imeritum – Zarządzanie Nieruchomościami",
+      "name": "PU MERITUM",
       "address": "plac Orląt Lwowskich 20c, 53-605 Wrocław, Polska",
       "phone": "71 302 69 21",
       "website": "http://www.imeritum.pl/",
@@ -7040,7 +7045,7 @@
     },
     {
       "place_id": "ChIJsb7CiiTCD0cR4DBc5KQ03PE",
-      "name": "Promena – Zarządzanie Nieruchomościami",
+      "name": "PROMENA SP. Z O.O.",
       "address": "Jemiołowa 16/2, 53-447 Wrocław, Polska",
       "phone": "71 724 50 53",
       "website": "http://promena-zarzadca.pl/",
@@ -7342,7 +7347,7 @@
     },
     {
       "place_id": "ChIJyYhHs-3CD0cRDmfWcWYVGFQ",
-      "name": "MAH Zarządzanie Nieruchomościami Magdalena Hałasińska",
+      "name": "MAH Zarządzanie nieruchomościami. M. Hałasińska",
       "address": "Tarnogajska 11/13, 50-512 Wrocław, Polska",
       "phone": "71 795 95 39",
       "website": "http://www.mah.wroc.pl/",
@@ -7422,7 +7427,7 @@
     },
     {
       "place_id": "ChIJLWLcFwDDD0cRA9eFIPmkIt8",
-      "name": "Pisaniak",
+      "name": "Zarządzanie Nieruchomościami Przemysław Pisaniak",
       "address": "Boczna 2/7, 50-502 Wrocław, Polska",
       "phone": "509 397 602",
       "website": "https://pisaniak.pl/",
@@ -7648,7 +7653,7 @@
     },
     {
       "place_id": "ChIJqSjimvvCD0cREClJzPrqBVQ",
-      "name": "FONTIS Zarządzanie Nieruchomościami Sp. z o.o.",
+      "name": "FONTIS Zarządzanie Nieruchomościami Sp. z o. o.",
       "address": "Kłodzka 11, 50-536 Wrocław, Polska",
       "phone": "71 339 92 00",
       "website": "http://www.fontis.com.pl/",
@@ -7858,7 +7863,7 @@
     },
     {
       "place_id": "ChIJvYGhMBjoD0cR4d9GoD3rsyA",
-      "name": "Fontis",
+      "name": "FONTIS Zarządzanie Nieruchomościami",
       "address": "Jezierskiego 14, 51-691 Wrocław, Polska",
       "phone": "71 348 21 48",
       "website": "http://www.fontis.com.pl/",
@@ -7933,7 +7938,7 @@
     },
     {
       "place_id": "ChIJq9pJ_OXpD0cRUDVktST2mGM",
-      "name": "EUREKA – Zarządzanie Nieruchomościami",
+      "name": "Eureka",
       "address": "plac Strzelecki 20, 50-224 Wrocław, Polska",
       "phone": "71 799 18 19",
       "website": "http://www.eureka.wroclaw.pl/",
@@ -8014,7 +8019,7 @@
     },
     {
       "place_id": "ChIJA4t-Hw3CD0cR6q3rXCZuD7w",
-      "name": "PU Meritum Zarządzanie Nieruchomościami",
+      "name": "Meritum Sp. z o.o.",
       "address": "Marszałka Józefa Piłsudskiego 12/2, 50-049 Wrocław, Polska",
       "phone": "71 780 62 02",
       "website": "",
@@ -8167,7 +8172,7 @@
     },
     {
       "place_id": "ChIJEVNyYbjBD0cRKbw2Qj4JgJU",
-      "name": "EGENDOM Sp. z o.o.",
+      "name": "EGENDOM",
       "address": "Marii Rodziewiczówny 8/lok. 2, 54-607 Wrocław, Polska",
       "phone": "71 725 82 77",
       "website": "http://www.egendom.pl/",
@@ -8310,7 +8315,7 @@
     },
     {
       "place_id": "ChIJESLAPnXCD0cRua5pmVTS9iE",
-      "name": "Prime Project – Zarządzanie Nieruchomościami",
+      "name": "Prime Project",
       "address": "Kiełbaśnicza 28, 50-109 Wrocław, Polska",
       "phone": "71 344 35 13",
       "website": "https://www.primeproject.pl/",
@@ -8535,7 +8540,7 @@
     },
     {
       "place_id": "ChIJeVUjqALmD0cR_khFQd-lTpA",
-      "name": "Capital Sp. z o.o.",
+      "name": "Capital sp. z o.o.",
       "address": "Słowicza 16A, 53-320 Wrocław, Polska",
       "phone": "71 342 81 22",
       "website": "https://capital.wroclaw.pl/",
@@ -8613,7 +8618,7 @@
     },
     {
       "place_id": "ChIJ-YuA68nqD0cRelvmKdZBISo",
-      "name": "DLA-WSPÓLNOTY.PL – zarządzanie nieruchomościami Jakub Szpiegowski",
+      "name": "Dla-Wspólnoty - Zarządzanie nieruchomościami",
       "address": "Olbrachtowska 30, 54-063 Wrocław, Polska",
       "phone": "601 954 443",
       "website": "http://www.dla-wspolnoty.pl/",
@@ -8684,7 +8689,7 @@
     },
     {
       "place_id": "ChIJXxGyBszDD0cRonZMF-yOmVA",
-      "name": "FORUM Zarządzanie Nieruchomościami Sp. z o.o.",
+      "name": "Forum",
       "address": "Skarbowców 94C, 53-025 Wrocław, Polska",
       "phone": "71 338 03 45",
       "website": "https://www.forum.wroc.pl/",
@@ -8764,7 +8769,7 @@
     },
     {
       "place_id": "ChIJ921fIZBED0cRZS2XmUkJnDM",
-      "name": "NASZ DOM Zarządzanie Nieruchomościami (Helena Gałuszka)",
+      "name": "NASZ DOM Zarządzanie Nieruchomościami",
       "address": "Długa 55H/3, 53-633 Wrocław, Polska",
       "phone": "575 998 515",
       "website": "http://www.naszdomzn.pl/",
@@ -8813,7 +8818,7 @@
     },
     {
       "place_id": "ChIJSwwnmG_DD0cRZP5muWYfrCA",
-      "name": "ALBA Polska Sp. z o.o.",
+      "name": "ALBA S.A.",
       "address": "plac Powstańców Śląskich 16-18/18, 53-314 Wrocław, Polska",
       "phone": "532 400 252",
       "website": "http://www.alba.com.pl/nieruchomosci",
@@ -8967,7 +8972,7 @@
     },
     {
       "place_id": "ChIJIVsb8TbCD0cR8pWDVMZmEiM",
-      "name": "PUMAZ ZN Sp. z o.o.",
+      "name": "PUMAZ Stanisław Olszewski",
       "address": "Sępia 29, 53-143 Wrocław, Polska",
       "phone": "71 332 34 25",
       "website": "http://www.pumaz.pl/",
@@ -9085,7 +9090,7 @@
     },
     {
       "place_id": "ChIJBdJNXXXqD0cR7aPY0IDIDDA",
-      "name": "Locator Sp. z o.o.",
+      "name": "Locator Sp. o.o. property management",
       "address": "Balonowa 39, 54-129 Wrocław, Polska",
       "phone": "71 367 66 21",
       "website": "http://locator.wroclaw.pl/",
@@ -9394,7 +9399,7 @@
     },
     {
       "place_id": "ChIJcVLcOFHDD0cRQbJAobtEt14",
-      "name": "Vesta Zarządzanie Nieruchomościami Sp. z o.o.",
+      "name": "VESTA Zarządzanie Nieruchomościami",
       "address": "al. Generała Józefa Hallera 84/lok. 2, 53-203 Wrocław, Polska",
       "phone": "796 034 051",
       "website": "https://vestazn.pl/",
@@ -9892,7 +9897,7 @@
     },
     {
       "place_id": "ChIJzS3H38XrD0cRITW-bRWlAg0",
-      "name": "M4 Zarządzanie Nieruchomościami",
+      "name": "m4 - zarządzanie nieruchomościami",
       "address": "Kolista 26/lok. 25, 54-152 Wrocław, Polska",
       "phone": "604 752 570",
       "website": "http://www.m4zarzadzanie.pl/",
@@ -10201,7 +10206,7 @@
     },
     {
       "place_id": "ChIJzyVqFgvCD0cR_D8QXLwT45E",
-      "name": "ZGN WRO-DOM Sp. z o.o.",
+      "name": "Wro-Dom Sp. z o.o. Zarządzanie nieruchomościami",
       "address": "Powstańców Śląskich 5, 53-332 Wrocław, Polska",
       "phone": "71 344 22 41",
       "website": "http://www.wro-dom.pl/",
@@ -10605,7 +10610,7 @@
     },
     {
       "place_id": "ChIJV9h2KAvCD0cRSfbp3KMSik4",
-      "name": "OXBUD Sp. z o.o.",
+      "name": "Oxbud - Zarządzanie nieruchomościami",
       "address": "Powstańców Śląskich 5/710, 50-077 Wrocław, Polska",
       "phone": "601 837 565",
       "website": "http://www.oxbud.pl/kontakt.html",
@@ -10918,7 +10923,7 @@
     },
     {
       "place_id": "ChIJuS0BtljCD0cREtg5UqU2Emc",
-      "name": "Major-Domus Zarządzanie i Obrót Nieruchomościami",
+      "name": "Major Domus",
       "address": "al. Armii Krajowej 14, 50-541 Wrocław, Polska",
       "phone": "71 785 77 94",
       "website": "https://www.major-domus.pl/",
@@ -11077,7 +11082,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJqRmnRMTpD0cRiN3im70-pqs",
@@ -11121,7 +11126,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 10
     },
     {
       "place_id": "ChIJd2uk_jjCD0cRfv0bNfVx4Ao",
@@ -11202,7 +11207,7 @@
     },
     {
       "place_id": "ChIJM-GKIunCD0cR3bnaXiOjnoo",
-      "name": "Wrocławskie Mieszkania Sp. z o.o.",
+      "name": "Wrocławskie Mieszkania sp. z.o.o",
       "address": "Gazowa 20, 50-513 Wrocław, Polska",
       "phone": "71 333 24 11",
       "website": "https://www.wm.wroc.pl/kontakt/",
@@ -11383,7 +11388,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJjwp37BHDD0cRx1rP9vRCvv4",
@@ -11779,7 +11784,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJUYUREQ3CD0cRyJD2DDzdFb8",
@@ -11800,7 +11805,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJW6TOE9TpD0cR5F_hOkUuMQg",
@@ -12262,27 +12267,6 @@
       "wspolnoty_count": 0
     },
     {
-      "place_id": "ChIJiVo1Sk7CD0cRk7pJG4jI5Cc",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Ślężna 158B, 53-111 Wrocław, Polska",
-      "phone": "71 337 12 84",
-      "website": "",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=2874642949068143251",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.0785341,
-      "lng": 17.020446,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 11
-    },
-    {
       "place_id": "ChIJ9RY8YaXpD0cRGCI9E6brLxI",
       "name": "Wspólnota Mieszkaniowa",
       "address": "Stanisława Przybyszewskiego 106, 51-148 Wrocław, Polska",
@@ -12316,7 +12300,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJa5K7rv_pD0cRQed0Du7kq7k",
@@ -12337,11 +12321,11 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 11
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJP0boNAjCD0cRy0G1E55b0zI",
-      "name": "Spółdzielnia Mieszkaniowa Jedynka we Wrocławiu",
+      "name": "Jedynka. Spółdzielnia Mieszkaniowa",
       "address": "Środkowa 3, 53-662 Wrocław, Polska",
       "phone": "71 355 34 77",
       "website": "http://www.sm-jedynka.pl/",
@@ -14137,39 +14121,6 @@
       "wspolnoty_count": 0
     },
     {
-      "id": "maslice-cooperative-building-and-housing",
-      "place_id": "",
-      "name": "\"Maślice\" Cooperative Building and Housing",
-      "address": "",
-      "phone": "713541466",
-      "website": "https://maslice.pl",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "",
-      "status": "",
-      "hours": [],
-      "lat": null,
-      "lng": null,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "gus": {
-        "phones": [
-          "713541466",
-          "713548440"
-        ],
-        "emails": [
-          "sekretariat@maslice.pl"
-        ],
-        "website": "https://maslice.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 19
-      },
-      "sources": [
-        "gus"
-      ],
-      "wspolnoty_count": 19
-    },
-    {
       "id": "admika",
       "place_id": "ChIJ16Tdc07CD0cRj6sXR7dwNgY",
       "name": "Admika sp. z o.o.",
@@ -15359,50 +15310,6 @@
       "wspolnoty_count": 8
     },
     {
-      "id": "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski",
-      "place_id": "ChIJ__-vaN3pD0cRsZ2NoxvBTRI",
-      "name": "Kompleksowa Obsługa Nieruchomości \"Partner\" Bartosz Zakrzewski",
-      "address": "Bolesława Chrobrego 2, 50-254 Wrocław, Poland",
-      "phone": "71 394 17 71",
-      "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=1318922590341668273",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 3:30 PM",
-        "Tuesday: 8:00 AM – 3:30 PM",
-        "Wednesday: 8:00 AM – 3:30 PM",
-        "Thursday: 8:00 AM – 3:30 PM",
-        "Friday: 8:00 AM – 3:30 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1206531,
-      "lng": 17.0348668,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "gus": {
-        "phones": [
-          "713944525",
-          "713379460",
-          "605830309"
-        ],
-        "emails": [
-          "kon-partner@wp.pl",
-          "PARTNER00000@WP.PL"
-        ],
-        "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
-        "confidence": "niska",
-        "wspolnoty_count": 5
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 5
-    },
-    {
       "id": "kompleksowa-obsuga-osiedla",
       "place_id": "ChIJSVBme3TqD0cRNJk08j3ivHU",
       "name": "Kompleksowa Obsługa Osiedla Sp. z o.o.",
@@ -16487,6 +16394,84 @@
       "wspolnoty_count": 1
     },
     {
+      "id": "spodzielnia-budowlano-mieszkaniowa-maslice",
+      "place_id": "ChIJ34WXR4vqD0cR9NmDNB-2Jak",
+      "name": "\"MAŚLICE\" Spółdzielnia Budowlano-Mieszkaniowa",
+      "address": "Pilczycka 196D, 54-144 Wrocław, Polska",
+      "phone": "71 354 14 66",
+      "website": "http://maslice.pl/",
+      "rating": 3.5,
+      "reviews_count": 36,
+      "maps_url": "https://maps.google.com/?cid=12188348211689413108",
+      "status": "OPERATIONAL",
+      "hours": [
+        "poniedziałek: 07:00–15:00",
+        "wtorek: 07:00–15:00",
+        "środa: 07:00–15:00",
+        "czwartek: 07:00–15:00",
+        "piątek: 07:00–15:00",
+        "sobota: Zamknięte",
+        "niedziela: Zamknięte"
+      ],
+      "lat": 51.1451637,
+      "lng": 16.9481643,
+      "reviews": [
+        {
+          "author": "Róża Maciejska",
+          "rating": 1,
+          "timestamp": 1751455882,
+          "date": "02.07.2025",
+          "text": "Kontakt z prezesem Tomaszem był wyjątkowo nieprzyjemny i pozostawił bardzo złe wrażenie. Spotkałam się z lekceważącym podejściem i brakiem szacunku, co uważam za absolutnie nieakceptowalne na takim stanowisku. W mojej ocenie osoba ta nie reprezentuje odpowiedniego poziomu kultury osobistej ani kompetencji wymaganych do kierowania spółdzielnią. To doświadczenie podważyło moje zaufanie do całej instytucji."
+        },
+        {
+          "author": "Aneta Klicińska",
+          "rating": 1,
+          "timestamp": 1580371675,
+          "date": "30.01.2020",
+          "text": "Spółdzielnia powinna mieć zakaz wykonywania jakichkolwiek działań deweloperskich. Ogromne opóźnienia, niewywiązywanie się z umów, podwyższenie cen nieruchomości tuż przed odbiorami. Fatalna jakość tynków, podłóg, balkonów. Naprawione tylko te usterki, które miała wykonać firma zewnętrzna, czyli wymiana szyby w oknie. Spółdzielnia zwala winę na sytuację rynkową i wydaje mi się, że oczekuje od przyszłych mieszkańców wdzięczności za to, że w ogóle dokończyli inwestycję. Nie polecam."
+        },
+        {
+          "author": "jozef labuda",
+          "rating": 4,
+          "timestamp": 1652177895,
+          "date": "10.05.2022",
+          "text": "Miejsce jest ładne powinni zrobić porządek z chodnikami w jednym miejscu są a w drugim miejscu nie ma droga prowadząca do ulicy mokra nie ma miejsca dla pieszych powinni uporządkować rowy drzewa połamane leżą kabel bardzo nisko wisi"
+        },
+        {
+          "author": "Atram Lawok",
+          "rating": 1,
+          "timestamp": 1570702011,
+          "date": "10.10.2019",
+          "text": "Problem z pleśnią w mieszkaniu został przez spółdzielnię zignorowany i zrzucony na niewłaściwe warunki atmosferyczne w mieszkaniu. Po nieustępliwej walce na koniec okazało się że był przeciek w daszku i stąd w mieszkaniu w jednym miejscu pojawiała się pleśń. Nie polecam. Wysyłali niekompetentnych ludzi i zbywali mnie nie angażując się i nie próbując rozwiązać problemu."
+        },
+        {
+          "author": "Tomasz Makuch",
+          "rating": 3,
+          "timestamp": 1582265576,
+          "date": "21.02.2020",
+          "text": "Opóźnienie w realizacji, znaczne zwiększenie ceny nieruchomości na chwilę przed oddaniem mieszkania i troche drobnych wpadek. Niemniej pięknie usytuowana inwestycja, mieszkanie wykończone ładnie. Taka słodko gorzka relacja."
+        }
+      ],
+      "latest_review_ts": 1751455882,
+      "gus": {
+        "phones": [
+          "713541466",
+          "713548440"
+        ],
+        "emails": [
+          "sekretariat@maslice.pl"
+        ],
+        "website": "https://maslice.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 19
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 19
+    },
+    {
       "id": "spodzielnia-mieszkaniowa-nasz-energetyk",
       "place_id": "ChIJL6U7ijnCD0cRmYgMdUWOK6w",
       "name": "Spółdzielnia Mieszkaniowa \"Nasz Energetyk\"",
@@ -16905,29 +16890,21 @@
       "wspolnoty_count": 20
     },
     {
-      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
-      "place_id": "ChIJl7KWCmHCD0cRXeaUIQfJoU8",
+      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-i-ubezpieczenia",
+      "place_id": "",
       "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
-      "address": "Boczna 2, 50-502 Wrocław, Poland",
-      "phone": "601 754 696",
-      "website": "http://zarosa.pl/kontakt.html",
-      "rating": 1,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=5738088432712083037",
-      "status": "OPERATIONAL",
+      "address": "",
+      "phone": "601754696",
+      "website": "https://share.google/gzNk6dzWQjqlw6BXl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
       "hours": [],
-      "lat": 51.0926339,
-      "lng": 17.0437703,
-      "reviews": [
-        {
-          "author": "mariusz swiezewski",
-          "rating": 1,
-          "timestamp": 1583185883,
-          "date": "02.03.2020",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1583185883,
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "601754696",
@@ -16947,17 +16924,16 @@
         "wspolnoty_count": 41
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 41
     },
     {
       "id": "zarzadca",
       "place_id": "",
-      "name": "ZARZĄDCA Sp. z o.o.",
+      "name": "Zarządca (tel. 3424225)",
       "address": "",
-      "phone": "3392228",
+      "phone": "3424225",
       "website": "",
       "rating": 0,
       "reviews_count": 0,
@@ -16970,6 +16946,7 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
+          "3392228",
           "173538610",
           "713420021",
           "126889014",
@@ -16981,12 +16958,12 @@
         ],
         "website": "https://zarzadca.wroc.pl/",
         "confidence": "niska",
-        "wspolnoty_count": 171
+        "wspolnoty_count": 172
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 171
+      "wspolnoty_count": 172
     },
     {
       "id": "zarzadzanie-nieruchomo-iami-nasze-domy",

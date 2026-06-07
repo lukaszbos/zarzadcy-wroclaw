@@ -20454,6 +20454,15 @@
       "data_powstania": "2014-03-03"
     },
     {
+      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA-OLGINA\"",
+      "adres": "ul. Grabiszyńska 289 Wrocław",
+      "telefon": "3392228",
+      "regon": "931897251",
+      "nip": "8942454610",
+      "email": "",
+      "data_powstania": "1998-09-15"
+    },
+    {
       "nazwa": "WSPÓLNOTA LOKALI UŻYTKOWYCH PRZY UL.MATEJKI 6 WE WROCŁAWIU",
       "adres": "al. Jana Matejki 6 Wrocław",
       "telefon": "713420021",
@@ -22352,7 +22361,7 @@
       "data_powstania": "2015-02-16"
     }
   ],
-  "wspolnota-mieszkaniowa": [
+  "wspolnota-mieszkaniowa-njn-wrocaw": [
     {
       "nazwa": "WSPÓLNOTA LOKALOWA C.H. \"KWIATOWA\"",
       "adres": "ul. Bałtycka 13-15 Wrocław",
@@ -22397,15 +22406,6 @@
       "nip": "8992432154",
       "email": "COK@EXIST.COM.PL",
       "data_powstania": "2001-10-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŚLĘŻNA 178-180B\"",
-      "adres": "ul. Ślężna 180A Wrocław",
-      "telefon": "713371284",
-      "regon": "931931781",
-      "nip": "8992233331",
-      "email": "",
-      "data_powstania": "1998-12-03"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŚWIDNICKA 43\"",
@@ -29147,17 +29147,6 @@
       "nip": "8951719427",
       "email": "domus@zarzadca.wrocław.pl",
       "data_powstania": "2000-01-01"
-    }
-  ],
-  "tel-3392228": [
-    {
-      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA-OLGINA\"",
-      "adres": "ul. Grabiszyńska 289 Wrocław",
-      "telefon": "3392228",
-      "regon": "931897251",
-      "nip": "8942454610",
-      "email": "",
-      "data_powstania": "1998-09-15"
     }
   ],
   "tel-717940232": [
@@ -39951,7 +39940,7 @@
       "data_powstania": "2023-10-14"
     }
   ],
-  "maslice-cooperative-building-and-housing": [
+  "spodzielnia-budowlano-mieszkaniowa-maslice": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NA ŚLIWOWEJ\"",
       "adres": "ul. Pilczycka 196D Wrocław",
@@ -46300,7 +46289,7 @@
       "data_powstania": "2001-01-30"
     }
   ],
-  "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia": [
+  "zarosa-barbara-zarzadzanie-nieruchomo-iami-i-ubezpieczenia": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŁÓDZKA 18\"",
       "adres": "ul. Gajowa 74 Wrocław",
@@ -50225,7 +50214,7 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "archicom": [
+  "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"BOTANICA RESIDENCE\" WROCŁAW UL. SIENKIEWICZA 34A, AL.MATEJKI 2 I 2A",
       "adres": "ul. Henryka Sienkiewicza 34A Wrocław",
@@ -50254,6 +50243,15 @@
       "data_powstania": "2009-04-22"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"POD LIPAMI\"",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713944525",
+      "regon": "021991000",
+      "nip": "8952017012",
+      "email": "",
+      "data_powstania": "2012-03-16"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"TUMSKIE OGRODY\" WROCŁAW AL.MATEJKI 2B-2E",
       "adres": "al. Jana Matejki 2B Wrocław",
       "telefon": "713941771",
@@ -50263,6 +50261,24 @@
       "data_powstania": "2014-04-14"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA JAGIELLOŃCZYKA 36",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713944525",
+      "regon": "022048722",
+      "nip": "8952018336",
+      "email": "KON-PARTNER@WP.PL",
+      "data_powstania": "2012-11-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KĘTRZYŃSKA 35",
+      "adres": "ul. Kętrzyńska 35 Wrocław",
+      "telefon": "713944525",
+      "regon": "022154654",
+      "nip": "8952023277",
+      "email": "kon-partner@wp.pl",
+      "data_powstania": "2013-04-26"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DASZYŃSKIEGO 45",
       "adres": "ul. Bolesława Chrobrego 2 Wrocław",
       "telefon": "713941771",
@@ -50270,6 +50286,24 @@
       "nip": "8981942785",
       "email": "BARTOSZ.ZAKRZEWSKI@KON-PARTNER.PL",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHROBREGO 2",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713379460",
+      "regon": "932235629",
+      "nip": "8981926651",
+      "email": "PARTNER00000@WP.PL",
+      "data_powstania": "2000-08-17"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.GWARNA 11",
+      "adres": "ul. Bolesława Chrobrego 2 Wrocław",
+      "telefon": "605830309",
+      "regon": "932805995",
+      "nip": "8971673668",
+      "email": "kon-partner@wp.pl",
+      "data_powstania": "2002-03-08"
     }
   ],
   "r-group-company": [
@@ -53228,6 +53262,17 @@
       "nip": "8992814832",
       "email": "STANULEWICZ@INTERIA.PL",
       "data_powstania": "2017-02-27"
+    }
+  ],
+  "wspolnota-mieszkaniowa": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŚLĘŻNA 178-180B\"",
+      "adres": "ul. Ślężna 180A Wrocław",
+      "telefon": "713371284",
+      "regon": "931931781",
+      "nip": "8992233331",
+      "email": "",
+      "data_powstania": "1998-12-03"
     }
   ],
   "c-w-budmat-spoka-z-ograniczona-odpowiedzialno-ia": [
@@ -56780,53 +56825,6 @@
       "nip": "8951990035",
       "email": "BIURO@WROCLAWSKIDOM.PL",
       "data_powstania": "2010-08-31"
-    }
-  ],
-  "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"POD LIPAMI\"",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713944525",
-      "regon": "021991000",
-      "nip": "8952017012",
-      "email": "",
-      "data_powstania": "2012-03-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA JAGIELLOŃCZYKA 36",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713944525",
-      "regon": "022048722",
-      "nip": "8952018336",
-      "email": "KON-PARTNER@WP.PL",
-      "data_powstania": "2012-11-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KĘTRZYŃSKA 35",
-      "adres": "ul. Kętrzyńska 35 Wrocław",
-      "telefon": "713944525",
-      "regon": "022154654",
-      "nip": "8952023277",
-      "email": "kon-partner@wp.pl",
-      "data_powstania": "2013-04-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHROBREGO 2",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713379460",
-      "regon": "932235629",
-      "nip": "8981926651",
-      "email": "PARTNER00000@WP.PL",
-      "data_powstania": "2000-08-17"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.GWARNA 11",
-      "adres": "ul. Bolesława Chrobrego 2 Wrocław",
-      "telefon": "605830309",
-      "regon": "932805995",
-      "nip": "8971673668",
-      "email": "kon-partner@wp.pl",
-      "data_powstania": "2002-03-08"
     }
   ],
   "tel-713252784": [
