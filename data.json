@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07 15:11:01",
+  "generated_at": "2026-06-07 15:15:48",
   "total": 328,
   "sources": {
     "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\maps\\zarzadcy_wroclaw_full_details.json",
-    "gus_csv": "dane/csv/zarzadcy-gus-wroclaw-portal.csv",
+    "gus_csv": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\csv\\zarzadcy-gus-wroclaw.csv",
     "gus_maps": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\maps\\zarzadcy_gus_maps.json"
   },
   "results": [
@@ -132,7 +132,7 @@
     },
     {
       "place_id": "ChIJIbt5RHXCD0cRMxotuaOEBbc",
-      "name": "Kompleksowa Obsługa Nieruchomości \"Partner\" Bartosz Zakrzewski",
+      "name": "Archicom Holding",
       "address": "MidPoint71, Powstańców Śląskich 9, 53-332 Wrocław, Polska",
       "phone": "71 785 81 41",
       "website": "https://www.archicom.pl/?utm_source=googlemaps&utm_medium=organic&utm_campaign=wizytowka-wroclaw-salon",
@@ -189,28 +189,23 @@
         }
       ],
       "latest_review_ts": 1764181707,
-      "id": "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski",
+      "id": "archicom",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
-          "713941771",
-          "713944525",
-          "713379460",
-          "605830309"
+          "713941771"
         ],
         "emails": [
-          "BARTOSZ.ZAKRZEWSKI@ARCHICOM.PL",
-          "kon-partner@wp.pl",
-          "PARTNER00000@WP.PL"
+          "BARTOSZ.ZAKRZEWSKI@ARCHICOM.PL"
         ],
         "website": "https://archicom.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 10
+        "wspolnoty_count": 5
       },
-      "wspolnoty_count": 10
+      "wspolnoty_count": 5
     },
     {
       "place_id": "ChIJqenHVmXCD0cRHRr6WYFWcng",
@@ -2552,7 +2547,7 @@
         }
       ],
       "latest_review_ts": 1727868372,
-      "id": "domestia-zarzadzanie-nieruchomo-iami",
+      "id": "domestia",
       "sources": [
         "gus",
         "maps"
@@ -3584,9 +3579,21 @@
       "latest_review_ts": 1670333291,
       "id": "agal-zarzadzanie-nieruchomo-iami-szczygie-h",
       "sources": [
+        "gus",
         "maps"
       ],
-      "wspolnoty_count": 0
+      "gus": {
+        "phones": [
+          "605313062"
+        ],
+        "emails": [
+          "agal@agal-nieruchomości.pl"
+        ],
+        "website": "https://agal-nieruchomosci.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 3
+      },
+      "wspolnoty_count": 3
     },
     {
       "place_id": "ChIJwz5nrLLpD0cRkuoIPcYeQbA",
@@ -3903,7 +3910,7 @@
         }
       ],
       "latest_review_ts": 1768153400,
-      "id": "przemysaw-witczak-apw-zarzadzanie-nieruchomo-iami",
+      "id": "dtd-nieruchomo-i-jakub-romanowski",
       "sources": [
         "gus",
         "maps"
@@ -3911,25 +3918,16 @@
       "gus": {
         "phones": [
           "887039555",
-          "887093555",
-          "713281439",
-          "713486753",
-          "483486753",
-          "692891830",
-          "713283667"
+          "887093555"
         ],
         "emails": [
-          "zarzadca.dtd.nieruchomosci@gmail.com",
-          "JADWIGAKOLACZ@WP.PL",
-          "BIURO@APW.WROCLAW.PL",
-          "biuro@apw.wroclaw",
-          "piastowska30@gmail.com"
+          "zarzadca.dtd.nieruchomosci@gmail.com"
         ],
         "website": "https://www.gowork.pl/dtd-nieruchomosci-jakub-romanowski,22039971/dane-kontaktowe-firmy",
-        "confidence": "wysoka",
-        "wspolnoty_count": 77
+        "confidence": "niska",
+        "wspolnoty_count": 3
       },
-      "wspolnoty_count": 77
+      "wspolnoty_count": 3
     },
     {
       "place_id": "ChIJjQrQKCroD0cRky4JCzXt-e8",
@@ -5258,47 +5256,6 @@
       "wspolnoty_count": 0
     },
     {
-      "place_id": "ChIJ60AFRRfCD0cRtcqIqstrERk",
-      "name": "Agal. Zarządzanie nieruchomościami. Szczygieł H.",
-      "address": "Żelazna 54, 53-429 Wrocław, Polska",
-      "phone": "71 799 95 66",
-      "website": "http://www.agal-nieruchomosci.pl/",
-      "rating": 5,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=1806343448035904181",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.0837277,
-      "lng": 17.0733889,
-      "reviews": [
-        {
-          "author": "Adam Stolarski",
-          "rating": 5,
-          "timestamp": 1635410162,
-          "date": "28.10.2021",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1635410162,
-      "id": "agal-zarzadzanie-nieruchomo-iami",
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "gus": {
-        "phones": [
-          "605313062"
-        ],
-        "emails": [
-          "agal@agal-nieruchomości.pl"
-        ],
-        "website": "https://agal-nieruchomosci.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 3
-      },
-      "wspolnoty_count": 3
-    },
-    {
       "place_id": "ChIJ9b7_h1XCD0cRECJOFutT4YY",
       "name": "Perfect Place Biuro Obrotu Nieruchomościami",
       "address": "Krakowska 52/lok. 6, 50-425 Wrocław, Polska",
@@ -6074,7 +6031,7 @@
         }
       ],
       "latest_review_ts": 1772646741,
-      "id": "complexcity-zarzadzanie-nieruchomo-iami",
+      "id": "complexcity",
       "sources": [
         "gus",
         "maps"
@@ -6151,7 +6108,7 @@
         }
       ],
       "latest_review_ts": 1771958100,
-      "id": "imperium-zarzadzanie-nieruchomo-iami",
+      "id": "imperium-zarzadzanie",
       "sources": [
         "gus",
         "maps"
@@ -6496,7 +6453,7 @@
         }
       ],
       "latest_review_ts": 1772020219,
-      "id": "herdom",
+      "id": "herdom-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
@@ -6573,7 +6530,7 @@
         }
       ],
       "latest_review_ts": 1770293511,
-      "id": "adm-system",
+      "id": "zarzadzanie-nieruchomo-iami-adm-system-magorzata-rauch-janowicz",
       "sources": [
         "gus",
         "maps"
@@ -6652,7 +6609,7 @@
         }
       ],
       "latest_review_ts": 1763555210,
-      "id": "domus",
+      "id": "domus-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
@@ -6738,6 +6695,7 @@
       "gus": {
         "phones": [
           "713613713",
+          "713619713",
           "717726315",
           "717726300",
           "71932205203",
@@ -6748,14 +6706,14 @@
           "717726310"
         ],
         "emails": [
-          "ATENA@3C.PL",
-          "BIURO@ATENA-HJW.PL"
+          "BIURO@ATENA-HJW.PL",
+          "ATENA@3C.PL"
         ],
         "website": "https://atena-hjw.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 640
+        "wspolnoty_count": 651
       },
-      "wspolnoty_count": 640
+      "wspolnoty_count": 651
     },
     {
       "place_id": "ChIJ3wxzAXPDD0cRAXSg48yx0BU",
@@ -6888,18 +6846,20 @@
       ],
       "gus": {
         "phones": [
+          "717746918",
           "717746938",
           "717746935",
           "717746917"
         ],
         "emails": [
+          "COK@EXIST.COM.PL",
           "EXIST@HOME.PL"
         ],
         "website": "https://exist.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 4
+        "wspolnoty_count": 14
       },
-      "wspolnoty_count": 4
+      "wspolnoty_count": 14
     },
     {
       "place_id": "ChIJ64TvbwzCD0cRGfv6c6N9eKQ",
@@ -6960,23 +6920,30 @@
         }
       ],
       "latest_review_ts": 1733231145,
-      "id": "imeritum-zarzadzanie-nieruchomo-iami",
+      "id": "pu-meritum-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
-          "713026921"
+          "717836122",
+          "713026921",
+          "717838836",
+          "717836121",
+          "713488171",
+          "713281512"
         ],
         "emails": [
-          "biuro@imeritum.pl"
+          "MERITUMAT@WP.PL",
+          "biuro@imeritum.pl",
+          "MARITUMAT@WP.PL"
         ],
         "website": "https://imeritum.pl",
-        "confidence": "niska",
-        "wspolnoty_count": 13
+        "confidence": "wysoka",
+        "wspolnoty_count": 32
       },
-      "wspolnoty_count": 13
+      "wspolnoty_count": 32
     },
     {
       "place_id": "ChIJfe-bxG_CD0cRC8MLIxPpD44",
@@ -7102,7 +7069,7 @@
         }
       ],
       "latest_review_ts": 1771502249,
-      "id": "promena-zarzadzanie-nieruchomo-iami",
+      "id": "promena",
       "sources": [
         "gus",
         "maps"
@@ -7404,7 +7371,7 @@
         }
       ],
       "latest_review_ts": 1769067644,
-      "id": "mah-zarzadzanie-nieruchomo-iami-magdalena-haasinska",
+      "id": "mah-zarzadzanie-nieruchomo-iami-m-haasinska",
       "sources": [
         "gus",
         "maps"
@@ -7477,7 +7444,7 @@
         }
       ],
       "latest_review_ts": 1737708700,
-      "id": "pisaniak",
+      "id": "zarzadzanie-nieruchomo-iami-przemysaw-pisaniak",
       "sources": [
         "gus",
         "maps"
@@ -7718,6 +7685,7 @@
       "gus": {
         "phones": [
           "713399200",
+          "713482148",
           "773399200",
           "7133992008",
           "71339900"
@@ -7727,9 +7695,9 @@
         ],
         "website": "https://www.fontis.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 31
+        "wspolnoty_count": 572
       },
-      "wspolnoty_count": 31
+      "wspolnoty_count": 572
     },
     {
       "place_id": "ChIJcx_HlSLpD0cRP_xx8ROEMFM",
@@ -7860,81 +7828,6 @@
         "maps"
       ],
       "wspolnoty_count": 0
-    },
-    {
-      "place_id": "ChIJvYGhMBjoD0cR4d9GoD3rsyA",
-      "name": "FONTIS Zarządzanie Nieruchomościami",
-      "address": "Jezierskiego 14, 51-691 Wrocław, Polska",
-      "phone": "71 348 21 48",
-      "website": "http://www.fontis.com.pl/",
-      "rating": 3.4,
-      "reviews_count": 118,
-      "maps_url": "https://maps.google.com/?cid=2356485679959433185",
-      "status": "OPERATIONAL",
-      "hours": [
-        "poniedziałek: 08:00–16:00",
-        "wtorek: 08:00–16:00",
-        "środa: 08:00–16:00",
-        "czwartek: 08:00–16:00",
-        "piątek: 08:00–16:00",
-        "sobota: Zamknięte",
-        "niedziela: Zamknięte"
-      ],
-      "lat": 51.1122653,
-      "lng": 17.0942915,
-      "reviews": [
-        {
-          "author": "magdalena tułodziecka",
-          "rating": 1,
-          "timestamp": 1763460379,
-          "date": "18.11.2025",
-          "text": "Z przykrością stwierdzam, że współpraca z zarządcą nieruchomości Fontis jest bardzo niezadowalająca .Pomimo wielokrotnych zgłoszeń usterek ,pozostają nierozwiązane przez długi czas lub w ogóle brak jest reakcji  .Podejmowane działania ,jeśli już są bywają opóźnione i nieefektywne .Zarządcą nie wywiązuje się należycie ze swoich obowiązków.NIE  POLECAM"
-        },
-        {
-          "author": "Tomek Wojtyłko",
-          "rating": 1,
-          "timestamp": 1769183803,
-          "date": "23.01.2026",
-          "text": "Unikajcie tej spółdzielni szerokim łukiem. Tylko potrafią brać nic nie dając od siebie. Nie polecam wieczne mamy u nas z nimi problemy"
-        },
-        {
-          "author": "Magdalena Palczewska",
-          "rating": 1,
-          "timestamp": 1757664686,
-          "date": "12.09.2025",
-          "text": "Obsługa klienta, właściwie członka wspólnoty, to jakiś żart w tej firmie. Nie są pomocni, mało tego przez klika dni nie otrzymałam odpowiedzi w mojej sprawie. Już kiedyś miałam sprawę do rozstrzygnięcia we wrocławskim oddziale - również nie pomogli. Jakaż naiwność mną kierowała, że tym razem będzie inaczej. Żyjemy w XXI wieku, a oni jak za króla Ćwieczka - trzeba się pofatygować, żeby dostać wgląd do dokumentacji całego budynku, bo przecież cyfryzacja dokumentacji to bardzo niewygodna robota dla zarządcy.\nDodam jeszcze, że dbanie o nieruchomość, też im nie bardzo wychodzi.\nOby jak najdalej od "
-        },
-        {
-          "author": "Borys Stefańczak",
-          "rating": 5,
-          "timestamp": 1766496222,
-          "date": "23.12.2025",
-          "text": "Zgłosiłem zepsuty zamek w drzwiach do bramy. Panowie przyjechali po 2h i wszystko sprawnie wymienili. Dziękuję !"
-        },
-        {
-          "author": "Aga To",
-          "rating": 1,
-          "timestamp": 1749662310,
-          "date": "11.06.2025",
-          "text": "Firma 3 razy Nie.\nNie odbieramy telefonu.\nNie odpisujemy na maile.\nNie mamy czasu.\nNiestety od roku załatwienie 3 spraw naszej wspólnot graniczy z cudem. Doszło do tego że sami zaczynamy powoli wykonywać obowiązki zarządcy i jeszcze im za to płacimy. Zmiany te nastąpiły po zmianach personalnych. Księgowość wymienia się co 6 miesięcy. Fontis ul.Jezierskiego"
-        }
-      ],
-      "latest_review_ts": 1769183803,
-      "id": "fontis",
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "gus": {
-        "phones": [
-          "713482148"
-        ],
-        "emails": [],
-        "website": "fontis.com.pl",
-        "confidence": "niska",
-        "wspolnoty_count": 541
-      },
-      "wspolnoty_count": 541
     },
     {
       "place_id": "ChIJq9pJ_OXpD0cRUDVktST2mGM",
@@ -8076,7 +7969,7 @@
         }
       ],
       "latest_review_ts": 1758702079,
-      "id": "pu-meritum-zarzadzanie-nieruchomo-iami",
+      "id": "meritum",
       "sources": [
         "gus",
         "maps"
@@ -8084,26 +7977,21 @@
       "gus": {
         "phones": [
           "717806202",
-          "717836122",
-          "717838836",
-          "713027654",
+          "717171420",
           "7117806202",
-          "717806402",
-          "717836121",
-          "713281512"
+          "717806402"
         ],
         "emails": [
           "bok@meritumzarzadca.com.pl",
-          "MERITUMAT@WP.PL",
-          "biuro@imeritum.pl",
+          "biuro@meritum.pl",
           "bok@meritumzarzadzanie.com.pl",
           "BOK@MERITUM.ZARZADCA.COM.PL"
         ],
         "website": "http://meritumzarzadca.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 94
+        "wspolnoty_count": 83
       },
-      "wspolnoty_count": 94
+      "wspolnoty_count": 83
     },
     {
       "place_id": "ChIJz7N6UBzrD0cRs1BOVv-ZKxU",
@@ -8372,7 +8260,7 @@
         }
       ],
       "latest_review_ts": 1766071693,
-      "id": "prime-project-zarzadzanie-nieruchomo-iami",
+      "id": "prime-project",
       "sources": [
         "gus",
         "maps"
@@ -8667,7 +8555,7 @@
         }
       ],
       "latest_review_ts": 1769073705,
-      "id": "dla-wspolnoty-pl-zarzadzanie-nieruchomo-iami-jakub-szpiegowski",
+      "id": "dla-wspolnoty-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
@@ -8746,7 +8634,7 @@
         }
       ],
       "latest_review_ts": 1771884746,
-      "id": "forum-zarzadzanie-nieruchomo-iami",
+      "id": "forum",
       "sources": [
         "gus",
         "maps"
@@ -8818,7 +8706,7 @@
     },
     {
       "place_id": "ChIJSwwnmG_DD0cRZP5muWYfrCA",
-      "name": "ALBA S.A.",
+      "name": "Alba Property Management Spółka z o.o.",
       "address": "plac Powstańców Śląskich 16-18/18, 53-314 Wrocław, Polska",
       "phone": "532 400 252",
       "website": "http://www.alba.com.pl/nieruchomosci",
@@ -8875,7 +8763,7 @@
         }
       ],
       "latest_review_ts": 1756481678,
-      "id": "alba-polska",
+      "id": "alba-property-management-spoka-z-o-o",
       "sources": [
         "gus",
         "maps"
@@ -9029,7 +8917,7 @@
         }
       ],
       "latest_review_ts": 1764149560,
-      "id": "pumaz-zn",
+      "id": "pumaz-stanisaw-olszewski",
       "sources": [
         "gus",
         "maps"
@@ -9090,7 +8978,7 @@
     },
     {
       "place_id": "ChIJBdJNXXXqD0cR7aPY0IDIDDA",
-      "name": "Locator Sp. o.o. property management",
+      "name": "Locator Sp. z o.o. Zarządzanie nieruchomościami",
       "address": "Balonowa 39, 54-129 Wrocław, Polska",
       "phone": "71 367 66 21",
       "website": "http://locator.wroclaw.pl/",
@@ -9147,7 +9035,7 @@
         }
       ],
       "latest_review_ts": 1763063409,
-      "id": "locator",
+      "id": "locator-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
@@ -10972,7 +10860,7 @@
         }
       ],
       "latest_review_ts": 1763365310,
-      "id": "major-domus-zarzadzanie-i-obrot-nieruchomo-iami",
+      "id": "major-domus",
       "sources": [
         "gus",
         "maps"
@@ -11126,7 +11014,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 10
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJd2uk_jjCD0cRfv0bNfVx4Ao",
@@ -11189,25 +11077,13 @@
       "latest_review_ts": 1771563653,
       "id": "atena-hjw-biuro-2",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "713619713"
-        ],
-        "emails": [
-          "BIURO@ATENA-HJW.PL"
-        ],
-        "website": "https://www.atena-hjw.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 11
-      },
-      "wspolnoty_count": 11
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJM-GKIunCD0cR3bnaXiOjnoo",
-      "name": "Wrocławskie Mieszkania sp. z.o.o",
+      "name": "Filia Centum Obsługi Mieszkańca - Wrocławskie Mieszkania Sp. z o. o.",
       "address": "Gazowa 20, 50-513 Wrocław, Polska",
       "phone": "71 333 24 11",
       "website": "https://www.wm.wroc.pl/kontakt/",
@@ -11264,7 +11140,7 @@
         }
       ],
       "latest_review_ts": 1770465379,
-      "id": "wrocawskie-mieszkania",
+      "id": "filia-centum-obsugi-mieszkanca-wrocawskie-mieszkania",
       "sources": [
         "gus",
         "maps"
@@ -11312,6 +11188,50 @@
         "maps"
       ],
       "wspolnoty_count": 0
+    },
+    {
+      "place_id": "ChIJ3ai-p8npD0cRUyDPIVGts1g",
+      "name": "Wspólnota Mieszkaniowa",
+      "address": "Stefana Jaracza 63B, 50-305 Wrocław, Polska",
+      "phone": "71 774 69 18",
+      "website": "",
+      "rating": 5,
+      "reviews_count": 2,
+      "maps_url": "https://maps.google.com/?cid=6391642860140044371",
+      "status": "OPERATIONAL",
+      "hours": [
+        "poniedziałek: 07:30–15:30",
+        "wtorek: 07:30–15:30",
+        "środa: 07:30–15:30",
+        "czwartek: 07:30–15:30",
+        "piątek: 07:30–15:30",
+        "sobota: Zamknięte",
+        "niedziela: Zamknięte"
+      ],
+      "lat": 51.1269013,
+      "lng": 17.0586495,
+      "reviews": [
+        {
+          "author": "Nikodem Golec",
+          "rating": 5,
+          "timestamp": 1645034459,
+          "date": "16.02.2022",
+          "text": "bardzo polecam te osiedle świetna nazwa"
+        },
+        {
+          "author": "Janek Rydel",
+          "rating": 5,
+          "timestamp": 1636742932,
+          "date": "12.11.2021",
+          "text": "Świetne miejsce. Jak u mojej starej"
+        }
+      ],
+      "latest_review_ts": 1645034459,
+      "id": "wspolnota-mieszkaniowa",
+      "sources": [
+        "maps"
+      ],
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJGUObPsTpD0cRqRzB8vJ4tc8",
@@ -14607,6 +14527,81 @@
       "wspolnoty_count": 1
     },
     {
+      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
+      "place_id": "ChIJT1tbUEZNDkcRL0CRPIdQoB4",
+      "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
+      "address": "Wałbrzyska 25/210, 58-100 Świdnica, Poland",
+      "phone": "531 543 535",
+      "website": "https://share.google/KgWsy14XulyN1q8wi",
+      "rating": 5,
+      "reviews_count": 12,
+      "maps_url": "https://maps.google.com/?cid=2206852359178502191",
+      "status": "OPERATIONAL",
+      "hours": [
+        "Monday: 8:00 AM – 3:00 PM",
+        "Tuesday: 8:00 AM – 3:00 PM",
+        "Wednesday: 8:00 AM – 3:00 PM",
+        "Thursday: 8:00 AM – 3:00 PM",
+        "Friday: 9:00 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "lat": 50.8374813,
+      "lng": 16.4790342,
+      "reviews": [
+        {
+          "author": "K U S E K",
+          "rating": 5,
+          "timestamp": 1771701556,
+          "date": "21.02.2026",
+          "text": "I'm very pleased with the collaboration. All matters are handled promptly, and communication with the owners is seamless. They demonstrate a high level of commitment and care for their residents. I highly recommend them."
+        },
+        {
+          "author": "Julka Kłusek",
+          "rating": 5,
+          "timestamp": 1771622807,
+          "date": "20.02.2026",
+          "text": "A very good manager! Mr. Rafał is always reliable. Great service. I recommend this company!!!"
+        },
+        {
+          "author": "Darek Kłusek",
+          "rating": 5,
+          "timestamp": 1771702258,
+          "date": "21.02.2026",
+          "text": "Great collaboration, and above all, excellent communication with Mr. Rafał. I highly recommend him!"
+        },
+        {
+          "author": "Renata",
+          "rating": 5,
+          "timestamp": 1643307902,
+          "date": "27.01.2022",
+          "text": "Very good manager, professional service, great contact. I recommend it!!!!!"
+        },
+        {
+          "author": "Cwieku",
+          "rating": 5,
+          "timestamp": 1613857631,
+          "date": "20.02.2021",
+          "text": "Full professionalism, I am pleasantly surprised"
+        }
+      ],
+      "latest_review_ts": 1771702258,
+      "gus": {
+        "phones": [
+          "601754696"
+        ],
+        "emails": [],
+        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
       "id": "broker-nieruchomo-i",
       "place_id": "",
       "name": "Broker Nieruchomości Sp. z o.o.",
@@ -15005,12 +15000,12 @@
       "wspolnoty_count": 39
     },
     {
-      "id": "eska-biuro-zarzadzania-nieruchomo-iami-krzysztof-sosna",
+      "id": "y-a-r-d",
       "place_id": "",
       "name": "eSKa Biuro Zarządzania Nieruchomościami Krzysztof Sosna",
       "address": "",
-      "phone": "501276180",
-      "website": "",
+      "phone": "713482473",
+      "website": "https://geoportal.wroclaw.pl/poi/poi/372",
       "rating": 0,
       "reviews_count": 0,
       "maps_url": "",
@@ -15022,19 +15017,17 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "501276180"
+          "713556109"
         ],
-        "emails": [
-          "eska-zarzadzanie@wp.pl"
-        ],
-        "website": "",
+        "emails": [],
+        "website": "https://geoportal.wroclaw.pl/poi/poi/411",
         "confidence": "niska",
-        "wspolnoty_count": 4
+        "wspolnoty_count": 9
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 4
+      "wspolnoty_count": 9
     },
     {
       "id": "ewa-hoffmann-zarzadca-nieruchomo-i",
@@ -15247,7 +15240,7 @@
     {
       "id": "kancelaria-patronus",
       "place_id": "",
-      "name": "Kancelaria Patronus (firma prawna – nie zarządca nieruchomości)",
+      "name": "Wspólnota Mieszkaniowa ,,Mintpark''",
       "address": "",
       "phone": "510876702",
       "website": "https://patronuswroclaw.pl",
@@ -15308,6 +15301,50 @@
         "gus"
       ],
       "wspolnoty_count": 8
+    },
+    {
+      "id": "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski",
+      "place_id": "ChIJ__-vaN3pD0cRsZ2NoxvBTRI",
+      "name": "Kompleksowa Obsługa Nieruchomości \"Partner\" Bartosz Zakrzewski",
+      "address": "Bolesława Chrobrego 2, 50-254 Wrocław, Poland",
+      "phone": "71 394 17 71",
+      "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "https://maps.google.com/?cid=1318922590341668273",
+      "status": "OPERATIONAL",
+      "hours": [
+        "Monday: 8:00 AM – 3:30 PM",
+        "Tuesday: 8:00 AM – 3:30 PM",
+        "Wednesday: 8:00 AM – 3:30 PM",
+        "Thursday: 8:00 AM – 3:30 PM",
+        "Friday: 8:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "lat": 51.1206531,
+      "lng": 17.0348668,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713944525",
+          "713379460",
+          "605830309"
+        ],
+        "emails": [
+          "kon-partner@wp.pl",
+          "PARTNER00000@WP.PL"
+        ],
+        "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
+        "confidence": "niska",
+        "wspolnoty_count": 5
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 5
     },
     {
       "id": "kompleksowa-obsuga-osiedla",
@@ -16791,9 +16828,9 @@
       "wspolnoty_count": 3
     },
     {
-      "id": "wspolnota-mieszkaniowa-dembowskiego-48",
+      "id": "tel-510056636",
       "place_id": "",
-      "name": "Wspólnota Mieszkaniowa Dembowskiego 48 (wspólnota – nie zarządca)",
+      "name": "Wspólnota Mieszkaniowa Przy Ul.Dembowskiego 48",
       "address": "",
       "phone": "510056636",
       "website": "",
@@ -16808,26 +16845,56 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "510056636",
-          "504173550"
+          "510056636"
         ],
         "emails": [
-          "wmdembowskiego48@gmail.com",
-          "w.grunwaldzka100@wp.pl"
+          "wmdembowskiego48@gmail.com"
         ],
         "website": "",
         "confidence": "niska",
-        "wspolnoty_count": 2
+        "wspolnoty_count": 1
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 2
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-504173550",
+      "place_id": "",
+      "name": "Wspólnota Mieszkaniowa Przy Ul.Grunwaldzkiej 100",
+      "address": "",
+      "phone": "504173550",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "504173550"
+        ],
+        "emails": [
+          "w.grunwaldzka100@wp.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "wspolnota-mieszkaniowa-zwycieska-45",
       "place_id": "",
-      "name": "Wspólnota Mieszkaniowa Zwycięska 45 (wspólnota – nie zarządca)",
+      "name": "Wspólnota Mieszkaniowa Zwycięska 45",
       "address": "",
       "phone": "713881300",
       "website": "https://wmz45.pl",
@@ -16857,83 +16924,11 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "y-a-r-d",
-      "place_id": "",
-      "name": "Y.A.R.D sp. z o.o.",
-      "address": "",
-      "phone": "713482473",
-      "website": "https://geoportal.wroclaw.pl/poi/poi/372",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "",
-      "status": "",
-      "hours": [],
-      "lat": null,
-      "lng": null,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "gus": {
-        "phones": [
-          "713482473",
-          "713556109"
-        ],
-        "emails": [
-          "eska-zarzadzanie@wp.pl"
-        ],
-        "website": "https://geoportal.wroclaw.pl/poi/poi/372",
-        "confidence": "niska",
-        "wspolnoty_count": 20
-      },
-      "sources": [
-        "gus"
-      ],
-      "wspolnoty_count": 20
-    },
-    {
-      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-i-ubezpieczenia",
-      "place_id": "",
-      "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
-      "address": "",
-      "phone": "601754696",
-      "website": "https://share.google/gzNk6dzWQjqlw6BXl",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "",
-      "status": "",
-      "hours": [],
-      "lat": null,
-      "lng": null,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "gus": {
-        "phones": [
-          "601754696",
-          "717233636",
-          "746487171",
-          "713488171",
-          "713486754",
-          "713466753"
-        ],
-        "emails": [
-          "bpr.dn@wp.pl",
-          "MARITUMAT@WP.PL",
-          "BIURO@APW.WROCLAW.PL"
-        ],
-        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 41
-      },
-      "sources": [
-        "gus"
-      ],
-      "wspolnoty_count": 41
-    },
-    {
       "id": "zarzadca",
       "place_id": "",
-      "name": "Zarządca (tel. 3424225)",
+      "name": "Zarządca (tel. 126889014)",
       "address": "",
-      "phone": "3424225",
+      "phone": "126889014",
       "website": "",
       "rating": 0,
       "reviews_count": 0,
@@ -16946,10 +16941,7 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "3392228",
-          "173538610",
           "713420021",
-          "126889014",
           "713420019"
         ],
         "emails": [
@@ -16958,12 +16950,12 @@
         ],
         "website": "https://zarzadca.wroc.pl/",
         "confidence": "niska",
-        "wspolnoty_count": 172
+        "wspolnoty_count": 169
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 172
+      "wspolnoty_count": 169
     },
     {
       "id": "zarzadzanie-nieruchomo-iami-nasze-domy",

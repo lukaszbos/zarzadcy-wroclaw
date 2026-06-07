@@ -1,5 +1,5 @@
 {
-  "imperium-zarzadzanie-nieruchomo-iami": [
+  "imperium-zarzadzanie": [
     {
       "nazwa": "OSIEDLE KWIATOWE",
       "adres": "ul. Podwale 1a Wrocław",
@@ -869,7 +869,7 @@
       "data_powstania": "2024-04-15"
     }
   ],
-  "pu-meritum-zarzadzanie-nieruchomo-iami": [
+  "meritum": [
     {
       "nazwa": "\" KOŚCIUSZKI 133 WE WROCŁAWIU\"",
       "adres": "ul. Tadeusza Kościuszki 133 Wrocław",
@@ -988,24 +988,6 @@
       "data_powstania": "2015-10-08"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KDM\" - PL. T.KOŚCIUSZKI 6",
-      "adres": "pl. Tadeusza Kościuszki 6 Wrocław",
-      "telefon": "717836122",
-      "regon": "932180302",
-      "nip": "8971642739",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KOMANDORSKA\"",
-      "adres": "ul. Komandorska 53 Wrocław",
-      "telefon": "717838836",
-      "regon": "931955184",
-      "nip": "8992233644",
-      "email": "",
-      "data_powstania": "1998-12-16"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KRUPNICZA 11\"",
       "adres": "ul. Krupnicza 11 Wrocław",
       "telefon": "717806202",
@@ -1042,15 +1024,6 @@
       "data_powstania": "2016-04-07"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PASTEURA 15A\"",
-      "adres": "wyb. Ludwika Pasteura 15A Wrocław",
-      "telefon": "717836122",
-      "regon": "932207260",
-      "nip": "8981951100",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"POD KASZTANAMI\"",
       "adres": "ul. Robotnicza 20 Wrocław",
       "telefon": "717806202",
@@ -1067,24 +1040,6 @@
       "nip": "8982252137",
       "email": "BOK@MERITUMZARZADCA.COM.PL",
       "data_powstania": "2019-05-30"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"TĘCZOWA 2\"",
-      "adres": "ul. Tęczowa 2 Wrocław",
-      "telefon": "717836122",
-      "regon": "932181968",
-      "nip": "8971640410",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WYSZYŃSKIEGO 136\"",
-      "adres": "ul. kard. Stefana Wyszyńskiego 136 Wrocław",
-      "telefon": "717836122",
-      "regon": "932210598",
-      "nip": "8981946441",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WŁODKOWICA 11\"",
@@ -1213,22 +1168,22 @@
       "data_powstania": "2018-12-21"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DROHOBYCKIEJ 25-29 WROCŁAW",
-      "adres": "ul. Drohobycka 25-29 Wrocław",
-      "telefon": "717836122",
-      "regon": "020254736",
-      "nip": "8942862562",
-      "email": "",
-      "data_powstania": "2005-05-04"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. BOROWSKIEJ 270",
+      "adres": "ul. Borowska 270 Wrocław",
+      "telefon": "717171420",
+      "regon": "368681880",
+      "nip": "8992833752",
+      "email": "biuro@meritum.pl",
+      "data_powstania": "2017-09-26"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GAGARINA 46-60",
-      "adres": "ul. Jurija Gagarina 46-60 Wrocław",
-      "telefon": "713027654",
-      "regon": "386199525",
-      "nip": "8943155051",
-      "email": "BIURO@MERITUM.PL",
-      "data_powstania": "2020-05-11"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DROHOBYCKIEJ 34-36",
+      "adres": "pl. Orląt Lwowskich 20 C Wrocław",
+      "telefon": "717171420",
+      "regon": "021501421",
+      "nip": "8971774487",
+      "email": "",
+      "data_powstania": "2011-04-12"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GRABISZYŃSKIEJ 73",
@@ -1319,15 +1274,6 @@
       "nip": "8971641349",
       "email": "BOK@MERITUMZARZADCA.COM.PL",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GRABISZYŃSKIEJ 216-224, WROCŁAW",
-      "adres": "ul. Grabiszyńska 216-224 Wrocław",
-      "telefon": "717838836",
-      "regon": "020512888",
-      "nip": "8942899594",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "2007-04-26"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GRÓJECKIEJ 10 B",
@@ -1456,31 +1402,31 @@
       "data_powstania": "1994-06-24"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 10",
-      "adres": "ul. Ksawerego Liskego 10 Wrocław",
-      "telefon": "717836122",
-      "regon": "932199218",
-      "nip": "8981930842",
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KUNICKIEGO 5-7 WE WROCŁAWIU",
+      "adres": "pl. Orląt Lwowskich 20C Wrocław",
+      "telefon": "717171420",
+      "regon": "932641080",
+      "nip": "8942671572",
+      "email": "meritumat@wp.pl",
+      "data_powstania": "1998-05-16"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 12",
+      "adres": "ul. Francuska 42 Wrocław",
+      "telefon": "717171420",
+      "regon": "932199230",
+      "nip": "8981930799",
       "email": "",
       "data_powstania": "1994-06-24"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 4 WE WROCŁAWIU",
-      "adres": "ul. Ksawerego Liskego 4 Wrocław",
-      "telefon": "713281512",
-      "regon": "932203300",
-      "nip": "8981939441",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "2000-05-22"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.M.REJA 66 WROCŁAW",
-      "adres": "ul. Mikołaja Reja 66 Wrocław",
-      "telefon": "717836122",
-      "regon": "930860866",
-      "nip": "8981480830",
-      "email": "MERITUM@WP.PL",
-      "data_powstania": "1996-07-26"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MOKRZAŃSKIEJ 24,24A,24B",
+      "adres": "ul. Mokrzańska 24,24A,24B Wrocław",
+      "telefon": "717171420",
+      "regon": "932804174",
+      "nip": "8942748547",
+      "email": "",
+      "data_powstania": "1994-07-12"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NORWIDA 26",
@@ -1499,15 +1445,6 @@
       "nip": "8942617029",
       "email": "BOK@MERIUMZARZADCA.COM.PL",
       "data_powstania": "1998-11-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ODRZAŃSKIEJ 1",
-      "adres": "ul. Odrzańska 1 Wrocław",
-      "telefon": "713027654",
-      "regon": "932162362",
-      "nip": "8971644945",
-      "email": "BIURO@IMERITUM.P[L",
-      "data_powstania": "1994-06-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PIŁSUDSKIEGO 40 WE WROCŁAWIU",
@@ -1537,22 +1474,13 @@
       "data_powstania": "1994-06-24"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SIENKIEWICZA 89",
-      "adres": "ul. Henryka Sienkiewicza 89 Wrocław",
-      "telefon": "717836121",
-      "regon": "932207640",
-      "nip": "8981952341",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 25",
-      "adres": "ul. Wesoła 25 Wrocław",
-      "telefon": "717836122",
-      "regon": "932239455",
-      "nip": "8992385041",
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 71",
+      "adres": "pl. Orląt Lwowskich 20C Wrocław",
+      "telefon": "717171420",
+      "regon": "932193730",
+      "nip": "8992378785",
       "email": "",
-      "data_powstania": "1994-06-24"
+      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WYSOKIEJ 7",
@@ -1600,13 +1528,13 @@
       "data_powstania": "1995-01-01"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASZTELAŃSKA 7A, WROCŁAW",
-      "adres": "ul. Kasztelańska 7A Wrocław",
-      "telefon": "717836122",
-      "regon": "932931576",
-      "nip": "8951796095",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "2001-09-27"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŚW.WINCENTEGO 10",
+      "adres": "pl. Orląt Lwowskich 20 C Wrocław",
+      "telefon": "717171420",
+      "regon": "932212605",
+      "nip": "8981921151",
+      "email": "",
+      "data_powstania": "1994-06-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. TRZEBNICKA 38",
@@ -1616,15 +1544,6 @@
       "nip": "8982063270",
       "email": "bok@meritumzarzadca.com.pl",
       "data_powstania": "2005-02-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.DROHOBYCKA 41-43, WROCŁAW",
-      "adres": "ul. Drohobycka 41-43 Wrocław",
-      "telefon": "717836122",
-      "regon": "020166216",
-      "nip": "8942859175",
-      "email": "",
-      "data_powstania": "2005-10-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.GRABISZYŃSKA 101 WE WROCŁAWIU",
@@ -1654,40 +1573,13 @@
       "data_powstania": "1995-01-01"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OPOROWSKA 12 WE WROCŁAWIU",
-      "adres": "ul. Oporowska 12 Wrocław",
-      "telefon": "717838836",
-      "regon": "932151660",
-      "nip": "8942619471",
-      "email": "MERITUM@WP.PL",
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WE WROCŁAWIU UL.PERECA 54",
+      "adres": "ul. Francuska 42 Wrocław",
+      "telefon": "717171420",
+      "regon": "932158544",
+      "nip": "8942618589",
+      "email": "",
       "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OŁTASZYŃSKA 94-98 WROCŁAW",
-      "adres": "ul. Ołtaszyńska 96 Wrocław",
-      "telefon": "717836122",
-      "regon": "932970984",
-      "nip": "8992499796",
-      "email": "MERITUMAT@WP.PL",
-      "data_powstania": "2003-12-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.SIOSTRZANA 3-5",
-      "adres": "pl. Orląt Lwowskich 20C Wrocław",
-      "telefon": "713027654",
-      "regon": "020719490",
-      "nip": "8992634975",
-      "email": "biuro@imeritum.pl",
-      "data_powstania": "2008-03-27"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ZIELIŃSKIEGO 53-53A",
-      "adres": "pl. Orląt Lwowskich 20C Wrocław",
-      "telefon": "713027654",
-      "regon": "932881039",
-      "nip": "8992466845",
-      "email": "biuro@imeritum.pl",
-      "data_powstania": "2002-10-29"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL. SUCHA 15",
@@ -1705,6 +1597,15 @@
       "regon": "932106903",
       "nip": "8951719479",
       "email": "bok@meritumzarzadca.com.pl",
+      "data_powstania": "2000-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.KLECZKOWSKA 48",
+      "adres": "pl. Orląt Lwowskich 20C Wrocław",
+      "telefon": "717171420",
+      "regon": "932107802",
+      "nip": "8951719226",
+      "email": "",
       "data_powstania": "2000-01-01"
     },
     {
@@ -12221,6 +12122,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA FIOŁKOWA 1-3 WYSOKA",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "364206283",
+      "nip": "8992790505",
+      "email": "BIURO@HJW.PL",
+      "data_powstania": "2016-02-19"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA  PRZY UL.BOLESŁAWA CHROBREGO 19 WE WROCŁAWIU",
       "adres": "ul. Bolesława Chrobrego 19 Wrocław",
       "telefon": "717726315",
@@ -12246,6 +12156,15 @@
       "nip": "8951707335",
       "email": "biuro@atena-hjw.pl",
       "data_powstania": "1999-04-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRABISZYŃSKA 141 WROCŁAW",
+      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
+      "telefon": "713619713",
+      "regon": "388380737",
+      "nip": "8992895799",
+      "email": "BIURO@ATENA-HJW.PL",
+      "data_powstania": "2021-03-08"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRY UL.POWSTAŃCÓW ŚLĄSKICH 97",
@@ -12518,6 +12437,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY PL. POWSTAŃCÓW ŚLĄSKICH 10",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932656874",
+      "nip": "8992410129",
+      "email": "",
+      "data_powstania": "2000-10-19"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY PL.HIRSZFELDA 10",
       "adres": "al. gen. Józefa Hallera 14B Wrocław",
       "telefon": "713613713",
@@ -12725,6 +12653,24 @@
       "data_powstania": "2002-02-27"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KARMELKOWEJ 84/86/88",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932824739",
+      "nip": "8992458231",
+      "email": "",
+      "data_powstania": "2002-06-25"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KRUCZEJ 31",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932844133",
+      "nip": "8992463798",
+      "email": "",
+      "data_powstania": "2002-08-08"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KRĘTEJ 3 WE WROCŁAWIU",
       "adres": "ul. Kręta 3 Wrocław",
       "telefon": "717726315",
@@ -12752,6 +12698,15 @@
       "data_powstania": "2002-01-15"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PORANNEJ 5",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "021030878",
+      "nip": "8992677223",
+      "email": "",
+      "data_powstania": "2009-05-06"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PUŁTUSKIEJ 12, 53-116 WROCŁAW",
       "adres": "al. gen. Józefa Hallera 14B Wrocław",
       "telefon": "713613713",
@@ -12759,6 +12714,15 @@
       "nip": "8992736807",
       "email": "",
       "data_powstania": "2012-03-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PUŁTUSKIEJ 14 WE WROCŁAWIU",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932911272",
+      "nip": "8992476447",
+      "email": "",
+      "data_powstania": "2002-12-18"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. TRZEBNICKIEJ 12 WE WROCŁAWIU",
@@ -13164,6 +13128,15 @@
       "nip": "8981917600",
       "email": "ATENA@3C.PL",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZEKOLADOWEJ 32",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932715170",
+      "nip": "8992460334",
+      "email": "",
+      "data_powstania": "2001-04-23"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZEKOLADOWEJ 34",
@@ -16550,6 +16523,24 @@
       "data_powstania": "2011-10-10"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 75",
+      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
+      "telefon": "713619713",
+      "regon": "932193747",
+      "nip": "8992378791",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 77",
+      "adres": "al. gen. Józefa Hallera 14B Wrocław",
+      "telefon": "713619713",
+      "regon": "932193753",
+      "nip": "8992378816",
+      "email": "ZANIR@INTERIA.PL",
+      "data_powstania": "1995-01-01"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 79",
       "adres": "al. gen. Józefa Hallera 14B Wrocław",
       "telefon": "713613713",
@@ -17943,6 +17934,15 @@
       "nip": "8982055968",
       "email": "ATENA@3C.PL",
       "data_powstania": "2004-07-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POŁUDNIOWA 4, WROCŁAW",
+      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
+      "telefon": "713619713",
+      "regon": "932692380",
+      "nip": "8992426679",
+      "email": "",
+      "data_powstania": "2000-12-20"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ŚW. WINCENTEGO 55 WE WROCŁAWIU",
@@ -19730,7 +19730,7 @@
       "data_powstania": "2014-04-11"
     }
   ],
-  "forum-zarzadzanie-nieruchomo-iami": [
+  "forum": [
     {
       "nazwa": "WSPÓLNOTA MESZKANIOWA \"KUKUCZKI 7\"",
       "adres": "ul. Skarbowców 94C Wrocław",
@@ -20454,15 +20454,6 @@
       "data_powstania": "2014-03-03"
     },
     {
-      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA-OLGINA\"",
-      "adres": "ul. Grabiszyńska 289 Wrocław",
-      "telefon": "3392228",
-      "regon": "931897251",
-      "nip": "8942454610",
-      "email": "",
-      "data_powstania": "1998-09-15"
-    },
-    {
       "nazwa": "WSPÓLNOTA LOKALI UŻYTKOWYCH PRZY UL.MATEJKI 6 WE WROCŁAWIU",
       "adres": "al. Jana Matejki 6 Wrocław",
       "telefon": "713420021",
@@ -20533,15 +20524,6 @@
       "nip": "8971639051",
       "email": "ZARZADCA@ZARZADCA.WROC.PL",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA ALEJA KROMERA 16",
-      "adres": "al. Marcina Kromera 16 Wrocław",
-      "telefon": "126889014",
-      "regon": "368350841",
-      "nip": "8952158646",
-      "email": "",
-      "data_powstania": "2007-12-19"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA APARTAMENTY DYREKCYJNA 33",
@@ -21318,15 +21300,6 @@
       "data_powstania": "1994-06-24"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PŁOŃSKIEGO 5 WE WROCŁAWIU",
-      "adres": "ul. Michała Płońskiego 5 Wrocław",
-      "telefon": "173538610",
-      "regon": "932164770",
-      "nip": "8942617839",
-      "email": "",
-      "data_powstania": "1997-11-13"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.REJA 64",
       "adres": "ul. Stawowa 15 Wrocław",
       "telefon": "713420019",
@@ -22062,1085 +22035,6 @@
   ],
   "fontis-zarzadzanie-nieruchomo-iami": [
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SEMAFOROWA 28-40, 28A-40A\"",
-      "adres": "ul. Semaforowa 28-40,28A-40A Wrocław",
-      "telefon": "713399200",
-      "regon": "021983526",
-      "nip": "8992738746",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2012-10-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZIELONE WZGÓRZE II\"",
-      "adres": "UL. SREBRNOGÓRSKA 1-9,11; KŁODZKA 2",
-      "telefon": "713399200",
-      "regon": "021158845",
-      "nip": "8992686015",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2009-12-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KUNICKIEGO 33-51 WE WROCŁAWIU",
-      "adres": "ul. Stanisława Kunickiego 33-51 Wrocław",
-      "telefon": "713399200",
-      "regon": "020862878",
-      "nip": "8942960046",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2008-09-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI UL.ŚLICZNA 16 WE WROCŁAWIU",
-      "adres": "ul. Śliczna 16 Wrocław",
-      "telefon": "713399200",
-      "regon": "932053621",
-      "nip": "8971611851",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1999-08-18"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ASFALTOWEJ 1,3,5,7,9",
-      "adres": "ul. Asfaltowa 1,3,5,7,9 Wrocław",
-      "telefon": "713399200",
-      "regon": "022123234",
-      "nip": "8971789945",
-      "email": "FONTIS1@FONTIS.COM.PL",
-      "data_powstania": "2013-04-11"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ASFALTOWEJ 15,15A WE WROCŁAWIU",
-      "adres": "ul. Asfaltowa 15, 15A Wrocław",
-      "telefon": "713399200",
-      "regon": "022102203",
-      "nip": "8992742771",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2013-03-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. OLSZEWSKIEGO 83 WE WROCŁAWIU",
-      "adres": "ul. Karola Olszewskiego 83 Wrocław",
-      "telefon": "773399200",
-      "regon": "366634988",
-      "nip": "8982229109",
-      "email": "FONTIS@FONTIS.COM.PL",
-      "data_powstania": "2017-01-30"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. RYBNICKIEJ 13",
-      "adres": "ul. Rybnicka 13 Wrocław",
-      "telefon": "713399200",
-      "regon": "022029713",
-      "nip": "8971787343",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1999-10-27"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. SEZAMKOWEJ 26 WE WROCŁAWIU",
-      "adres": "ul. Sezamkowa 26 Wrocław",
-      "telefon": "713399200",
-      "regon": "020602367",
-      "nip": "8992617988",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2007-07-04"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ASFALTOWEJ 1-9",
-      "adres": "ul. Asfaltowa 1-9 Wrocław",
-      "telefon": "713399200",
-      "regon": "022251386",
-      "nip": "",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2013-05-10"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 190",
-      "adres": "ul. Borowska 190 Wrocław",
-      "telefon": "713399200",
-      "regon": "932239308",
-      "nip": "8992383556",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KUNICKIEGO 53-57A WROCŁAW",
-      "adres": "ul. Stanisława Kunickiego 53-57A Wrocław",
-      "telefon": "713399200",
-      "regon": "021860350",
-      "nip": "8943039310",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2012-04-03"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PAWIEJ 14,14C WE WROCŁAWIU",
-      "adres": "ul. Pawia 14, 14C Wrocław",
-      "telefon": "713399200",
-      "regon": "020464250",
-      "nip": "8992592202",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2007-02-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PAWIEJ 14A,14B WE WROCŁAWIU",
-      "adres": "ul. Pawia 14A, 14B Wrocław",
-      "telefon": "713399200",
-      "regon": "020476572",
-      "nip": "8992593963",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2007-02-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PRZYJAŹNI 2D-2K",
-      "adres": "ul. Przyjaźni 2D-2K Wrocław",
-      "telefon": "713399200",
-      "regon": "022271012",
-      "nip": "8992748503",
-      "email": "",
-      "data_powstania": "2013-10-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SERNICKIEJ 38 WE WROCŁAWIU",
-      "adres": "ul. Sernicka 38 Wrocław",
-      "telefon": "7133992008",
-      "regon": "932187586",
-      "nip": "8992387376",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1994-01-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SMARDZOWSKIEJ 2",
-      "adres": "ul. Smardzowska 2 Wrocław",
-      "telefon": "713399200",
-      "regon": "022105905",
-      "nip": "8982203096",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2013-03-11"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.STROŃSKIEJ 37-45 WE WROCŁAWIU",
-      "adres": "ul. Strońska 37-45 Wrocław",
-      "telefon": "713399200",
-      "regon": "020681941",
-      "nip": "8992629655",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2007-03-05"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WANDY 14/16",
-      "adres": "ul. Wandy 14/16 Wrocław",
-      "telefon": "713399200",
-      "regon": "932194110",
-      "nip": "8992373658",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 27",
-      "adres": "ul. Łódzka 27 Wrocław",
-      "telefon": "713399200",
-      "regon": "932238013",
-      "nip": "8992379721",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA RODZINNY GAJ",
-      "adres": "ul. Kłodzka 4-38 Wrocław",
-      "telefon": "713399200",
-      "regon": "368951470",
-      "nip": "8992836176",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2017-12-11"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. PRZYSTANKOWA 7-7 A WE WROCŁAWIU",
-      "adres": "ul. Przystankowa 7-7A Wrocław",
-      "telefon": "773399200",
-      "regon": "020184183",
-      "nip": "8992556502",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2002-11-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BOCZNA1, UL.HUBSKA 34-36",
-      "adres": "UL. BOCZNA 1, HUBSKA 34-36",
-      "telefon": "713399200",
-      "regon": "932175749",
-      "nip": "8992352076",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2000-05-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BOROWSKA 188 WROCŁAW",
-      "adres": "ul. Borowska 188 Wrocław",
-      "telefon": "713399200",
-      "regon": "932840715",
-      "nip": "8992462764",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2002-09-30"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.JEMIOŁOWA 29 WE WROCŁAWIU",
-      "adres": "ul. Jemiołowa 29 Wrocław",
-      "telefon": "713399200",
-      "regon": "932153140",
-      "nip": "8942625230",
-      "email": "FONTIS1@FONTIS.COM.PL",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PIŁAWSKA 5,5A WE WROCŁAWIU",
-      "adres": "ul. Piławska 5, 5A Wrocław",
-      "telefon": "713399200",
-      "regon": "932953610",
-      "nip": "8992489421",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2003-03-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.STALOWA 69 WE WROCŁAWIU",
-      "adres": "ul. Stalowa 69 Wrocław",
-      "telefon": "713399200",
-      "regon": "932152903",
-      "nip": "8942625023",
-      "email": "FONTIS1@FONTIS.COM.PL",
-      "data_powstania": "1999-06-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.WANDY RUTKIEWICZ 25-29",
-      "adres": "ul. Wandy Rutkiewicz 25-29 Wrocław",
-      "telefon": "71339900",
-      "regon": "020251301",
-      "nip": "8992567865",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UZNAŃKIEGO 2 KUKUCZKI 26-28 WE WROCŁAWIU",
-      "adres": "UL. UZNAŃSKIEGO 2, KUKUCZKI 26-28",
-      "telefon": "713399200",
-      "regon": "020509076",
-      "nip": "8992599859",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "2006-12-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WE WROCŁAWIU PL.SREBRNY 3",
-      "adres": "pl. Srebrny 3 Wrocław",
-      "telefon": "713399200",
-      "regon": "932159638",
-      "nip": "8942618477",
-      "email": "fontis1@fontis.com.pl",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WILLA WOJSZYCKA",
-      "adres": "ul. Snopkowa 1 Wrocław",
-      "telefon": "713399200",
-      "regon": "021749517",
-      "nip": "8992730271",
-      "email": "fontis@fontis.com.pl",
-      "data_powstania": "2011-10-12"
-    }
-  ],
-  "ultranet": [
-    {
-      "nazwa": "WSPÓLNOTA LOKALOWA PRZY UL.OSTROWSKIEGO 13D",
-      "adres": "PIĘTRO II LOKAL 5",
-      "telefon": "501754433",
-      "regon": "020943045",
-      "nip": "8992668968",
-      "email": "KRZAK@ULTRANET.COM.PL",
-      "data_powstania": "2009-03-13"
-    },
-    {
-      "nazwa": "WSPÓLNOTA WAGONOWA 2",
-      "adres": "ul. Strzegomska 138 Wrocław",
-      "telefon": "501754433",
-      "regon": "360844609",
-      "nip": "8943059985",
-      "email": "wagonowa@ultranet.com.pl",
-      "data_powstania": "2015-02-16"
-    }
-  ],
-  "wspolnota-mieszkaniowa-njn-wrocaw": [
-    {
-      "nazwa": "WSPÓLNOTA LOKALOWA C.H. \"KWIATOWA\"",
-      "adres": "ul. Bałtycka 13-15 Wrocław",
-      "telefon": "717746918",
-      "regon": "020127647",
-      "nip": "8951840809",
-      "email": "exist@home.pl",
-      "data_powstania": "2004-01-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"CZAJKOWSKIEGO 63-65B\"",
-      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
-      "telefon": "717746918",
-      "regon": "932218186",
-      "nip": "8951721708",
-      "email": "COK@EXIST.COM.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NARCYZ\"",
-      "adres": "ul. Narcyzy Żmichowskiej 11 Wrocław",
-      "telefon": "717746918",
-      "regon": "931974997",
-      "nip": "8981946375",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "1999-04-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"RÓŻANKA\"",
-      "adres": "ul. Kazimierza Brodzińskiego 7 Wrocław",
-      "telefon": "717746918",
-      "regon": "931168167",
-      "nip": "8951706666",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "1998-03-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIETRZNA-RÓŻY WIATRÓW\"",
-      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
-      "telefon": "717746918",
-      "regon": "932704113",
-      "nip": "8992432154",
-      "email": "COK@EXIST.COM.PL",
-      "data_powstania": "2001-10-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŚWIDNICKA 43\"",
-      "adres": "ul. Świdnicka 43 Wrocław",
-      "telefon": "717746918",
-      "regon": "932181098",
-      "nip": "8971643182",
-      "email": "COK@EXIST.COM.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY \"KRASIŃSKIEGO 24\"",
-      "adres": "ul. Zygmunta Krasińskiego 24 Wrocław",
-      "telefon": "717746918",
-      "regon": "932236333",
-      "nip": "8992372274",
-      "email": "COK@EXIST.COM.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GAZOWEJ 2-2A",
-      "adres": "ul. Gazowa 2-2A Wrocław",
-      "telefon": "717746918",
-      "regon": "388018226",
-      "nip": "8992892950",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "2021-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRZYWOUSTEGO 63",
-      "adres": "ul. Bolesława Krzywoustego 63 Wrocław",
-      "telefon": "717746918",
-      "regon": "932102160",
-      "nip": "8951729555",
-      "email": "exist@home.pl",
-      "data_powstania": "2000-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WIETRZNA 127-137",
-      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
-      "telefon": "717746918",
-      "regon": "021909352",
-      "nip": "8992736670",
-      "email": "COK@EXIST.COM.PL",
-      "data_powstania": "2012-07-02"
-    }
-  ],
-  "tel-713627612": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
-      "adres": "ul. Altanowa 3/13 Wrocław",
-      "telefon": "713627612",
-      "regon": "931055180",
-      "nip": "8942301697",
-      "email": "",
-      "data_powstania": "1997-07-07"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ALTANOWA 5 WROCŁAW",
-      "adres": "ul. Altanowa 3 Wrocław",
-      "telefon": "713627612",
-      "regon": "932042008",
-      "nip": "8942547984",
-      "email": "",
-      "data_powstania": "1999-08-05"
-    }
-  ],
-  "nawigator-nieruchomo-i-wrocaw": [
-    {
-      "nazwa": "MAESTRO 5, PRZY UL. SCHUBERTA 60,62,64,66,68,70,72,74,76",
-      "adres": "ul. Franza Petera Schuberta 60-76 Wrocław",
-      "telefon": "717806104",
-      "regon": "368039801",
-      "nip": "8992827071",
-      "email": "PWALNICZEK@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2017-08-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA LOKALOWA PRZY UL. ANDRZEJA KMICICA 1a",
-      "adres": "ul. Andrzeja Kmicica 1a Wrocław",
-      "telefon": "717806104",
-      "regon": "383570947",
-      "nip": "8943142491",
-      "email": "",
-      "data_powstania": "2019-05-31"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA BUCZACKA 4A-4G",
-      "adres": "ul. Buczacka 4A Wrocław",
-      "telefon": "717806104",
-      "regon": "386832187",
-      "nip": "8943158055",
-      "email": "SEKRETARIAT@NAWIGATOR-NIERUCHOMOSCI.PL",
-      "data_powstania": "2020-08-18"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA CZERNICKA 2,4",
-      "adres": "ul. Czernicka 2,4 Wrocław",
-      "telefon": "515032123",
-      "regon": "381701990",
-      "nip": "8952196552",
-      "email": "ADMINISTRACJA.WROCLAW@NAWOGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2018-10-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA DOŻYNKOWA 52-72",
-      "adres": "ul. Dożynkowa 52-72 Wrocław",
-      "telefon": "717806104",
-      "regon": "523474492",
-      "nip": "8992941200",
-      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2022-10-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GORCZYCOWA 1,3,5,7,9,11,13,16,18, CZARNUSZKOWA 19,21",
-      "adres": "UL. GORCZYCOWA 1,3,5,7,9,11,13,16,18, UL. CZARNUSZKOWA 19,21",
-      "telefon": "717806104",
-      "regon": "384115180",
-      "nip": "8952208887",
-      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2019-08-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GORCZYCOWA 8-14, CZARNUSZKOWA 9-17",
-      "adres": "UL. GORCZYCOWA 8-14, CZARNUSZKOWA 9-17",
-      "telefon": "717806104",
-      "regon": "382916728",
-      "nip": "8952204122",
-      "email": "",
-      "data_powstania": "2019-03-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2aa-2ak",
-      "adres": "ul. Graniczna 2aa-2ak Wrocław",
-      "telefon": "515032123",
-      "regon": "368628466",
-      "nip": "8943119428",
-      "email": "ADMINISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2017-10-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2B-2BH",
-      "adres": "ul. Graniczna 2B-2BH Wrocław",
-      "telefon": "515032118",
-      "regon": "365993426",
-      "nip": "8943091196",
-      "email": "NKOWALCZYK@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2016-11-18"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2F-2FF",
-      "adres": "ul. Graniczna 2F-2FF Wrocław",
-      "telefon": "717806104",
-      "regon": "364470838",
-      "nip": "8943079137",
-      "email": "BIURO@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2016-04-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KASKADY RÓŻANKI",
-      "adres": "ul. Chorwacka 41-41B-41C-41D Wrocław",
-      "telefon": "717806104",
-      "regon": "524840556",
-      "nip": "8952255349",
-      "email": "SEKRETARIAT@NAWIGATOR NIERUCHOMOŚCI.PL",
-      "data_powstania": "2023-03-22"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KMINKOWA V",
-      "adres": "ul. Czarnuszkowa 14 Wrocław",
-      "telefon": "717806104",
-      "regon": "386311181",
-      "nip": "8952219069",
-      "email": "",
-      "data_powstania": "2020-06-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KMINKOWA VI",
-      "adres": "ul. Kminkowa 34 Wrocław",
-      "telefon": "717806104",
-      "regon": "387670901",
-      "nip": "8952225503",
-      "email": "",
-      "data_powstania": "2020-12-04"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA MAESTRO III UL.SCHUBERTA 50-50A-50B-50C WROCŁAW",
-      "adres": "ul. Franza Petera Schuberta 50,50A,50B,50C Wrocław",
-      "telefon": "717806104",
-      "regon": "122916003",
-      "nip": "6772377570",
-      "email": "sekretariat@nawigator.nieruchomosci.pl",
-      "data_powstania": "2013-08-02"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA MIĘDZY PARKAMI WE WROCŁAWIU",
-      "adres": "ul. Dożynkowa 40,42,44,46,48,50 Wrocław",
-      "telefon": "515032118",
-      "regon": "383623170",
-      "nip": "8992865172",
-      "email": "ADMWROC2@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2019-06-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA NOWA TĘCZOWA",
-      "adres": "ul. Tęczowa 82a-82e Wrocław",
-      "telefon": "717806104",
-      "regon": "380754121",
-      "nip": "8992847872",
-      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2018-07-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. SOŁTYSOWICKIEJ 32, 32A, 32B, 32C, 32D",
-      "adres": "ul. Sołtysowicka 32-32D Wrocław",
-      "telefon": "515032123",
-      "regon": "380205160",
-      "nip": "8952189368",
-      "email": "ADMNISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2018-05-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA RODZINNE MAŚLICE III",
-      "adres": "ul. Bogatyńska 28 Wrocław",
-      "telefon": "717806104",
-      "regon": "389914900",
-      "nip": "8943174290",
-      "email": "",
-      "data_powstania": "2021-09-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA SMARDZOWSKA 1-11a I KLASZTORNA 43-47",
-      "adres": "ul.SMARDZOWSKA 11-11a i KLASZTORNA 43-47",
-      "telefon": "515032123",
-      "regon": "384894190",
-      "nip": "8992872083",
-      "email": "ADMINISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2019-11-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. BALONOWA 16-26",
-      "adres": "ul. Balonowa 16-26 Wrocław",
-      "telefon": "717806104",
-      "regon": "527918661",
-      "nip": "8943231763",
-      "email": "sekretariat.wroclaw@nawigator.nieruchomosci.pl",
-      "data_powstania": "2024-02-28"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. BOISKOWA 17-21",
-      "adres": "ul. Boiskowa 17-21 Wrocław",
-      "telefon": "717806104",
-      "regon": "382504701",
-      "nip": "8992858261",
-      "email": "BIURO@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2019-01-28"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. ROGOWSKA 151 WE WROCŁAWIU",
-      "adres": "ul. Rogowska 151 Wrocław",
-      "telefon": "515032123",
-      "regon": "389270146",
-      "nip": "8943170079",
-      "email": "sekretariat.wroclaw@nawigatornieruchomosci.pl",
-      "data_powstania": "2021-06-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.TAPICERSKA 1-7 UL.RYMARSKA 19-37 WE WROCŁAWIU",
-      "adres": "ul. Tapicerska 1 Wrocław",
-      "telefon": "717806104",
-      "regon": "932902095",
-      "nip": "8942752201",
-      "email": "SEKRETARIAT.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
-      "data_powstania": "2002-12-19"
-    }
-  ],
-  "locator": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA  UL. KMINKOWA 45,47,49,51,51A,  UL. WANILIOWA 36,38,40,42  WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "363189648",
-      "nip": "8943070455",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "2015-12-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WILANOWSKA 61,71,73,75,77\"",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "021469670",
-      "nip": "8951990029",
-      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2010-08-31"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZATORSKA 45,47,49\"",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "368697208",
-      "nip": "8952167390",
-      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2017-10-31"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZATORSKA 51,53,55\"",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "368726625",
-      "nip": "8952167929",
-      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2017-11-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA B. KRZYWOUSTEGO 264A, 264B, 264C",
-      "adres": "ul. Bolesława Krzywoustego 264A, 264B, 264C Wrocław",
-      "telefon": "713676621",
-      "regon": "388285157",
-      "nip": "8992894831",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "2021-02-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA LITEWSKA 2-4, WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "020711808",
-      "nip": "8951909168",
-      "email": "",
-      "data_powstania": "2008-03-11"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA MIŁOSTOWSKA 1-40",
-      "adres": "ul. Orzechowa 101 Wrocław",
-      "telefon": "713676621",
-      "regon": "020579148",
-      "nip": "8951888526",
-      "email": "",
-      "data_powstania": "2007-08-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA NOWY WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "365789950",
-      "nip": "8961556139",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "2016-10-25"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA OGRODY GRAUA",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "386527900",
-      "nip": "8982259122",
-      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2020-07-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY AL.M.KROMERA 23,25,27,23A-I,25A-D,27A,27B,UL.TORUŃSKIEJ 2,4,2A-D,4A-B,UL.GIŻYCKIEJ 1,1A",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "932942663",
-      "nip": "8951798869",
-      "email": "LOCATOR@LOCATOR.KN.PL",
-      "data_powstania": "2003-09-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BALONOWEJ 39-43 WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "933024194",
-      "nip": "8942809912",
-      "email": "LOCATOR@LOCATOR.KN.PL",
-      "data_powstania": "2004-09-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZERWONEGO KRZYŻA 19,21,23, BUJWIDA 20,22,24,26,28,30,32,34A, SIENKIEWICZA 148,150,152",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "932723955",
-      "nip": "8981984915",
-      "email": "LOCATOR@LOCATOR.KN.PL",
-      "data_powstania": "1999-12-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LITEWSKIEJ 10-12 WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "020090542",
-      "nip": "8951836860",
-      "email": "LOCATOR@LOCATOR.KN.PL",
-      "data_powstania": "2005-06-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL GORLICKA 54-58 e",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "022301894",
-      "nip": "8992749187",
-      "email": "locator@locator.wroc.pl",
-      "data_powstania": "2013-12-02"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. CIESZYŃSKA 7-89",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "387204620",
-      "nip": "8943159540",
-      "email": "",
-      "data_powstania": "2020-10-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. CZARNUSZKOWA 2,4,6, UL. WANILIOWA 44,46,46A,48,48A WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "368498845",
-      "nip": "8943115620",
-      "email": "PREZES@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2017-10-10"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KARDYNAŁA STEFANA WYSZYŃSKIEGO 39,41,43 WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "368361974",
-      "nip": "8943114891",
-      "email": "",
-      "data_powstania": "2017-09-27"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. LOTNICZA 145 WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "717676621",
-      "regon": "364788813",
-      "nip": "8943081068",
-      "email": "prezes@lokator.wroclaw.pl",
-      "data_powstania": "2016-06-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WILANOWSKA 33-43 WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "021418230",
-      "nip": "8951985614",
-      "email": "",
-      "data_powstania": "2010-12-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WILANOWSKA 45-53 WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "021418252",
-      "nip": "8951985620",
-      "email": "",
-      "data_powstania": "2010-12-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BEZPIECZNA 28-34,  WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "931988367",
-      "nip": "8951671608",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "1999-05-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHAŁUPNICZA 23-53, 23A-53A",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "385687932",
-      "nip": "8943152213",
-      "email": "",
-      "data_powstania": "2020-02-25"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.I.MOŚCICKIEGO 33a,33b,33c UL.SYJAMSKA 1,3,5,7 WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "368766263",
-      "nip": "8943119434",
-      "email": "PREZES@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2017-11-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRZYCKA 85,85a,87,87a,89,89a,89b,91,91a",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "363997259",
-      "nip": "8943075317",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "2016-03-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRÓLEWIECKA 31-121",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "021959479",
-      "nip": "8992738172",
-      "email": "locator@locator.wroc.pl",
-      "data_powstania": "2012-09-17"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.LITEWSKA 14 - 16 WROCŁAW",
-      "adres": "ul. Litewska 14-16 Wrocław",
-      "telefon": "713676621",
-      "regon": "020392266",
-      "nip": "8951867381",
-      "email": "",
-      "data_powstania": "2006-10-17"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OBORNICKA 86-88",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "932881625",
-      "nip": "8951784732",
-      "email": "LOCATOR@LOCATOR.KN.PL",
-      "data_powstania": "2003-01-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OBORNICKA 98-106, UL.BEZPIECZNA 5A WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "932657885",
-      "nip": "8951751017",
-      "email": "locator@locator.wroclaw.pl",
-      "data_powstania": "2001-05-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.RYMARSKA 7-9 WE WROCŁAWIU",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "932909507",
-      "nip": "8942756676",
-      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
-      "data_powstania": "2002-12-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.WEJHEROWSKA 43 I 45 54-239 WROCŁAW",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713676621",
-      "regon": "021696927",
-      "nip": "8943033075",
-      "email": "locator@locator.kn.pl",
-      "data_powstania": "2011-09-07"
-    }
-  ],
-  "pbo-dach-bud": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL T. KOŚCIUSZKI 95-117 UL. GEN. J.H. DĄBROWSKIEGO 30",
-      "adres": "ul. Balonowa 39 Wrocław",
-      "telefon": "713675800",
-      "regon": "022210393",
-      "nip": "8992746094",
-      "email": "dachbud@dachbud.com.pl",
-      "data_powstania": "2013-08-19"
-    }
-  ],
-  "zuh-partner-nierucho-i": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PATIO HOUSE",
-      "adres": "ul. Bednarska 19 Wrocław",
-      "telefon": "510013797",
-      "regon": "364609087",
-      "nip": "8943080034",
-      "email": "PATIO@ZUHPARTNER.PL",
-      "data_powstania": "2016-05-31"
-    }
-  ],
-  "agal-zarzadzanie-nieruchomo-iami": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIOSENNA 11\"",
-      "adres": "ul. Wiosenna 11 Wrocław",
-      "telefon": "605313062",
-      "regon": "932189734",
-      "nip": "8992395140",
-      "email": "agal@agal-nieruchomości.pl",
-      "data_powstania": "2000-06-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA TRAWOWA 18 B-C WROCŁAW",
-      "adres": "ul. Trawowa 18B-C Wrocław",
-      "telefon": "605313062",
-      "regon": "021837397",
-      "nip": "8992736285",
-      "email": "agal@agal-nieruchomosci.pl",
-      "data_powstania": "2012-02-07"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KADŁUBKA 11",
-      "adres": "ul. bł. Wincentego Kadłubka 11 Wrocław",
-      "telefon": "605313062",
-      "regon": "361494420",
-      "nip": "8943062510",
-      "email": "agal@agal-nieruchomości.pl",
-      "data_powstania": "2015-03-10"
-    }
-  ],
-  "awbud-developer-sp-o-o": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
-      "adres": "ul. Budziszyńska 29 Wrocław",
-      "telefon": "713544770",
-      "regon": "931097355",
-      "nip": "8942344643",
-      "email": "",
-      "data_powstania": "1997-09-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
-      "adres": "ul. Budziszyńska 31-33 Wrocław",
-      "telefon": "713544770",
-      "regon": "931921067",
-      "nip": "8942456862",
-      "email": "",
-      "data_powstania": "1998-11-05"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NENCKIEGO\" UL.NENCKIEGO 15-29 WROCŁAW",
-      "adres": "ul. Szybka 1E Wrocław",
-      "telefon": "713544770",
-      "regon": "932999491",
-      "nip": "8992511273",
-      "email": "",
-      "data_powstania": "2004-04-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NOWA\"",
-      "adres": "ul. Nowodworska 35-37A Wrocław",
-      "telefon": "713544770",
-      "regon": "932808605",
-      "nip": "8942729018",
-      "email": "",
-      "data_powstania": "2002-06-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NOWODWORZANKA\"",
-      "adres": "ul. Budziszyńska 37 Wrocław",
-      "telefon": "713544770",
-      "regon": "932711685",
-      "nip": "8942702278",
-      "email": "",
-      "data_powstania": "2001-11-30"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SZYBKA 5-7\"",
-      "adres": "ul. Szybka 5C Wrocław",
-      "telefon": "713544770",
-      "regon": "020916568",
-      "nip": "8992666159",
-      "email": "biuro@awbud-developer.pl",
-      "data_powstania": "2009-02-03"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SZYBKA\"",
-      "adres": "ul. Szybka 3 Wrocław",
-      "telefon": "713544770",
-      "regon": "932823409",
-      "nip": "8992456976",
-      "email": "BIURO@AWBUD-DEVELOPER.PL",
-      "data_powstania": "2002-08-22"
-    }
-  ],
-  "tel-713545719": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KNIAZIEWICZA 9\"",
-      "adres": "ul. Budziszyńska 35 Wrocław",
-      "telefon": "713545719",
-      "regon": "932697287",
-      "nip": "8942697979",
-      "email": "",
-      "data_powstania": "2001-09-28"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KWAŚNA 2-4A\"",
-      "adres": "ul. Budziszyńska 35/37 Wrocław",
-      "telefon": "713545719",
-      "regon": "020166535",
-      "nip": "8942848102",
-      "email": "",
-      "data_powstania": "2001-03-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NA RÓŻANCE\"",
-      "adres": "ul. Budziszyńska 35/37 Wrocław",
-      "telefon": "713545719",
-      "regon": "932032547",
-      "nip": "8942537419",
-      "email": "",
-      "data_powstania": "1999-07-03"
-    }
-  ],
-  "tel-713536610": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZĘSTOCHOWSKIEJ 40 WE WROCŁAWIU",
-      "adres": "ul. Częstochowska 40 Wrocław",
-      "telefon": "713536610",
-      "regon": "932164326",
-      "nip": "8942617673",
-      "email": "",
-      "data_powstania": "1998-10-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GOŁĘŻYCKIEJ 44 WE WROCŁAWIU",
-      "adres": "ul. Gołężycka 44 Wrocław",
-      "telefon": "713536610",
-      "regon": "932792650",
-      "nip": "8942720810",
-      "email": "",
-      "data_powstania": "2002-03-04"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY ULICY BUDZISZYŃSKIEJ 8 WE WROCŁAWIU",
-      "adres": "ul. Budziszyńska 8 Wrocław",
-      "telefon": "713536610",
-      "regon": "933005245",
-      "nip": "8942803275",
-      "email": "",
-      "data_powstania": "2003-12-29"
-    }
-  ],
-  "tel-713643517": [
-    {
-      "nazwa": "WSPÓLNOTA WŁAŚCICIELI DOMÓW \"TAJEMNICZE OGRODY\"",
-      "adres": "ul. Cesarzowicka 82A Wrocław",
-      "telefon": "713643517",
-      "regon": "932997664",
-      "nip": "8942796368",
-      "email": "",
-      "data_powstania": "2004-03-24"
-    }
-  ],
-  "fontis": [
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIA PRZY UL. GITAROWEJ 9,11 WE WROCŁAWIU",
       "adres": "ul. Strumykowa 10B Wrocław",
       "telefon": "713482148",
@@ -23204,6 +22098,24 @@
       "data_powstania": "2019-12-20"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SEMAFOROWA 28-40, 28A-40A\"",
+      "adres": "ul. Semaforowa 28-40,28A-40A Wrocław",
+      "telefon": "713399200",
+      "regon": "021983526",
+      "nip": "8992738746",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2012-10-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZIELONE WZGÓRZE II\"",
+      "adres": "UL. SREBRNOGÓRSKA 1-9,11; KŁODZKA 2",
+      "telefon": "713399200",
+      "regon": "021158845",
+      "nip": "8992686015",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2009-12-29"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA 8 MAJA 34",
       "adres": "ul. 8 Maja 34 Wrocław",
       "telefon": "713482148",
@@ -23258,6 +22170,15 @@
       "data_powstania": "1988-03-15"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KUNICKIEGO 33-51 WE WROCŁAWIU",
+      "adres": "ul. Stanisława Kunickiego 33-51 Wrocław",
+      "telefon": "713399200",
+      "regon": "020862878",
+      "nip": "8942960046",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2008-09-26"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA MICKIEWICZA 41",
       "adres": "ul. Adama Mickiewicza 41 Wrocław",
       "telefon": "713482148",
@@ -23265,6 +22186,15 @@
       "nip": "8982255963",
       "email": "FONTIS@FONTIS.COM.PL",
       "data_powstania": "2020-02-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI UL.ŚLICZNA 16 WE WROCŁAWIU",
+      "adres": "ul. Śliczna 16 Wrocław",
+      "telefon": "713399200",
+      "regon": "932053621",
+      "nip": "8971611851",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1999-08-18"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA OKRZEI 22",
@@ -23411,6 +22341,24 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ASFALTOWEJ 1,3,5,7,9",
+      "adres": "ul. Asfaltowa 1,3,5,7,9 Wrocław",
+      "telefon": "713399200",
+      "regon": "022123234",
+      "nip": "8971789945",
+      "email": "FONTIS1@FONTIS.COM.PL",
+      "data_powstania": "2013-04-11"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ASFALTOWEJ 15,15A WE WROCŁAWIU",
+      "adres": "ul. Asfaltowa 15, 15A Wrocław",
+      "telefon": "713399200",
+      "regon": "022102203",
+      "nip": "8992742771",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2013-03-20"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. E. PLATER 19 WE WROCŁAWIU",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -23501,6 +22449,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. OLSZEWSKIEGO 83 WE WROCŁAWIU",
+      "adres": "ul. Karola Olszewskiego 83 Wrocław",
+      "telefon": "773399200",
+      "regon": "366634988",
+      "nip": "8982229109",
+      "email": "FONTIS@FONTIS.COM.PL",
+      "data_powstania": "2017-01-30"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PERKUSYJKNEJ 11, 13, 15, 17 WE WROCŁAWIU",
       "adres": "ul. Strumykowa 10B Wrocław",
       "telefon": "713482148",
@@ -23580,6 +22537,24 @@
       "nip": "8981974029",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. RYBNICKIEJ 13",
+      "adres": "ul. Rybnicka 13 Wrocław",
+      "telefon": "713399200",
+      "regon": "022029713",
+      "nip": "8971787343",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1999-10-27"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. SEZAMKOWEJ 26 WE WROCŁAWIU",
+      "adres": "ul. Sezamkowa 26 Wrocław",
+      "telefon": "713399200",
+      "regon": "020602367",
+      "nip": "8992617988",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2007-07-04"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. SZYMANOWSKIEGO 6",
@@ -23715,6 +22690,15 @@
       "nip": "8981935957",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ASFALTOWEJ 1-9",
+      "adres": "ul. Asfaltowa 1-9 Wrocław",
+      "telefon": "713399200",
+      "regon": "022251386",
+      "nip": "",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2013-05-10"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BARTLA 4",
@@ -23903,6 +22887,15 @@
       "regon": "932221001",
       "nip": "8981958303",
       "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 190",
+      "adres": "ul. Borowska 190 Wrocław",
+      "telefon": "713399200",
+      "regon": "932239308",
+      "nip": "8992383556",
+      "email": "fontis1@fontis.com.pl",
       "data_powstania": "1994-06-24"
     },
     {
@@ -25146,6 +24139,15 @@
       "nip": "8981911081",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KUNICKIEGO 53-57A WROCŁAW",
+      "adres": "ul. Stanisława Kunickiego 53-57A Wrocław",
+      "telefon": "713399200",
+      "regon": "021860350",
+      "nip": "8943039310",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2012-04-03"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LIBELTA 1",
@@ -26561,6 +25563,24 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PAWIEJ 14,14C WE WROCŁAWIU",
+      "adres": "ul. Pawia 14, 14C Wrocław",
+      "telefon": "713399200",
+      "regon": "020464250",
+      "nip": "8992592202",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2007-02-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PAWIEJ 14A,14B WE WROCŁAWIU",
+      "adres": "ul. Pawia 14A, 14B Wrocław",
+      "telefon": "713399200",
+      "regon": "020476572",
+      "nip": "8992593963",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2007-02-20"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PLATER 11",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -26777,6 +25797,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PRZYJAŹNI 2D-2K",
+      "adres": "ul. Przyjaźni 2D-2K Wrocław",
+      "telefon": "713399200",
+      "regon": "022271012",
+      "nip": "8992748503",
+      "email": "",
+      "data_powstania": "2013-10-16"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PUGETA 10",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -26793,6 +25822,15 @@
       "nip": "8981931563",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SERNICKIEJ 38 WE WROCŁAWIU",
+      "adres": "ul. Sernicka 38 Wrocław",
+      "telefon": "7133992008",
+      "regon": "932187586",
+      "nip": "8992387376",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1994-01-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SIEMIRADZKIEGO 17",
@@ -26856,6 +25894,15 @@
       "nip": "8981931770",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SMARDZOWSKIEJ 2",
+      "adres": "ul. Smardzowska 2 Wrocław",
+      "telefon": "713399200",
+      "regon": "022105905",
+      "nip": "8982203096",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2013-03-11"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SOWIŃSKIEGO 1",
@@ -27506,6 +26553,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.STROŃSKIEJ 37-45 WE WROCŁAWIU",
+      "adres": "ul. Strońska 37-45 Wrocław",
+      "telefon": "713399200",
+      "regon": "020681941",
+      "nip": "8992629655",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2007-03-05"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZANIECKIEGO 76",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -27531,6 +26587,15 @@
       "nip": "8981932367",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WANDY 14/16",
+      "adres": "ul. Wandy 14/16 Wrocław",
+      "telefon": "713399200",
+      "regon": "932194110",
+      "nip": "8992373658",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WARYŃSKIEGO 6",
@@ -27584,6 +26649,15 @@
       "regon": "932168057",
       "nip": "8981932580",
       "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 27",
+      "adres": "ul. Łódzka 27 Wrocław",
+      "telefon": "713399200",
+      "regon": "932238013",
+      "nip": "8992379721",
+      "email": "fontis1@fontis.com.pl",
       "data_powstania": "1994-06-24"
     },
     {
@@ -27657,6 +26731,15 @@
       "nip": "8981910911",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA RODZINNY GAJ",
+      "adres": "ul. Kłodzka 4-38 Wrocław",
+      "telefon": "713399200",
+      "regon": "368951470",
+      "nip": "8992836176",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2017-12-11"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA SPÓŁDZIELCZA 6",
@@ -27758,6 +26841,15 @@
       "data_powstania": "1992-06-15"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. PRZYSTANKOWA 7-7 A WE WROCŁAWIU",
+      "adres": "ul. Przystankowa 7-7A Wrocław",
+      "telefon": "773399200",
+      "regon": "020184183",
+      "nip": "8992556502",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2002-11-29"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. SOWIŃSKIEGO 3",
       "adres": "ul. gen. Józefa Sowińskiego 3 Wrocław",
       "telefon": "713482148",
@@ -27812,6 +26904,24 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BOCZNA1, UL.HUBSKA 34-36",
+      "adres": "UL. BOCZNA 1, HUBSKA 34-36",
+      "telefon": "713399200",
+      "regon": "932175749",
+      "nip": "8992352076",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2000-05-16"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BOROWSKA 188 WROCŁAW",
+      "adres": "ul. Borowska 188 Wrocław",
+      "telefon": "713399200",
+      "regon": "932840715",
+      "nip": "8992462764",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2002-09-30"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.DEMBOWSKIEGO 98",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -27828,6 +26938,15 @@
       "nip": "8981990057",
       "email": "",
       "data_powstania": "2000-03-08"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.JEMIOŁOWA 29 WE WROCŁAWIU",
+      "adres": "ul. Jemiołowa 29 Wrocław",
+      "telefon": "713399200",
+      "regon": "932153140",
+      "nip": "8942625230",
+      "email": "FONTIS1@FONTIS.COM.PL",
+      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KASPRZAKA 13",
@@ -27893,6 +27012,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PIŁAWSKA 5,5A WE WROCŁAWIU",
+      "adres": "ul. Piławska 5, 5A Wrocław",
+      "telefon": "713399200",
+      "regon": "932953610",
+      "nip": "8992489421",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2003-03-20"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.SPÓŁDZIELCZA 24",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -27911,6 +27039,15 @@
       "data_powstania": "2005-11-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.STALOWA 69 WE WROCŁAWIU",
+      "adres": "ul. Stalowa 69 Wrocław",
+      "telefon": "713399200",
+      "regon": "932152903",
+      "nip": "8942625023",
+      "email": "FONTIS1@FONTIS.COM.PL",
+      "data_powstania": "1999-06-16"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.STANISŁAWSKIEGO 33 WE WROCŁAWIU",
       "adres": "ul. ks. Franciszka Salezego Jezierskiego 14 Wrocław",
       "telefon": "713482148",
@@ -27918,6 +27055,42 @@
       "nip": "8982036238",
       "email": "",
       "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.WANDY RUTKIEWICZ 25-29",
+      "adres": "ul. Wandy Rutkiewicz 25-29 Wrocław",
+      "telefon": "71339900",
+      "regon": "020251301",
+      "nip": "8992567865",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UZNAŃKIEGO 2 KUKUCZKI 26-28 WE WROCŁAWIU",
+      "adres": "UL. UZNAŃSKIEGO 2, KUKUCZKI 26-28",
+      "telefon": "713399200",
+      "regon": "020509076",
+      "nip": "8992599859",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "2006-12-20"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WE WROCŁAWIU PL.SREBRNY 3",
+      "adres": "pl. Srebrny 3 Wrocław",
+      "telefon": "713399200",
+      "regon": "932159638",
+      "nip": "8942618477",
+      "email": "fontis1@fontis.com.pl",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WILLA WOJSZYCKA",
+      "adres": "ul. Snopkowa 1 Wrocław",
+      "telefon": "713399200",
+      "regon": "021749517",
+      "nip": "8992730271",
+      "email": "fontis@fontis.com.pl",
+      "data_powstania": "2011-10-12"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW PL. PIŁSUDSKIEGO 25",
@@ -28010,27 +27183,859 @@
       "data_powstania": "2003-01-07"
     }
   ],
-  "tel-509105795": [
+  "ultranet": [
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA  DROHOBYCKA 5-7",
-      "adres": "ul. Drohobycka 5-7 Wrocław",
-      "telefon": "509105795",
-      "regon": "020322930",
-      "nip": "8942874973",
-      "email": "kruszynska.drohobycka@gmail.com",
-      "data_powstania": "2006-05-15"
+      "nazwa": "WSPÓLNOTA LOKALOWA PRZY UL.OSTROWSKIEGO 13D",
+      "adres": "PIĘTRO II LOKAL 5",
+      "telefon": "501754433",
+      "regon": "020943045",
+      "nip": "8992668968",
+      "email": "KRZAK@ULTRANET.COM.PL",
+      "data_powstania": "2009-03-13"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. GAGARINA 16-34",
-      "adres": "ul. Jurija Gagarina 16-34 Wrocław",
-      "telefon": "509105795",
-      "regon": "021486934",
-      "nip": "8943019632",
-      "email": "ZARZAD@GAGARINA.WROCLAW.PL",
-      "data_powstania": "2010-12-02"
+      "nazwa": "WSPÓLNOTA WAGONOWA 2",
+      "adres": "ul. Strzegomska 138 Wrocław",
+      "telefon": "501754433",
+      "regon": "360844609",
+      "nip": "8943059985",
+      "email": "wagonowa@ultranet.com.pl",
+      "data_powstania": "2015-02-16"
     }
   ],
-  "imeritum-zarzadzanie-nieruchomo-iami": [
+  "phu-exist-iii": [
+    {
+      "nazwa": "WSPÓLNOTA LOKALOWA",
+      "adres": "ul. Bałtycka 17, 19, 21 Wrocław",
+      "telefon": "717746917",
+      "regon": "523979944",
+      "nip": "8952251653",
+      "email": "exist@home.pl",
+      "data_powstania": "2019-11-08"
+    },
+    {
+      "nazwa": "WSPÓLNOTA LOKALOWA C.H. \"KWIATOWA\"",
+      "adres": "ul. Bałtycka 13-15 Wrocław",
+      "telefon": "717746918",
+      "regon": "020127647",
+      "nip": "8951840809",
+      "email": "exist@home.pl",
+      "data_powstania": "2004-01-19"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"CZAJKOWSKIEGO 63-65B\"",
+      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
+      "telefon": "717746918",
+      "regon": "932218186",
+      "nip": "8951721708",
+      "email": "COK@EXIST.COM.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"HAUKE BOSAKA 12\"",
+      "adres": "ul. gen. Józefa Haukego-Bosaka 12 Wrocław",
+      "telefon": "717746938",
+      "regon": "932234328",
+      "nip": "8992369680",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NARCYZ\"",
+      "adres": "ul. Narcyzy Żmichowskiej 11 Wrocław",
+      "telefon": "717746918",
+      "regon": "931974997",
+      "nip": "8981946375",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "1999-04-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"RÓŻANKA\"",
+      "adres": "ul. Kazimierza Brodzińskiego 7 Wrocław",
+      "telefon": "717746918",
+      "regon": "931168167",
+      "nip": "8951706666",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "1998-03-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"UNIWERSYTECKA\"",
+      "adres": "ul. Uniwersytecka 19/20 Wrocław",
+      "telefon": "717746935",
+      "regon": "932163433",
+      "nip": "8971639878",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIETRZNA-RÓŻY WIATRÓW\"",
+      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
+      "telefon": "717746918",
+      "regon": "932704113",
+      "nip": "8992432154",
+      "email": "COK@EXIST.COM.PL",
+      "data_powstania": "2001-10-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIEŻA\"",
+      "adres": "al. Jana Kasprowicza 108 Wrocław",
+      "telefon": "717746938",
+      "regon": "931948706",
+      "nip": "8951737230",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "1998-12-29"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŚWIDNICKA 43\"",
+      "adres": "ul. Świdnicka 43 Wrocław",
+      "telefon": "717746918",
+      "regon": "932181098",
+      "nip": "8971643182",
+      "email": "COK@EXIST.COM.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY \"KRASIŃSKIEGO 24\"",
+      "adres": "ul. Zygmunta Krasińskiego 24 Wrocław",
+      "telefon": "717746918",
+      "regon": "932236333",
+      "nip": "8992372274",
+      "email": "COK@EXIST.COM.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GAZOWEJ 2-2A",
+      "adres": "ul. Gazowa 2-2A Wrocław",
+      "telefon": "717746918",
+      "regon": "388018226",
+      "nip": "8992892950",
+      "email": "EXIST@HOME.PL",
+      "data_powstania": "2021-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRZYWOUSTEGO 63",
+      "adres": "ul. Bolesława Krzywoustego 63 Wrocław",
+      "telefon": "717746918",
+      "regon": "932102160",
+      "nip": "8951729555",
+      "email": "exist@home.pl",
+      "data_powstania": "2000-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WIETRZNA 127-137",
+      "adres": "ul. Aleksandra Ostrowskiego 7 Wrocław",
+      "telefon": "717746918",
+      "regon": "021909352",
+      "nip": "8992736670",
+      "email": "COK@EXIST.COM.PL",
+      "data_powstania": "2012-07-02"
+    }
+  ],
+  "tel-713627612": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
+      "adres": "ul. Altanowa 3/13 Wrocław",
+      "telefon": "713627612",
+      "regon": "931055180",
+      "nip": "8942301697",
+      "email": "",
+      "data_powstania": "1997-07-07"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ALTANOWA 5 WROCŁAW",
+      "adres": "ul. Altanowa 3 Wrocław",
+      "telefon": "713627612",
+      "regon": "932042008",
+      "nip": "8942547984",
+      "email": "",
+      "data_powstania": "1999-08-05"
+    }
+  ],
+  "nawigator-nieruchomo-i-wrocaw": [
+    {
+      "nazwa": "MAESTRO 5, PRZY UL. SCHUBERTA 60,62,64,66,68,70,72,74,76",
+      "adres": "ul. Franza Petera Schuberta 60-76 Wrocław",
+      "telefon": "717806104",
+      "regon": "368039801",
+      "nip": "8992827071",
+      "email": "PWALNICZEK@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2017-08-08"
+    },
+    {
+      "nazwa": "WSPÓLNOTA LOKALOWA PRZY UL. ANDRZEJA KMICICA 1a",
+      "adres": "ul. Andrzeja Kmicica 1a Wrocław",
+      "telefon": "717806104",
+      "regon": "383570947",
+      "nip": "8943142491",
+      "email": "",
+      "data_powstania": "2019-05-31"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA BUCZACKA 4A-4G",
+      "adres": "ul. Buczacka 4A Wrocław",
+      "telefon": "717806104",
+      "regon": "386832187",
+      "nip": "8943158055",
+      "email": "SEKRETARIAT@NAWIGATOR-NIERUCHOMOSCI.PL",
+      "data_powstania": "2020-08-18"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA CZERNICKA 2,4",
+      "adres": "ul. Czernicka 2,4 Wrocław",
+      "telefon": "515032123",
+      "regon": "381701990",
+      "nip": "8952196552",
+      "email": "ADMINISTRACJA.WROCLAW@NAWOGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2018-10-23"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA DOŻYNKOWA 52-72",
+      "adres": "ul. Dożynkowa 52-72 Wrocław",
+      "telefon": "717806104",
+      "regon": "523474492",
+      "nip": "8992941200",
+      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2022-10-20"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GORCZYCOWA 1,3,5,7,9,11,13,16,18, CZARNUSZKOWA 19,21",
+      "adres": "UL. GORCZYCOWA 1,3,5,7,9,11,13,16,18, UL. CZARNUSZKOWA 19,21",
+      "telefon": "717806104",
+      "regon": "384115180",
+      "nip": "8952208887",
+      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2019-08-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GORCZYCOWA 8-14, CZARNUSZKOWA 9-17",
+      "adres": "UL. GORCZYCOWA 8-14, CZARNUSZKOWA 9-17",
+      "telefon": "717806104",
+      "regon": "382916728",
+      "nip": "8952204122",
+      "email": "",
+      "data_powstania": "2019-03-20"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2aa-2ak",
+      "adres": "ul. Graniczna 2aa-2ak Wrocław",
+      "telefon": "515032123",
+      "regon": "368628466",
+      "nip": "8943119428",
+      "email": "ADMINISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2017-10-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2B-2BH",
+      "adres": "ul. Graniczna 2B-2BH Wrocław",
+      "telefon": "515032118",
+      "regon": "365993426",
+      "nip": "8943091196",
+      "email": "NKOWALCZYK@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2016-11-18"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRANICZNA 2F-2FF",
+      "adres": "ul. Graniczna 2F-2FF Wrocław",
+      "telefon": "717806104",
+      "regon": "364470838",
+      "nip": "8943079137",
+      "email": "BIURO@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2016-04-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KASKADY RÓŻANKI",
+      "adres": "ul. Chorwacka 41-41B-41C-41D Wrocław",
+      "telefon": "717806104",
+      "regon": "524840556",
+      "nip": "8952255349",
+      "email": "SEKRETARIAT@NAWIGATOR NIERUCHOMOŚCI.PL",
+      "data_powstania": "2023-03-22"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KMINKOWA V",
+      "adres": "ul. Czarnuszkowa 14 Wrocław",
+      "telefon": "717806104",
+      "regon": "386311181",
+      "nip": "8952219069",
+      "email": "",
+      "data_powstania": "2020-06-16"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KMINKOWA VI",
+      "adres": "ul. Kminkowa 34 Wrocław",
+      "telefon": "717806104",
+      "regon": "387670901",
+      "nip": "8952225503",
+      "email": "",
+      "data_powstania": "2020-12-04"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA MAESTRO III UL.SCHUBERTA 50-50A-50B-50C WROCŁAW",
+      "adres": "ul. Franza Petera Schuberta 50,50A,50B,50C Wrocław",
+      "telefon": "717806104",
+      "regon": "122916003",
+      "nip": "6772377570",
+      "email": "sekretariat@nawigator.nieruchomosci.pl",
+      "data_powstania": "2013-08-02"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA MIĘDZY PARKAMI WE WROCŁAWIU",
+      "adres": "ul. Dożynkowa 40,42,44,46,48,50 Wrocław",
+      "telefon": "515032118",
+      "regon": "383623170",
+      "nip": "8992865172",
+      "email": "ADMWROC2@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2019-06-06"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA NOWA TĘCZOWA",
+      "adres": "ul. Tęczowa 82a-82e Wrocław",
+      "telefon": "717806104",
+      "regon": "380754121",
+      "nip": "8992847872",
+      "email": "SEKRETARIAT@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2018-07-06"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. SOŁTYSOWICKIEJ 32, 32A, 32B, 32C, 32D",
+      "adres": "ul. Sołtysowicka 32-32D Wrocław",
+      "telefon": "515032123",
+      "regon": "380205160",
+      "nip": "8952189368",
+      "email": "ADMNISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2018-05-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA RODZINNE MAŚLICE III",
+      "adres": "ul. Bogatyńska 28 Wrocław",
+      "telefon": "717806104",
+      "regon": "389914900",
+      "nip": "8943174290",
+      "email": "",
+      "data_powstania": "2021-09-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA SMARDZOWSKA 1-11a I KLASZTORNA 43-47",
+      "adres": "ul.SMARDZOWSKA 11-11a i KLASZTORNA 43-47",
+      "telefon": "515032123",
+      "regon": "384894190",
+      "nip": "8992872083",
+      "email": "ADMINISTRACJA.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2019-11-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. BALONOWA 16-26",
+      "adres": "ul. Balonowa 16-26 Wrocław",
+      "telefon": "717806104",
+      "regon": "527918661",
+      "nip": "8943231763",
+      "email": "sekretariat.wroclaw@nawigator.nieruchomosci.pl",
+      "data_powstania": "2024-02-28"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. BOISKOWA 17-21",
+      "adres": "ul. Boiskowa 17-21 Wrocław",
+      "telefon": "717806104",
+      "regon": "382504701",
+      "nip": "8992858261",
+      "email": "BIURO@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2019-01-28"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. ROGOWSKA 151 WE WROCŁAWIU",
+      "adres": "ul. Rogowska 151 Wrocław",
+      "telefon": "515032123",
+      "regon": "389270146",
+      "nip": "8943170079",
+      "email": "sekretariat.wroclaw@nawigatornieruchomosci.pl",
+      "data_powstania": "2021-06-23"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.TAPICERSKA 1-7 UL.RYMARSKA 19-37 WE WROCŁAWIU",
+      "adres": "ul. Tapicerska 1 Wrocław",
+      "telefon": "717806104",
+      "regon": "932902095",
+      "nip": "8942752201",
+      "email": "SEKRETARIAT.WROCLAW@NAWIGATOR.NIERUCHOMOSCI.PL",
+      "data_powstania": "2002-12-19"
+    }
+  ],
+  "locator-zarzadzanie-nieruchomo-iami": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA  UL. KMINKOWA 45,47,49,51,51A,  UL. WANILIOWA 36,38,40,42  WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "363189648",
+      "nip": "8943070455",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "2015-12-08"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WILANOWSKA 61,71,73,75,77\"",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "021469670",
+      "nip": "8951990029",
+      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2010-08-31"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZATORSKA 45,47,49\"",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "368697208",
+      "nip": "8952167390",
+      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2017-10-31"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ZATORSKA 51,53,55\"",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "368726625",
+      "nip": "8952167929",
+      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2017-11-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA B. KRZYWOUSTEGO 264A, 264B, 264C",
+      "adres": "ul. Bolesława Krzywoustego 264A, 264B, 264C Wrocław",
+      "telefon": "713676621",
+      "regon": "388285157",
+      "nip": "8992894831",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "2021-02-23"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA LITEWSKA 2-4, WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "020711808",
+      "nip": "8951909168",
+      "email": "",
+      "data_powstania": "2008-03-11"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA MIŁOSTOWSKA 1-40",
+      "adres": "ul. Orzechowa 101 Wrocław",
+      "telefon": "713676621",
+      "regon": "020579148",
+      "nip": "8951888526",
+      "email": "",
+      "data_powstania": "2007-08-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA NOWY WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "365789950",
+      "nip": "8961556139",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "2016-10-25"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA OGRODY GRAUA",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "386527900",
+      "nip": "8982259122",
+      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2020-07-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY AL.M.KROMERA 23,25,27,23A-I,25A-D,27A,27B,UL.TORUŃSKIEJ 2,4,2A-D,4A-B,UL.GIŻYCKIEJ 1,1A",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "932942663",
+      "nip": "8951798869",
+      "email": "LOCATOR@LOCATOR.KN.PL",
+      "data_powstania": "2003-09-29"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BALONOWEJ 39-43 WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "933024194",
+      "nip": "8942809912",
+      "email": "LOCATOR@LOCATOR.KN.PL",
+      "data_powstania": "2004-09-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZERWONEGO KRZYŻA 19,21,23, BUJWIDA 20,22,24,26,28,30,32,34A, SIENKIEWICZA 148,150,152",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "932723955",
+      "nip": "8981984915",
+      "email": "LOCATOR@LOCATOR.KN.PL",
+      "data_powstania": "1999-12-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LITEWSKIEJ 10-12 WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "020090542",
+      "nip": "8951836860",
+      "email": "LOCATOR@LOCATOR.KN.PL",
+      "data_powstania": "2005-06-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL GORLICKA 54-58 e",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "022301894",
+      "nip": "8992749187",
+      "email": "locator@locator.wroc.pl",
+      "data_powstania": "2013-12-02"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. CIESZYŃSKA 7-89",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "387204620",
+      "nip": "8943159540",
+      "email": "",
+      "data_powstania": "2020-10-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. CZARNUSZKOWA 2,4,6, UL. WANILIOWA 44,46,46A,48,48A WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "368498845",
+      "nip": "8943115620",
+      "email": "PREZES@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2017-10-10"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KARDYNAŁA STEFANA WYSZYŃSKIEGO 39,41,43 WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "368361974",
+      "nip": "8943114891",
+      "email": "",
+      "data_powstania": "2017-09-27"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. LOTNICZA 145 WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "717676621",
+      "regon": "364788813",
+      "nip": "8943081068",
+      "email": "prezes@lokator.wroclaw.pl",
+      "data_powstania": "2016-06-23"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WILANOWSKA 33-43 WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "021418230",
+      "nip": "8951985614",
+      "email": "",
+      "data_powstania": "2010-12-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WILANOWSKA 45-53 WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "021418252",
+      "nip": "8951985620",
+      "email": "",
+      "data_powstania": "2010-12-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BEZPIECZNA 28-34,  WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "931988367",
+      "nip": "8951671608",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "1999-05-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHAŁUPNICZA 23-53, 23A-53A",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "385687932",
+      "nip": "8943152213",
+      "email": "",
+      "data_powstania": "2020-02-25"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.I.MOŚCICKIEGO 33a,33b,33c UL.SYJAMSKA 1,3,5,7 WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "368766263",
+      "nip": "8943119434",
+      "email": "PREZES@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2017-11-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRZYCKA 85,85a,87,87a,89,89a,89b,91,91a",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "363997259",
+      "nip": "8943075317",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "2016-03-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KRÓLEWIECKA 31-121",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "021959479",
+      "nip": "8992738172",
+      "email": "locator@locator.wroc.pl",
+      "data_powstania": "2012-09-17"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.LITEWSKA 14 - 16 WROCŁAW",
+      "adres": "ul. Litewska 14-16 Wrocław",
+      "telefon": "713676621",
+      "regon": "020392266",
+      "nip": "8951867381",
+      "email": "",
+      "data_powstania": "2006-10-17"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OBORNICKA 86-88",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "932881625",
+      "nip": "8951784732",
+      "email": "LOCATOR@LOCATOR.KN.PL",
+      "data_powstania": "2003-01-06"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OBORNICKA 98-106, UL.BEZPIECZNA 5A WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "932657885",
+      "nip": "8951751017",
+      "email": "locator@locator.wroclaw.pl",
+      "data_powstania": "2001-05-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.RYMARSKA 7-9 WE WROCŁAWIU",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "932909507",
+      "nip": "8942756676",
+      "email": "LOCATOR@LOCATOR.WROCLAW.PL",
+      "data_powstania": "2002-12-06"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.WEJHEROWSKA 43 I 45 54-239 WROCŁAW",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713676621",
+      "regon": "021696927",
+      "nip": "8943033075",
+      "email": "locator@locator.kn.pl",
+      "data_powstania": "2011-09-07"
+    }
+  ],
+  "pbo-dach-bud": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL T. KOŚCIUSZKI 95-117 UL. GEN. J.H. DĄBROWSKIEGO 30",
+      "adres": "ul. Balonowa 39 Wrocław",
+      "telefon": "713675800",
+      "regon": "022210393",
+      "nip": "8992746094",
+      "email": "dachbud@dachbud.com.pl",
+      "data_powstania": "2013-08-19"
+    }
+  ],
+  "zuh-partner-nierucho-i": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PATIO HOUSE",
+      "adres": "ul. Bednarska 19 Wrocław",
+      "telefon": "510013797",
+      "regon": "364609087",
+      "nip": "8943080034",
+      "email": "PATIO@ZUHPARTNER.PL",
+      "data_powstania": "2016-05-31"
+    }
+  ],
+  "agal-zarzadzanie-nieruchomo-iami-szczygie-h": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIOSENNA 11\"",
+      "adres": "ul. Wiosenna 11 Wrocław",
+      "telefon": "605313062",
+      "regon": "932189734",
+      "nip": "8992395140",
+      "email": "agal@agal-nieruchomości.pl",
+      "data_powstania": "2000-06-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA TRAWOWA 18 B-C WROCŁAW",
+      "adres": "ul. Trawowa 18B-C Wrocław",
+      "telefon": "605313062",
+      "regon": "021837397",
+      "nip": "8992736285",
+      "email": "agal@agal-nieruchomosci.pl",
+      "data_powstania": "2012-02-07"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KADŁUBKA 11",
+      "adres": "ul. bł. Wincentego Kadłubka 11 Wrocław",
+      "telefon": "605313062",
+      "regon": "361494420",
+      "nip": "8943062510",
+      "email": "agal@agal-nieruchomości.pl",
+      "data_powstania": "2015-03-10"
+    }
+  ],
+  "awbud-developer-sp-o-o": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
+      "adres": "ul. Budziszyńska 29 Wrocław",
+      "telefon": "713544770",
+      "regon": "931097355",
+      "nip": "8942344643",
+      "email": "",
+      "data_powstania": "1997-09-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
+      "adres": "ul. Budziszyńska 31-33 Wrocław",
+      "telefon": "713544770",
+      "regon": "931921067",
+      "nip": "8942456862",
+      "email": "",
+      "data_powstania": "1998-11-05"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NENCKIEGO\" UL.NENCKIEGO 15-29 WROCŁAW",
+      "adres": "ul. Szybka 1E Wrocław",
+      "telefon": "713544770",
+      "regon": "932999491",
+      "nip": "8992511273",
+      "email": "",
+      "data_powstania": "2004-04-16"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NOWA\"",
+      "adres": "ul. Nowodworska 35-37A Wrocław",
+      "telefon": "713544770",
+      "regon": "932808605",
+      "nip": "8942729018",
+      "email": "",
+      "data_powstania": "2002-06-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NOWODWORZANKA\"",
+      "adres": "ul. Budziszyńska 37 Wrocław",
+      "telefon": "713544770",
+      "regon": "932711685",
+      "nip": "8942702278",
+      "email": "",
+      "data_powstania": "2001-11-30"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SZYBKA 5-7\"",
+      "adres": "ul. Szybka 5C Wrocław",
+      "telefon": "713544770",
+      "regon": "020916568",
+      "nip": "8992666159",
+      "email": "biuro@awbud-developer.pl",
+      "data_powstania": "2009-02-03"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SZYBKA\"",
+      "adres": "ul. Szybka 3 Wrocław",
+      "telefon": "713544770",
+      "regon": "932823409",
+      "nip": "8992456976",
+      "email": "BIURO@AWBUD-DEVELOPER.PL",
+      "data_powstania": "2002-08-22"
+    }
+  ],
+  "tel-713545719": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KNIAZIEWICZA 9\"",
+      "adres": "ul. Budziszyńska 35 Wrocław",
+      "telefon": "713545719",
+      "regon": "932697287",
+      "nip": "8942697979",
+      "email": "",
+      "data_powstania": "2001-09-28"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KWAŚNA 2-4A\"",
+      "adres": "ul. Budziszyńska 35/37 Wrocław",
+      "telefon": "713545719",
+      "regon": "020166535",
+      "nip": "8942848102",
+      "email": "",
+      "data_powstania": "2001-03-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NA RÓŻANCE\"",
+      "adres": "ul. Budziszyńska 35/37 Wrocław",
+      "telefon": "713545719",
+      "regon": "932032547",
+      "nip": "8942537419",
+      "email": "",
+      "data_powstania": "1999-07-03"
+    }
+  ],
+  "tel-713536610": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZĘSTOCHOWSKIEJ 40 WE WROCŁAWIU",
+      "adres": "ul. Częstochowska 40 Wrocław",
+      "telefon": "713536610",
+      "regon": "932164326",
+      "nip": "8942617673",
+      "email": "",
+      "data_powstania": "1998-10-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GOŁĘŻYCKIEJ 44 WE WROCŁAWIU",
+      "adres": "ul. Gołężycka 44 Wrocław",
+      "telefon": "713536610",
+      "regon": "932792650",
+      "nip": "8942720810",
+      "email": "",
+      "data_powstania": "2002-03-04"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY ULICY BUDZISZYŃSKIEJ 8 WE WROCŁAWIU",
+      "adres": "ul. Budziszyńska 8 Wrocław",
+      "telefon": "713536610",
+      "regon": "933005245",
+      "nip": "8942803275",
+      "email": "",
+      "data_powstania": "2003-12-29"
+    }
+  ],
+  "tel-713643517": [
+    {
+      "nazwa": "WSPÓLNOTA WŁAŚCICIELI DOMÓW \"TAJEMNICZE OGRODY\"",
+      "adres": "ul. Cesarzowicka 82A Wrocław",
+      "telefon": "713643517",
+      "regon": "932997664",
+      "nip": "8942796368",
+      "email": "",
+      "data_powstania": "2004-03-24"
+    }
+  ],
+  "pu-meritum-zarzadzanie-nieruchomo-iami": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KDM\" - PL. T.KOŚCIUSZKI 6",
+      "adres": "pl. Tadeusza Kościuszki 6 Wrocław",
+      "telefon": "717836122",
+      "regon": "932180302",
+      "nip": "8971642739",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KOMANDORSKA\"",
+      "adres": "ul. Komandorska 53 Wrocław",
+      "telefon": "717838836",
+      "regon": "931955184",
+      "nip": "8992233644",
+      "email": "",
+      "data_powstania": "1998-12-16"
+    },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"LOMPY 15\"",
       "adres": "ul. Józefa Lompy 15 Wrocław",
@@ -28041,6 +28046,33 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PASTEURA 15A\"",
+      "adres": "wyb. Ludwika Pasteura 15A Wrocław",
+      "telefon": "717836122",
+      "regon": "932207260",
+      "nip": "8981951100",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"TĘCZOWA 2\"",
+      "adres": "ul. Tęczowa 2 Wrocław",
+      "telefon": "717836122",
+      "regon": "932181968",
+      "nip": "8971640410",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WYSZYŃSKIEGO 136\"",
+      "adres": "ul. kard. Stefana Wyszyńskiego 136 Wrocław",
+      "telefon": "717836122",
+      "regon": "932210598",
+      "nip": "8981946441",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA ALEJA JANA MATEJKI 7",
       "adres": "al. Jana Matejki 7 Wrocław",
       "telefon": "713026921",
@@ -28048,6 +28080,15 @@
       "nip": "8982224916",
       "email": "biuro@imeritum.pl",
       "data_powstania": "2016-08-31"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DROHOBYCKIEJ 25-29 WROCŁAW",
+      "adres": "ul. Drohobycka 25-29 Wrocław",
+      "telefon": "717836122",
+      "regon": "020254736",
+      "nip": "8942862562",
+      "email": "",
+      "data_powstania": "2005-05-04"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KRAKUSA 4",
@@ -28086,6 +28127,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DASZYŃSKIEGO 42",
+      "adres": "ul. Ignacego Daszyńskiego 42 Wrocław",
+      "telefon": "713488171",
+      "regon": "932209827",
+      "nip": "8981942756",
+      "email": "MARITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DROHOBYCKIEJ 6-12A",
       "adres": "ul. Drohobycka 6 Wrocław",
       "telefon": "713026921",
@@ -28093,6 +28143,42 @@
       "nip": "8943201874",
       "email": "BIURO@IMPERITUM.PL",
       "data_powstania": "2022-10-25"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GRABISZYŃSKIEJ 216-224, WROCŁAW",
+      "adres": "ul. Grabiszyńska 216-224 Wrocław",
+      "telefon": "717838836",
+      "regon": "020512888",
+      "nip": "8942899594",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "2007-04-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 10",
+      "adres": "ul. Ksawerego Liskego 10 Wrocław",
+      "telefon": "717836122",
+      "regon": "932199218",
+      "nip": "8981930842",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 4 WE WROCŁAWIU",
+      "adres": "ul. Ksawerego Liskego 4 Wrocław",
+      "telefon": "713281512",
+      "regon": "932203300",
+      "nip": "8981939441",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "2000-05-22"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.M.REJA 66 WROCŁAW",
+      "adres": "ul. Mikołaja Reja 66 Wrocław",
+      "telefon": "717836122",
+      "regon": "930860866",
+      "nip": "8981480830",
+      "email": "MERITUM@WP.PL",
+      "data_powstania": "1996-07-26"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PAWŁOWA 14",
@@ -28113,12 +28199,48 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SIENKIEWICZA 89",
+      "adres": "ul. Henryka Sienkiewicza 89 Wrocław",
+      "telefon": "717836121",
+      "regon": "932207640",
+      "nip": "8981952341",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TĘCZOWEJ 8",
       "adres": "ul. Tęczowa 8 Wrocław",
       "telefon": "713026921",
       "regon": "932182028",
       "nip": "8971640373",
       "email": "biuro@imeritum.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WALECZNYCH 10",
+      "adres": "ul. Walecznych 10 Wrocław",
+      "telefon": "713488171",
+      "regon": "932201323",
+      "nip": "8981942064",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 25",
+      "adres": "ul. Wesoła 25 Wrocław",
+      "telefon": "717836122",
+      "regon": "932239455",
+      "nip": "8992385041",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WYSZYŃSKIEGO 121",
+      "adres": "ul. kard. Stefana Wyszyńskiego 121 Wrocław",
+      "telefon": "713488171",
+      "regon": "932201777",
+      "nip": "8981942472",
+      "email": "",
       "data_powstania": "1994-06-24"
     },
     {
@@ -28131,6 +28253,24 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASZTELAŃSKA 7A, WROCŁAW",
+      "adres": "ul. Kasztelańska 7A Wrocław",
+      "telefon": "717836122",
+      "regon": "932931576",
+      "nip": "8951796095",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "2001-09-27"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.DROHOBYCKA 41-43, WROCŁAW",
+      "adres": "ul. Drohobycka 41-43 Wrocław",
+      "telefon": "717836122",
+      "regon": "020166216",
+      "nip": "8942859175",
+      "email": "",
+      "data_powstania": "2005-10-24"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.LWOWSKA 37 WE WROCŁAWIU",
       "adres": "ul. Lwowska 37 Wrocław",
       "telefon": "713026921",
@@ -28138,6 +28278,24 @@
       "nip": "8942619212",
       "email": "biuro@imeritum.pl",
       "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OPOROWSKA 12 WE WROCŁAWIU",
+      "adres": "ul. Oporowska 12 Wrocław",
+      "telefon": "717838836",
+      "regon": "932151660",
+      "nip": "8942619471",
+      "email": "MERITUM@WP.PL",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OŁTASZYŃSKA 94-98 WROCŁAW",
+      "adres": "ul. Ołtaszyńska 96 Wrocław",
+      "telefon": "717836122",
+      "regon": "932970984",
+      "nip": "8992499796",
+      "email": "MERITUMAT@WP.PL",
+      "data_powstania": "2003-12-20"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.WIĘZIENNA 21 ABC",
@@ -28149,87 +28307,24 @@
       "data_powstania": "2000-11-23"
     }
   ],
-  "meritum": [
+  "tel-509105795": [
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. BOROWSKIEJ 270",
-      "adres": "ul. Borowska 270 Wrocław",
-      "telefon": "717171420",
-      "regon": "368681880",
-      "nip": "8992833752",
-      "email": "biuro@meritum.pl",
-      "data_powstania": "2017-09-26"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA  DROHOBYCKA 5-7",
+      "adres": "ul. Drohobycka 5-7 Wrocław",
+      "telefon": "509105795",
+      "regon": "020322930",
+      "nip": "8942874973",
+      "email": "kruszynska.drohobycka@gmail.com",
+      "data_powstania": "2006-05-15"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DROHOBYCKIEJ 34-36",
-      "adres": "pl. Orląt Lwowskich 20 C Wrocław",
-      "telefon": "717171420",
-      "regon": "021501421",
-      "nip": "8971774487",
-      "email": "",
-      "data_powstania": "2011-04-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KUNICKIEGO 5-7 WE WROCŁAWIU",
-      "adres": "pl. Orląt Lwowskich 20C Wrocław",
-      "telefon": "717171420",
-      "regon": "932641080",
-      "nip": "8942671572",
-      "email": "meritumat@wp.pl",
-      "data_powstania": "1998-05-16"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LISKEGO 12",
-      "adres": "ul. Francuska 42 Wrocław",
-      "telefon": "717171420",
-      "regon": "932199230",
-      "nip": "8981930799",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MOKRZAŃSKIEJ 24,24A,24B",
-      "adres": "ul. Mokrzańska 24,24A,24B Wrocław",
-      "telefon": "717171420",
-      "regon": "932804174",
-      "nip": "8942748547",
-      "email": "",
-      "data_powstania": "1994-07-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 71",
-      "adres": "pl. Orląt Lwowskich 20C Wrocław",
-      "telefon": "717171420",
-      "regon": "932193730",
-      "nip": "8992378785",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŚW.WINCENTEGO 10",
-      "adres": "pl. Orląt Lwowskich 20 C Wrocław",
-      "telefon": "717171420",
-      "regon": "932212605",
-      "nip": "8981921151",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WE WROCŁAWIU UL.PERECA 54",
-      "adres": "ul. Francuska 42 Wrocław",
-      "telefon": "717171420",
-      "regon": "932158544",
-      "nip": "8942618589",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.KLECZKOWSKA 48",
-      "adres": "pl. Orląt Lwowskich 20C Wrocław",
-      "telefon": "717171420",
-      "regon": "932107802",
-      "nip": "8951719226",
-      "email": "",
-      "data_powstania": "2000-01-01"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. GAGARINA 16-34",
+      "adres": "ul. Jurija Gagarina 16-34 Wrocław",
+      "telefon": "509105795",
+      "regon": "021486934",
+      "nip": "8943019632",
+      "email": "ZARZAD@GAGARINA.WROCLAW.PL",
+      "data_powstania": "2010-12-02"
     }
   ],
   "tel-717836211": [
@@ -28409,7 +28504,7 @@
       "data_powstania": "2011-11-21"
     }
   ],
-  "domus": [
+  "domus-zarzadzanie-nieruchomo-iami": [
     {
       "nazwa": "\"WSPÓLNOTA MIESZKANIOWA OAZA PRZY UL.NYSKIEJ 70 WE WROCŁAWIU\"",
       "adres": "ul. Grabiszyńska 163 Wrocław",
@@ -29149,6 +29244,17 @@
       "data_powstania": "2000-01-01"
     }
   ],
+  "tel-3392228": [
+    {
+      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA-OLGINA\"",
+      "adres": "ul. Grabiszyńska 289 Wrocław",
+      "telefon": "3392228",
+      "regon": "931897251",
+      "nip": "8942454610",
+      "email": "",
+      "data_powstania": "1998-09-15"
+    }
+  ],
   "tel-717940232": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"GRABISZYN\"",
@@ -29182,133 +29288,7 @@
       "data_powstania": "2004-02-27"
     }
   ],
-  "przemysaw-witczak-apw-zarzadzanie-nieruchomo-iami": [
-    {
-      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA - PIASTOWSKA 29\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "713283667",
-      "regon": "932207432",
-      "nip": "8981951264",
-      "email": "JADWIGAKOLACZ@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932167738",
-      "nip": "8981906186",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2000-04-03"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"GRUNWALDZKA 82\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932206846",
-      "nip": "8981946458",
-      "email": "piastowska30@gmail.com",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"M.SKŁODOWSKIEJ-CURIE 47\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932208199",
-      "nip": "8981953760",
-      "email": "JADWIGAKOLACZ@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NORWIDA 32\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932207136",
-      "nip": "8981950129",
-      "email": "PATRON@PZM-PATRON.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NORWIDA 40\"",
-      "adres": "ul. Cypriana Kamila Norwida 40 Wrocław",
-      "telefon": "713281439",
-      "regon": "932207165",
-      "nip": "8981950419",
-      "email": "JADWIGAKOLACZ@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PIASTOWSKA 34\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932207550",
-      "nip": "8981952312",
-      "email": "PIASTOWSKA30@GMAIL.COM.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PIASTOWSKA 36\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "713283667",
-      "regon": "932207573",
-      "nip": "8981952298",
-      "email": "JADWIGAKOLACZ@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"REJA 20\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932208012",
-      "nip": "8981951465",
-      "email": "20REJA@GMAIL.COM",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SPÓŁDZIELCZA 20\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932173495",
-      "nip": "8981932870",
-      "email": "21piastowska@gmail.com",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"STANISŁAWSKIEGO 15\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932173963",
-      "nip": "8981931273",
-      "email": "21piastowska@gmail.com",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SUCHARDY 6\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932892617",
-      "nip": "8982012781",
-      "email": "PATRON@PZM-PATRON.PL",
-      "data_powstania": "2002-05-22"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SUCHARDY 8\"",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932208615",
-      "nip": "8981953978",
-      "email": "PATRON@PZM-PATRON.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. 9 MAJA 18 WE WROCŁAWIU",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "022197416",
-      "nip": "8982204670",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2010-10-29"
-    },
+  "dtd-nieruchomo-i-jakub-romanowski": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GEN. WŁADYSŁAWA SIKORSKIEGO 18 WROCŁAW",
       "adres": "ul. gen. Władysława Sikorskiego 18 Wrocław",
@@ -29317,285 +29297,6 @@
       "nip": "8971786786",
       "email": "zarzadca.dtd.nieruchomosci@gmail.com",
       "data_powstania": "2012-11-21"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. HENRYKA BRODATEGO 4",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932211178",
-      "nip": "8981915268",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PARTYZANTÓW 107",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932907520",
-      "nip": "8982016626",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1981-12-21"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PARTYZANTÓW 25",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "384406598",
-      "nip": "8982253616",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2019-09-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. WARYŃSKIEGO 4",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "363950080",
-      "nip": "8982220829",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1983-06-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ŚCIEGIENNEGO 5 WROCŁAW",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020416475",
-      "nip": "8982099925",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1976-01-20"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DEMBOWSKIEGO 112",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932172797",
-      "nip": "8981910176",
-      "email": "eska-zarzadzanie@wp.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.E.PLATER 3",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932172165",
-      "nip": "8981932692",
-      "email": "boiro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.E.PLATER 7",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932168761",
-      "nip": "8981932663",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KASPRZAKA 10",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932173006",
-      "nip": "8981910868",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KONARSKIEGO 12",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932170120",
-      "nip": "8981910673",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 18",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932169861",
-      "nip": "8981910555",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 42",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932188887",
-      "nip": "8981909670",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 63",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932170580",
-      "nip": "8981909902",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 9",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932169832",
-      "nip": "8981910590",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LELEWELA 21 i 21a",
-      "adres": "ul. Piastowska 29 Wrocław",
-      "telefon": "692891830",
-      "regon": "932968326",
-      "nip": "8971690833",
-      "email": "jadwigakolacz@gmail.com",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MIEROSŁAWSKIEGO 2",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "483486753",
-      "regon": "932197923",
-      "nip": "8981936000",
-      "email": "biuro@apw.wroclaw",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONIUSZKI 16",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932652184",
-      "nip": "8981962150",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASINO 49",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932170611",
-      "nip": "8981916084",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASINO 56",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932173762",
-      "nip": "8981916055",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASSINO 65",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932268497",
-      "nip": "8981958355",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASSINO 69",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932170048",
-      "nip": "8981916581",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NULLA 4",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932188893",
-      "nip": "8981923687",
-      "email": "biuro@apwr.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.OLSZEWSKIEGO 80",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932228641",
-      "nip": "8981931362",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PANKIEWICZA 3",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932197870",
-      "nip": "8981935609",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 57",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932167862",
-      "nip": "8981926378",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 73",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932703266",
-      "nip": "8981979268",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 76",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932169714",
-      "nip": "8981926071",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 86",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932169074",
-      "nip": "8981926349",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PIASTOWSKIEJ 25 \"POD ANIOŁEM\"",
-      "adres": "ul. Piastowska 29 (L.UŻ) Wrocław",
-      "telefon": "692891830",
-      "regon": "932207372",
-      "nip": "8981951146",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SKŁODOWSKIEJ-CURIE 91",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932208325",
-      "nip": "8981953814",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SOWIŃSKIEGO 17",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932169619",
-      "nip": "8981932166",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. HERMANOWSKA 47/49",
@@ -29607,258 +29308,6 @@
       "data_powstania": "1996-09-16"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASPRZAKA 25, WROCŁAW",
-      "adres": "ul. Monte Cassino 51 Wrocław",
-      "telefon": "713486753",
-      "regon": "932928485",
-      "nip": "8982023856",
-      "email": "",
-      "data_powstania": "2003-07-15"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASPRZAKA 4",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931899706",
-      "nip": "8981910532",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1998-09-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOSYNIERÓW GDYŃSKICH 26",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931091683",
-      "nip": "8982085248",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1997-11-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. MONTE CASSINO 51, WROCŁAW",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932928462",
-      "nip": "8982023833",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2003-07-21"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. MONTE CASSINO 62",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020896386",
-      "nip": "8982201252",
-      "email": "eska-zarzadzanie@wp.pl",
-      "data_powstania": "2000-05-30"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. NULLA 36",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931929904",
-      "nip": "8982073647",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1998-11-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. NULLO 6, WROCŁAW",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932943214",
-      "nip": "8982028138",
-      "email": "",
-      "data_powstania": "2003-09-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. OKRZEI 33, WROCŁAW",
-      "adres": "ul. Stefana Okrzei 33 Wrocław",
-      "telefon": "713486753",
-      "regon": "931053955",
-      "nip": "8982041423",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1997-07-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. POTEBNI 25 WROCŁAW",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931052230",
-      "nip": "8982173969",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1997-07-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. PROMIEŃ 19",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932774970",
-      "nip": "8982045303",
-      "email": "biuroapw@wroclaw.pl",
-      "data_powstania": "1999-01-14"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WARYŃSKIEGO 2",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020756053",
-      "nip": "8982136543",
-      "email": "",
-      "data_powstania": "2008-05-07"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WARYŃSKIEGO 5",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "523807338",
-      "nip": "8982286969",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "2022-11-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BECKA 1",
-      "adres": "ul. Józefa Becka 1 Wrocław",
-      "telefon": "713486753",
-      "regon": "932184040",
-      "nip": "8981932031",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.J.BECKA 11",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931073107",
-      "nip": "8982183643",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "1997-09-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.J.BECKA 14 WROCŁAW",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932882613",
-      "nip": "8982026352",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "2002-11-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KASPRZAKA 27",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931919780",
-      "nip": "8982082178",
-      "email": "",
-      "data_powstania": "1998-10-26"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KASPRZAKA 8",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020235220",
-      "nip": "8982082161",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2005-10-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KOTSISA 29 WROCŁAW",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "021225547",
-      "nip": "8982173573",
-      "email": "eska-zarzadzanie@wp.pl",
-      "data_powstania": "2010-03-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 29",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932183513",
-      "nip": "8981925640",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 69",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932276019",
-      "nip": "8981979452",
-      "email": "biuro@apw.wroclaw.pl",
-      "data_powstania": "2000-12-04"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 82",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931920866",
-      "nip": "8981946346",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1998-10-12"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 83",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "930490174",
-      "nip": "8982213864",
-      "email": "biuo@apw.wroclaw.pl",
-      "data_powstania": "1995-06-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POLESKA 11-15",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932659536",
-      "nip": "8951746163",
-      "email": "BIURO@QPW.WROCLAW.PL",
-      "data_powstania": "2001-04-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POTEBNI 17",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931910030",
-      "nip": "8982082563",
-      "email": "",
-      "data_powstania": "1997-05-21"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POTEBNI 3",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "931987126",
-      "nip": "8981992145",
-      "email": "",
-      "data_powstania": "1999-05-13"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ZAKRZOWSKA 17 WE WROCŁAWIU",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020764472",
-      "nip": "8951920477",
-      "email": "",
-      "data_powstania": "2008-06-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ŁUKASIEWICZA 15",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932206556",
-      "nip": "8981946139",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ŚCIEGIENNEGO 2 WE WROCŁAWIU",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486753",
-      "regon": "020308998",
-      "nip": "8982087738",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "2005-10-20"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.BYDGOSKA 12",
       "adres": "ul. Bydgoska 12 Wrocław",
       "telefon": "887039555",
@@ -29866,15 +29315,6 @@
       "nip": "8951729785",
       "email": "zarzadca.dtd.nieruchomosci@gmail.com",
       "data_powstania": "2000-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.JEZIERSKIEGO 7",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713486753",
-      "regon": "932903700",
-      "nip": "8982038846",
-      "email": "",
-      "data_powstania": "2001-06-13"
     }
   ],
   "posesja-zanal-zarzadzanie-nieruchomo-iami": [
@@ -29979,7 +29419,7 @@
       "data_powstania": "2024-07-09"
     }
   ],
-  "promena-zarzadzanie-nieruchomo-iami": [
+  "promena": [
     {
       "nazwa": "\"STOKROTKA\" WSPÓLNOTA MIESZKANIOWA UL. MOKRZAŃSKA 36,36A,36B",
       "adres": "ul. Jemiołowa 16 Wrocław",
@@ -31900,7 +31340,7 @@
       "data_powstania": "1998-12-04"
     }
   ],
-  "adm-system": [
+  "zarzadzanie-nieruchomo-iami-adm-system-magorzata-rauch-janowicz": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA  ZAGONY 79A",
       "adres": "ul. Na Grobli 34 Wrocław",
@@ -32136,7 +31576,7 @@
       "data_powstania": "2000-01-01"
     }
   ],
-  "herdom": [
+  "herdom-zarzadzanie-nieruchomo-iami": [
     {
       "nazwa": "\"WSPÓLNOTA MIESZKANIOWA NASZE OSIEDLE - 1\"",
       "adres": "ul. Przejazdowa 13,13a,15 Wrocław",
@@ -34900,6 +34340,44 @@
       "data_powstania": "2023-04-21"
     }
   ],
+  "pu-meritum": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. GAGARINA 46-60",
+      "adres": "ul. Jurija Gagarina 46-60 Wrocław",
+      "telefon": "713027654",
+      "regon": "386199525",
+      "nip": "8943155051",
+      "email": "BIURO@MERITUM.PL",
+      "data_powstania": "2020-05-11"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ODRZAŃSKIEJ 1",
+      "adres": "ul. Odrzańska 1 Wrocław",
+      "telefon": "713027654",
+      "regon": "932162362",
+      "nip": "8971644945",
+      "email": "BIURO@IMERITUM.P[L",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.SIOSTRZANA 3-5",
+      "adres": "pl. Orląt Lwowskich 20C Wrocław",
+      "telefon": "713027654",
+      "regon": "020719490",
+      "nip": "8992634975",
+      "email": "biuro@imeritum.pl",
+      "data_powstania": "2008-03-27"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ZIELIŃSKIEGO 53-53A",
+      "adres": "pl. Orląt Lwowskich 20C Wrocław",
+      "telefon": "713027654",
+      "regon": "932881039",
+      "nip": "8992466845",
+      "email": "biuro@imeritum.pl",
+      "data_powstania": "2002-10-29"
+    }
+  ],
   "egendom": [
     {
       "nazwa": "APARTAMENTY ROŚLINNA",
@@ -36090,7 +35568,7 @@
       "data_powstania": "2016-02-24"
     }
   ],
-  "prime-project-zarzadzanie-nieruchomo-iami": [
+  "prime-project": [
     {
       "nazwa": "\"WSPÓLNOTA MIESZKANIOWA OSIEDLE INNOVA\"",
       "adres": "ul. Nyska 50-60c Wrocław",
@@ -36407,7 +35885,7 @@
       "data_powstania": "2021-06-02"
     }
   ],
-  "pumaz-zn": [
+  "pumaz-stanisaw-olszewski": [
     {
       "nazwa": "\"WSPÓLNOTA  LOKALOWA WILEŃSKA BUSINESS GARDEN\"",
       "adres": "ul. Sępia 29 Wrocław",
@@ -37217,6 +36695,17 @@
       "nip": "8992609983",
       "email": "",
       "data_powstania": "2007-03-13"
+    }
+  ],
+  "tel-173538610": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PŁOŃSKIEGO 5 WE WROCŁAWIU",
+      "adres": "ul. Michała Płońskiego 5 Wrocław",
+      "telefon": "173538610",
+      "regon": "932164770",
+      "nip": "8942617839",
+      "email": "",
+      "data_powstania": "1997-11-13"
     }
   ],
   "nasz-zarzadca": [
@@ -39504,7 +38993,7 @@
       "data_powstania": "2001-01-24"
     }
   ],
-  "dla-wspolnoty-pl-zarzadzanie-nieruchomo-iami-jakub-szpiegowski": [
+  "dla-wspolnoty-zarzadzanie-nieruchomo-iami": [
     {
       "nazwa": "\"WSPÓLNOTA MIESZKANIOWA GŁÓWNA 45\"",
       "adres": "ul. Olbrachtowska 30 Wrocław",
@@ -40113,7 +39602,7 @@
       "data_powstania": "2013-02-18"
     }
   ],
-  "major-domus-zarzadzanie-i-obrot-nieruchomo-iami": [
+  "major-domus": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"CZERWONE AGRESTY\"",
       "adres": "al. Armii Krajowej 14c Wrocław",
@@ -44146,7 +43635,7 @@
       "data_powstania": "2000-01-01"
     }
   ],
-  "alba-polska": [
+  "alba-property-management-spoka-z-o-o": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WANDY 8\"",
       "adres": "ul. Szczecińska 5 Wrocław",
@@ -46289,70 +45778,7 @@
       "data_powstania": "2001-01-30"
     }
   ],
-  "zarosa-barbara-zarzadzanie-nieruchomo-iami-i-ubezpieczenia": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŁÓDZKA 18\"",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237730",
-      "nip": "8992379359",
-      "email": "rombunznuo@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŁÓDZKA 32\"",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238094",
-      "nip": "8992379603",
-      "email": "ROMBUDZM@O2.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. WESOŁEJ 17",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239082",
-      "nip": "8992379997",
-      "email": "rombudznuo@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 B",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239254",
-      "nip": "8992383496",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 C",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239260",
-      "nip": "8992383504",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 D",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239283",
-      "nip": "8992383533",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DASZYŃSKIEGO 42",
-      "adres": "ul. Ignacego Daszyńskiego 42 Wrocław",
-      "telefon": "713488171",
-      "regon": "932209827",
-      "nip": "8981942756",
-      "email": "MARITUMAT@WP.PL",
-      "data_powstania": "1994-06-24"
-    },
+  "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.HENRYKOWSKIEJ 4 WE WROCŁAWIU",
       "adres": "ul. Henrykowska 4 Wrocław",
@@ -46363,267 +45789,6 @@
       "data_powstania": "1994-01-24"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KRYNICKIEJ 64",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237746",
-      "nip": "8992385058",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONIUSZKI 18",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "713466753",
-      "regon": "932798976",
-      "nip": "8981995540",
-      "email": "BIURO@APW.WROCLAW.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.OSOBOWICKIEJ 112 C",
-      "adres": "ul. Osobowicka 112C Wrocław",
-      "telefon": "746487171",
-      "regon": "021413958",
-      "nip": "8951985637",
-      "email": "bpr.dn@wp.pl",
-      "data_powstania": "2010-11-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 11",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238473",
-      "nip": "8992383415",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 13",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238496",
-      "nip": "8992383438",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 17",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238510",
-      "nip": "8992379394",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 9",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238450",
-      "nip": "8992383409",
-      "email": "ROMBUDZMNO@O2.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WALECZNYCH 10",
-      "adres": "ul. Walecznych 10 Wrocław",
-      "telefon": "713488171",
-      "regon": "932201323",
-      "nip": "8981942064",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 11",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238935",
-      "nip": "8992380055",
-      "email": "rombud@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 15",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239060",
-      "nip": "8992384969",
-      "email": "rombudznuo@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 5",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238830",
-      "nip": "8992379939",
-      "email": "PROREMZ@NEOSTRADA.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 63",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239751",
-      "nip": "8992371895",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 65",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239805",
-      "nip": "8992385213",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 67",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932239834",
-      "nip": "8992385207",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 69",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238527",
-      "nip": "8992385153",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 71",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238556",
-      "nip": "8992385199",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WYSZYŃSKIEGO 121",
-      "adres": "ul. kard. Stefana Wyszyńskiego 121 Wrocław",
-      "telefon": "713488171",
-      "regon": "932201777",
-      "nip": "8981942472",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ZAPOROSKIEJ 50",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932190861",
-      "nip": "8992367965",
-      "email": "ROMBUDZN@O2.PL",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 11",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237960",
-      "nip": "8992383450",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 16",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237717",
-      "nip": "8992379833",
-      "email": "rombudznuo@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 22",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237829",
-      "nip": "8992379313",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 22A",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237835",
-      "nip": "8992379299",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 30",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238160",
-      "nip": "8992379945",
-      "email": "ROMBUDZN@O2.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 31",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238071",
-      "nip": "8992379951",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 34",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238119",
-      "nip": "8992379520",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 36",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237976",
-      "nip": "8992379661",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 42",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932237999",
-      "nip": "8992379974",
-      "email": "rombudznuo@o2.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 44",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238007",
-      "nip": "8992383467",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 46",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "932238036",
-      "nip": "8992383473",
-      "email": "",
-      "data_powstania": "1994-06-24"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.MOŚCICKIEGO 2-10,UL.TOPOLOWA 1 WROCŁAW",
       "adres": "UL. MOŚCICKIEGO 2-10, TOPOLOWA 1",
       "telefon": "601754696",
@@ -46631,137 +45796,9 @@
       "nip": "8992414541",
       "email": "",
       "data_powstania": "2001-05-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.NULLA 32",
-      "adres": "ul. Partyzantów 70/72 Wrocław",
-      "telefon": "713486754",
-      "regon": "021480713",
-      "nip": "8982190270",
-      "email": "",
-      "data_powstania": "1980-12-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL. PRZESTRZENNA 39",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "933008953",
-      "nip": "8992513533",
-      "email": "",
-      "data_powstania": "2004-07-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.WESOŁA 16-24",
-      "adres": "ul. Gajowa 74 Wrocław",
-      "telefon": "717233636",
-      "regon": "020854146",
-      "nip": "8992655463",
-      "email": "",
-      "data_powstania": "2008-09-30"
     }
   ],
-  "atena-hjw-biuro-2": [
-    {
-      "nazwa": "WSPÓLNOTA FIOŁKOWA 1-3 WYSOKA",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "364206283",
-      "nip": "8992790505",
-      "email": "BIURO@HJW.PL",
-      "data_powstania": "2016-02-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA GRABISZYŃSKA 141 WROCŁAW",
-      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
-      "telefon": "713619713",
-      "regon": "388380737",
-      "nip": "8992895799",
-      "email": "BIURO@ATENA-HJW.PL",
-      "data_powstania": "2021-03-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY PL. POWSTAŃCÓW ŚLĄSKICH 10",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932656874",
-      "nip": "8992410129",
-      "email": "",
-      "data_powstania": "2000-10-19"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KARMELKOWEJ 84/86/88",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932824739",
-      "nip": "8992458231",
-      "email": "",
-      "data_powstania": "2002-06-25"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. KRUCZEJ 31",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932844133",
-      "nip": "8992463798",
-      "email": "",
-      "data_powstania": "2002-08-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PORANNEJ 5",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "021030878",
-      "nip": "8992677223",
-      "email": "",
-      "data_powstania": "2009-05-06"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PUŁTUSKIEJ 14 WE WROCŁAWIU",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932911272",
-      "nip": "8992476447",
-      "email": "",
-      "data_powstania": "2002-12-18"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.CZEKOLADOWEJ 32",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932715170",
-      "nip": "8992460334",
-      "email": "",
-      "data_powstania": "2001-04-23"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 75",
-      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
-      "telefon": "713619713",
-      "regon": "932193747",
-      "nip": "8992378791",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SZTABOWEJ 77",
-      "adres": "al. gen. Józefa Hallera 14B Wrocław",
-      "telefon": "713619713",
-      "regon": "932193753",
-      "nip": "8992378816",
-      "email": "ZANIR@INTERIA.PL",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POŁUDNIOWA 4, WROCŁAW",
-      "adres": "al. gen. Józefa Hallera 14 B Wrocław",
-      "telefon": "713619713",
-      "regon": "932692380",
-      "nip": "8992426679",
-      "email": "",
-      "data_powstania": "2000-12-20"
-    }
-  ],
-  "domestia-zarzadzanie-nieruchomo-iami": [
+  "domestia": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PL. KONSTYTUCJI 3 MAJA 8",
       "adres": "ul. Tadeusza Kościuszki 85 Wrocław",
@@ -49756,7 +48793,7 @@
       "data_powstania": "2024-05-17"
     }
   ],
-  "pisaniak": [
+  "zarzadzanie-nieruchomo-iami-przemysaw-pisaniak": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"RAKOWIEC\"",
       "adres": "ul. Rakowiecka 56 Wrocław",
@@ -50214,7 +49251,7 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski": [
+  "archicom": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"BOTANICA RESIDENCE\" WROCŁAW UL. SIENKIEWICZA 34A, AL.MATEJKI 2 I 2A",
       "adres": "ul. Henryka Sienkiewicza 34A Wrocław",
@@ -50243,15 +49280,6 @@
       "data_powstania": "2009-04-22"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"POD LIPAMI\"",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713944525",
-      "regon": "021991000",
-      "nip": "8952017012",
-      "email": "",
-      "data_powstania": "2012-03-16"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"TUMSKIE OGRODY\" WROCŁAW AL.MATEJKI 2B-2E",
       "adres": "al. Jana Matejki 2B Wrocław",
       "telefon": "713941771",
@@ -50261,24 +49289,6 @@
       "data_powstania": "2014-04-14"
     },
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA JAGIELLOŃCZYKA 36",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713944525",
-      "regon": "022048722",
-      "nip": "8952018336",
-      "email": "KON-PARTNER@WP.PL",
-      "data_powstania": "2012-11-09"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA KĘTRZYŃSKA 35",
-      "adres": "ul. Kętrzyńska 35 Wrocław",
-      "telefon": "713944525",
-      "regon": "022154654",
-      "nip": "8952023277",
-      "email": "kon-partner@wp.pl",
-      "data_powstania": "2013-04-26"
-    },
-    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. DASZYŃSKIEGO 45",
       "adres": "ul. Bolesława Chrobrego 2 Wrocław",
       "telefon": "713941771",
@@ -50286,24 +49296,6 @@
       "nip": "8981942785",
       "email": "BARTOSZ.ZAKRZEWSKI@KON-PARTNER.PL",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHROBREGO 2",
-      "adres": "ul. Kleczkowska 52 Wrocław",
-      "telefon": "713379460",
-      "regon": "932235629",
-      "nip": "8981926651",
-      "email": "PARTNER00000@WP.PL",
-      "data_powstania": "2000-08-17"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.GWARNA 11",
-      "adres": "ul. Bolesława Chrobrego 2 Wrocław",
-      "telefon": "605830309",
-      "regon": "932805995",
-      "nip": "8971673668",
-      "email": "kon-partner@wp.pl",
-      "data_powstania": "2002-03-08"
     }
   ],
   "r-group-company": [
@@ -51269,6 +50261,314 @@
       "data_powstania": "1995-06-28"
     }
   ],
+  "bpr-dolnoslaskie-nieruchomo-i": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŁÓDZKA 18\"",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237730",
+      "nip": "8992379359",
+      "email": "rombunznuo@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"ŁÓDZKA 32\"",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238094",
+      "nip": "8992379603",
+      "email": "ROMBUDZM@O2.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. WESOŁEJ 17",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239082",
+      "nip": "8992379997",
+      "email": "rombudznuo@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 B",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239254",
+      "nip": "8992383496",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 C",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239260",
+      "nip": "8992383504",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BOROWSKIEJ 189 D",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239283",
+      "nip": "8992383533",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KRYNICKIEJ 64",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237746",
+      "nip": "8992385058",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.OSOBOWICKIEJ 112 C",
+      "adres": "ul. Osobowicka 112C Wrocław",
+      "telefon": "746487171",
+      "regon": "021413958",
+      "nip": "8951985637",
+      "email": "bpr.dn@wp.pl",
+      "data_powstania": "2010-11-19"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 11",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238473",
+      "nip": "8992383415",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 13",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238496",
+      "nip": "8992383438",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 17",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238510",
+      "nip": "8992379394",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ 9",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238450",
+      "nip": "8992383409",
+      "email": "ROMBUDZMNO@O2.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 11",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238935",
+      "nip": "8992380055",
+      "email": "rombud@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 15",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239060",
+      "nip": "8992384969",
+      "email": "rombudznuo@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WESOŁEJ 5",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238830",
+      "nip": "8992379939",
+      "email": "PROREMZ@NEOSTRADA.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 63",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239751",
+      "nip": "8992371895",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 65",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239805",
+      "nip": "8992385213",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 67",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932239834",
+      "nip": "8992385207",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 69",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238527",
+      "nip": "8992385153",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.WIECZYSTEJ 71",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238556",
+      "nip": "8992385199",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ZAPOROSKIEJ 50",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932190861",
+      "nip": "8992367965",
+      "email": "ROMBUDZN@O2.PL",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 11",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237960",
+      "nip": "8992383450",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 16",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237717",
+      "nip": "8992379833",
+      "email": "rombudznuo@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 22",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237829",
+      "nip": "8992379313",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 22A",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237835",
+      "nip": "8992379299",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 30",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238160",
+      "nip": "8992379945",
+      "email": "ROMBUDZN@O2.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 31",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238071",
+      "nip": "8992379951",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 34",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238119",
+      "nip": "8992379520",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 36",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237976",
+      "nip": "8992379661",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 42",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932237999",
+      "nip": "8992379974",
+      "email": "rombudznuo@o2.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 44",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238007",
+      "nip": "8992383467",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁÓDZKIEJ 46",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "932238036",
+      "nip": "8992383473",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL. PRZESTRZENNA 39",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "933008953",
+      "nip": "8992513533",
+      "email": "",
+      "data_powstania": "2004-07-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.WESOŁA 16-24",
+      "adres": "ul. Gajowa 74 Wrocław",
+      "telefon": "717233636",
+      "regon": "020854146",
+      "nip": "8992655463",
+      "email": "",
+      "data_powstania": "2008-09-30"
+    }
+  ],
   "tel-7172336363": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.TOMASZOWSKIEJ  17A",
@@ -51380,44 +50680,6 @@
       "nip": "8992870807",
       "email": "radoslaw@mrzarzadca.pl",
       "data_powstania": "2019-10-25"
-    }
-  ],
-  "phu-exist-iii": [
-    {
-      "nazwa": "WSPÓLNOTA LOKALOWA",
-      "adres": "ul. Bałtycka 17, 19, 21 Wrocław",
-      "telefon": "717746917",
-      "regon": "523979944",
-      "nip": "8952251653",
-      "email": "exist@home.pl",
-      "data_powstania": "2019-11-08"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"HAUKE BOSAKA 12\"",
-      "adres": "ul. gen. Józefa Haukego-Bosaka 12 Wrocław",
-      "telefon": "717746938",
-      "regon": "932234328",
-      "nip": "8992369680",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"UNIWERSYTECKA\"",
-      "adres": "ul. Uniwersytecka 19/20 Wrocław",
-      "telefon": "717746935",
-      "regon": "932163433",
-      "nip": "8971639878",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"WIEŻA\"",
-      "adres": "al. Jana Kasprowicza 108 Wrocław",
-      "telefon": "717746938",
-      "regon": "931948706",
-      "nip": "8951737230",
-      "email": "EXIST@HOME.PL",
-      "data_powstania": "1998-12-29"
     }
   ],
   "tel-713418301": [
@@ -53344,7 +52606,7 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "mah-zarzadzanie-nieruchomo-iami-magdalena-haasinska": [
+  "mah-zarzadzanie-nieruchomo-iami-m-haasinska": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"AGRESTOWA 17\"",
       "adres": "ul. Tarnogajska 11/13 Wrocław",
@@ -54305,7 +53567,7 @@
       "data_powstania": "2018-09-19"
     }
   ],
-  "complexcity-zarzadzanie-nieruchomo-iami": [
+  "complexcity": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA \"KOMEDY\"",
       "adres": "COMPLEXCITY S.C.",
@@ -54694,6 +53956,17 @@
       "nip": "8951720181",
       "email": "TBS@TBS-WROCLAW.COM.PL",
       "data_powstania": "2000-01-01"
+    }
+  ],
+  "tel-126889014": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA ALEJA KROMERA 16",
+      "adres": "al. Marcina Kromera 16 Wrocław",
+      "telefon": "126889014",
+      "regon": "368350841",
+      "nip": "8952158646",
+      "email": "",
+      "data_powstania": "2007-12-19"
     }
   ],
   "zakad-gospodarki-mieszkaniowej-centrum": [
@@ -55499,7 +54772,7 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "wrocawskie-mieszkania": [
+  "filia-centum-obsugi-mieszkanca-wrocawskie-mieszkania": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA BOLESŁAWA KRZYWOUSTEGO 292",
       "adres": "ul. Namysłowska 8 Wrocław",
@@ -56827,6 +56100,53 @@
       "data_powstania": "2010-08-31"
     }
   ],
+  "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"POD LIPAMI\"",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713944525",
+      "regon": "021991000",
+      "nip": "8952017012",
+      "email": "",
+      "data_powstania": "2012-03-16"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA JAGIELLOŃCZYKA 36",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713944525",
+      "regon": "022048722",
+      "nip": "8952018336",
+      "email": "KON-PARTNER@WP.PL",
+      "data_powstania": "2012-11-09"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA KĘTRZYŃSKA 35",
+      "adres": "ul. Kętrzyńska 35 Wrocław",
+      "telefon": "713944525",
+      "regon": "022154654",
+      "nip": "8952023277",
+      "email": "kon-partner@wp.pl",
+      "data_powstania": "2013-04-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.CHROBREGO 2",
+      "adres": "ul. Kleczkowska 52 Wrocław",
+      "telefon": "713379460",
+      "regon": "932235629",
+      "nip": "8981926651",
+      "email": "PARTNER00000@WP.PL",
+      "data_powstania": "2000-08-17"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.GWARNA 11",
+      "adres": "ul. Bolesława Chrobrego 2 Wrocław",
+      "telefon": "605830309",
+      "regon": "932805995",
+      "nip": "8971673668",
+      "email": "kon-partner@wp.pl",
+      "data_powstania": "2002-03-08"
+    }
+  ],
   "tel-713252784": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA  RÓŻANKA III",
@@ -57516,33 +56836,15 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "y-a-r-d": [
+  "eska-biuro-zarzadzania-nieruchomo-iami-krzysztof-sosna": [
     {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 21",
-      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
-      "telefon": "713556109",
-      "regon": "932195806",
-      "nip": "8971649670",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 35",
-      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
-      "telefon": "713556109",
-      "regon": "932195953",
-      "nip": "8971648185",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 43",
-      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
-      "telefon": "713556109",
-      "regon": "932196007",
-      "nip": "8971648541",
-      "email": "",
-      "data_powstania": "1995-01-01"
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PARTYZANTÓW 71",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "501276180",
+      "regon": "930900749",
+      "nip": "8982212712",
+      "email": "eska-zarzadzanie.wp.pl",
+      "data_powstania": "1996-09-29"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DEMBOWSKIEGO 126",
@@ -57552,24 +56854,6 @@
       "nip": "8981910118",
       "email": "",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GŁOGOWSKIEJ 27",
-      "adres": "ul. Romana Dmowskiego 15D Wrocław",
-      "telefon": "713556109",
-      "regon": "932196243",
-      "nip": "8971648848",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GŁOGOWSKIEJ 41",
-      "adres": "ul. Mikołaja Sępa-Szarzyńskiego 62-66 Wrocław",
-      "telefon": "713556109",
-      "regon": "932196326",
-      "nip": "8971648937",
-      "email": "",
-      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KONARSKIEGO 13",
@@ -57590,6 +56874,15 @@
       "data_powstania": "1994-06-24"
     },
     {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 30",
+      "adres": "ul. Jana Stanisławskiego 20 Wrocław",
+      "telefon": "501276180",
+      "regon": "932257909",
+      "nip": "8981940289",
+      "email": "eska-zarzadzanie@wp.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOTSISA 1",
       "adres": "ul. Aleksandra Kotsisa 1 Wrocław",
       "telefon": "713482473",
@@ -57597,15 +56890,6 @@
       "nip": "8981936046",
       "email": "",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NABYCIŃSKIEJ 1/3",
-      "adres": "ul. Romana Dmowskiego 15d Wrocław",
-      "telefon": "713556109",
-      "regon": "932196674",
-      "nip": "8971648268",
-      "email": "",
-      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NULLA 18",
@@ -57624,33 +56908,6 @@
       "nip": "8981963480",
       "email": "",
       "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ZIELONOGÓRSKIEJ 22",
-      "adres": "ul. Mikołaja Sępa-Szarzyńskiego 62-66 Wrocław",
-      "telefon": "713556109",
-      "regon": "932197395",
-      "nip": "8971649368",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁĘCZYCKIEJ 14",
-      "adres": "ul. Romana Dmowskiego 15 D Wrocław",
-      "telefon": "713556109",
-      "regon": "932196645",
-      "nip": "8971649641",
-      "email": "",
-      "data_powstania": "1995-01-01"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁĘCZYCKIEJ 15",
-      "adres": "ul. Romana Dmowskiego 15 D Wrocław",
-      "telefon": "713556109",
-      "regon": "932196651",
-      "nip": "8971648245",
-      "email": "",
-      "data_powstania": "1995-01-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŻMICHOWSKIEJ 1",
@@ -57687,6 +56944,24 @@
       "nip": "8982079934",
       "email": "",
       "data_powstania": "2006-01-25"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOSYNIERÓW GDYŃSKICH 52",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "501276180",
+      "regon": "021528348",
+      "nip": "8982212936",
+      "email": "ESKA-ZARZĄDZANIE@WP.PL",
+      "data_powstania": "1989-07-17"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOTSISA 11",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "501276180",
+      "regon": "930684636",
+      "nip": "8982214935",
+      "email": "",
+      "data_powstania": "1995-07-01"
     },
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.OLSZEWSKIEGO 28",
@@ -57731,6 +57006,134 @@
       "data_powstania": "1994-01-24"
     }
   ],
+  "biuro-z-a-n-jadwiga-koacz": [
+    {
+      "nazwa": "\"WSPÓLNOTA MIESZKANIOWA - PIASTOWSKA 29\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "713283667",
+      "regon": "932207432",
+      "nip": "8981951264",
+      "email": "JADWIGAKOLACZ@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"GRUNWALDZKA 82\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932206846",
+      "nip": "8981946458",
+      "email": "piastowska30@gmail.com",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"M.SKŁODOWSKIEJ-CURIE 47\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932208199",
+      "nip": "8981953760",
+      "email": "JADWIGAKOLACZ@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NORWIDA 32\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932207136",
+      "nip": "8981950129",
+      "email": "PATRON@PZM-PATRON.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"NORWIDA 40\"",
+      "adres": "ul. Cypriana Kamila Norwida 40 Wrocław",
+      "telefon": "713281439",
+      "regon": "932207165",
+      "nip": "8981950419",
+      "email": "JADWIGAKOLACZ@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PIASTOWSKA 34\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932207550",
+      "nip": "8981952312",
+      "email": "PIASTOWSKA30@GMAIL.COM.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"PIASTOWSKA 36\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "713283667",
+      "regon": "932207573",
+      "nip": "8981952298",
+      "email": "JADWIGAKOLACZ@WP.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"REJA 20\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932208012",
+      "nip": "8981951465",
+      "email": "20REJA@GMAIL.COM",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SPÓŁDZIELCZA 20\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932173495",
+      "nip": "8981932870",
+      "email": "21piastowska@gmail.com",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"STANISŁAWSKIEGO 15\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932173963",
+      "nip": "8981931273",
+      "email": "21piastowska@gmail.com",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SUCHARDY 6\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932892617",
+      "nip": "8982012781",
+      "email": "PATRON@PZM-PATRON.PL",
+      "data_powstania": "2002-05-22"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA \"SUCHARDY 8\"",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932208615",
+      "nip": "8981953978",
+      "email": "PATRON@PZM-PATRON.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.LELEWELA 21 i 21a",
+      "adres": "ul. Piastowska 29 Wrocław",
+      "telefon": "692891830",
+      "regon": "932968326",
+      "nip": "8971690833",
+      "email": "jadwigakolacz@gmail.com",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PIASTOWSKIEJ 25 \"POD ANIOŁEM\"",
+      "adres": "ul. Piastowska 29 (L.UŻ) Wrocław",
+      "telefon": "692891830",
+      "regon": "932207372",
+      "nip": "8981951146",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    }
+  ],
   "tel-713484374": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA",
@@ -57764,7 +57167,7 @@
       "data_powstania": "1994-06-24"
     }
   ],
-  "wspolnota-mieszkaniowa-dembowskiego-48": [
+  "tel-510056636": [
     {
       "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DEMBOWSKIEGO 48",
       "adres": "ul. Edwarda Dembowskiego 48 Wrocław",
@@ -57772,15 +57175,6 @@
       "regon": "932228575",
       "nip": "8981931445",
       "email": "wmdembowskiego48@gmail.com",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GRUNWALDZKIEJ 100",
-      "adres": "ul. Grunwaldzka 100 Wrocław",
-      "telefon": "504173550",
-      "regon": "932198911",
-      "nip": "8981931178",
-      "email": "w.grunwaldzka100@wp.pl",
       "data_powstania": "1994-06-24"
     }
   ],
@@ -57859,6 +57253,17 @@
       "nip": "8982253929",
       "email": "",
       "data_powstania": "1999-03-23"
+    }
+  ],
+  "tel-504173550": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GRUNWALDZKIEJ 100",
+      "adres": "ul. Grunwaldzka 100 Wrocław",
+      "telefon": "504173550",
+      "regon": "932198911",
+      "nip": "8981931178",
+      "email": "w.grunwaldzka100@wp.pl",
+      "data_powstania": "1994-06-24"
     }
   ],
   "ga-mi-zarzadzanie-nieruchomo-iami": [
@@ -59395,44 +58800,6 @@
       "data_powstania": "2001-07-28"
     }
   ],
-  "eska-biuro-zarzadzania-nieruchomo-iami-krzysztof-sosna": [
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PARTYZANTÓW 71",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "501276180",
-      "regon": "930900749",
-      "nip": "8982212712",
-      "email": "eska-zarzadzanie.wp.pl",
-      "data_powstania": "1996-09-29"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 30",
-      "adres": "ul. Jana Stanisławskiego 20 Wrocław",
-      "telefon": "501276180",
-      "regon": "932257909",
-      "nip": "8981940289",
-      "email": "eska-zarzadzanie@wp.pl",
-      "data_powstania": "1994-06-24"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOSYNIERÓW GDYŃSKICH 52",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "501276180",
-      "regon": "021528348",
-      "nip": "8982212936",
-      "email": "ESKA-ZARZĄDZANIE@WP.PL",
-      "data_powstania": "1989-07-17"
-    },
-    {
-      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOTSISA 11",
-      "adres": "ul. Partyzantów 70-72 Wrocław",
-      "telefon": "501276180",
-      "regon": "930684636",
-      "nip": "8982214935",
-      "email": "",
-      "data_powstania": "1995-07-01"
-    }
-  ],
   "tel-717808990": [
     {
       "nazwa": "WSPÓLNOTA LOKALOWA \"JEDNOŚCI NARODOWEJ 93\"",
@@ -59442,6 +58809,566 @@
       "nip": "8982236115",
       "email": "",
       "data_powstania": "2017-08-08"
+    }
+  ],
+  "apw-zarzadzanie-nieruchomo-iami-witczak-p": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932167738",
+      "nip": "8981906186",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2000-04-03"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. 9 MAJA 18 WE WROCŁAWIU",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "022197416",
+      "nip": "8982204670",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2010-10-29"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. HENRYKA BRODATEGO 4",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932211178",
+      "nip": "8981915268",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PARTYZANTÓW 107",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932907520",
+      "nip": "8982016626",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1981-12-21"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. PARTYZANTÓW 25",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "384406598",
+      "nip": "8982253616",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2019-09-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. WARYŃSKIEGO 4",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "363950080",
+      "nip": "8982220829",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1983-06-06"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL. ŚCIEGIENNEGO 5 WROCŁAW",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020416475",
+      "nip": "8982099925",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1976-01-20"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.DEMBOWSKIEGO 112",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932172797",
+      "nip": "8981910176",
+      "email": "eska-zarzadzanie@wp.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.E.PLATER 3",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932172165",
+      "nip": "8981932692",
+      "email": "boiro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.E.PLATER 7",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932168761",
+      "nip": "8981932663",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KASPRZAKA 10",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932173006",
+      "nip": "8981910868",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KONARSKIEGO 12",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932170120",
+      "nip": "8981910673",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 18",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932169861",
+      "nip": "8981910555",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 42",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932188887",
+      "nip": "8981909670",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 63",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932170580",
+      "nip": "8981909902",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.KOSYNIERÓW GDYŃSKICH 9",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932169832",
+      "nip": "8981910590",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MIEROSŁAWSKIEGO 2",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "483486753",
+      "regon": "932197923",
+      "nip": "8981936000",
+      "email": "biuro@apw.wroclaw",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONIUSZKI 16",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932652184",
+      "nip": "8981962150",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONIUSZKI 18",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713466753",
+      "regon": "932798976",
+      "nip": "8981995540",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASINO 49",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932170611",
+      "nip": "8981916084",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASINO 56",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932173762",
+      "nip": "8981916055",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASSINO 65",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932268497",
+      "nip": "8981958355",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.MONTE CASSINO 69",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932170048",
+      "nip": "8981916581",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NULLA 4",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932188893",
+      "nip": "8981923687",
+      "email": "biuro@apwr.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.OLSZEWSKIEGO 80",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932228641",
+      "nip": "8981931362",
+      "email": "",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PANKIEWICZA 3",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932197870",
+      "nip": "8981935609",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 57",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932167862",
+      "nip": "8981926378",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 73",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932703266",
+      "nip": "8981979268",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 76",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932169714",
+      "nip": "8981926071",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.PARTYZANTÓW 86",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932169074",
+      "nip": "8981926349",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SKŁODOWSKIEJ-CURIE 91",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932208325",
+      "nip": "8981953814",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.SOWIŃSKIEGO 17",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932169619",
+      "nip": "8981932166",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASPRZAKA 25, WROCŁAW",
+      "adres": "ul. Monte Cassino 51 Wrocław",
+      "telefon": "713486753",
+      "regon": "932928485",
+      "nip": "8982023856",
+      "email": "",
+      "data_powstania": "2003-07-15"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KASPRZAKA 4",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931899706",
+      "nip": "8981910532",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1998-09-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. KOSYNIERÓW GDYŃSKICH 26",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931091683",
+      "nip": "8982085248",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1997-11-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. MONTE CASSINO 51, WROCŁAW",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932928462",
+      "nip": "8982023833",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2003-07-21"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. MONTE CASSINO 62",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020896386",
+      "nip": "8982201252",
+      "email": "eska-zarzadzanie@wp.pl",
+      "data_powstania": "2000-05-30"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. NULLA 36",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931929904",
+      "nip": "8982073647",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1998-11-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. NULLO 6, WROCŁAW",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932943214",
+      "nip": "8982028138",
+      "email": "",
+      "data_powstania": "2003-09-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. OKRZEI 33, WROCŁAW",
+      "adres": "ul. Stefana Okrzei 33 Wrocław",
+      "telefon": "713486753",
+      "regon": "931053955",
+      "nip": "8982041423",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1997-07-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. POTEBNI 25 WROCŁAW",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931052230",
+      "nip": "8982173969",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1997-07-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. PROMIEŃ 19",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932774970",
+      "nip": "8982045303",
+      "email": "biuroapw@wroclaw.pl",
+      "data_powstania": "1999-01-14"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WARYŃSKIEGO 2",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020756053",
+      "nip": "8982136543",
+      "email": "",
+      "data_powstania": "2008-05-07"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL. WARYŃSKIEGO 5",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "523807338",
+      "nip": "8982286969",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "2022-11-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.BECKA 1",
+      "adres": "ul. Józefa Becka 1 Wrocław",
+      "telefon": "713486753",
+      "regon": "932184040",
+      "nip": "8981932031",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.J.BECKA 11",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931073107",
+      "nip": "8982183643",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "1997-09-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.J.BECKA 14 WROCŁAW",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932882613",
+      "nip": "8982026352",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "2002-11-29"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KASPRZAKA 27",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931919780",
+      "nip": "8982082178",
+      "email": "",
+      "data_powstania": "1998-10-26"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KASPRZAKA 8",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020235220",
+      "nip": "8982082161",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2005-10-19"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.KOTSISA 29 WROCŁAW",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "021225547",
+      "nip": "8982173573",
+      "email": "eska-zarzadzanie@wp.pl",
+      "data_powstania": "2010-03-19"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.NULLA 32",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486754",
+      "regon": "021480713",
+      "nip": "8982190270",
+      "email": "",
+      "data_powstania": "1980-12-08"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 29",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932183513",
+      "nip": "8981925640",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 69",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932276019",
+      "nip": "8981979452",
+      "email": "biuro@apw.wroclaw.pl",
+      "data_powstania": "2000-12-04"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 82",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931920866",
+      "nip": "8981946346",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1998-10-12"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.PARTYZANTÓW 83",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "930490174",
+      "nip": "8982213864",
+      "email": "biuo@apw.wroclaw.pl",
+      "data_powstania": "1995-06-29"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POLESKA 11-15",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932659536",
+      "nip": "8951746163",
+      "email": "BIURO@QPW.WROCLAW.PL",
+      "data_powstania": "2001-04-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POTEBNI 17",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931910030",
+      "nip": "8982082563",
+      "email": "",
+      "data_powstania": "1997-05-21"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.POTEBNI 3",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "931987126",
+      "nip": "8981992145",
+      "email": "",
+      "data_powstania": "1999-05-13"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ZAKRZOWSKA 17 WE WROCŁAWIU",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020764472",
+      "nip": "8951920477",
+      "email": "",
+      "data_powstania": "2008-06-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ŁUKASIEWICZA 15",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932206556",
+      "nip": "8981946139",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "1994-06-24"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA UL.ŚCIEGIENNEGO 2 WE WROCŁAWIU",
+      "adres": "ul. Partyzantów 70/72 Wrocław",
+      "telefon": "713486753",
+      "regon": "020308998",
+      "nip": "8982087738",
+      "email": "BIURO@APW.WROCLAW.PL",
+      "data_powstania": "2005-10-20"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA WROCŁAW UL.JEZIERSKIEGO 7",
+      "adres": "ul. Partyzantów 70-72 Wrocław",
+      "telefon": "713486753",
+      "regon": "932903700",
+      "nip": "8982038846",
+      "email": "",
+      "data_powstania": "2001-06-13"
     }
   ],
   "tel-713482000": [
@@ -59810,6 +59737,89 @@
       "nip": "8951722949",
       "email": "",
       "data_powstania": "2000-07-18"
+    }
+  ],
+  "y-a-r-d": [
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 21",
+      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
+      "telefon": "713556109",
+      "regon": "932195806",
+      "nip": "8971649670",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 35",
+      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
+      "telefon": "713556109",
+      "regon": "932195953",
+      "nip": "8971648185",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.BRANIBORSKIEJ 43",
+      "adres": "ul. Romana Dmowskiego 15 d Wrocław",
+      "telefon": "713556109",
+      "regon": "932196007",
+      "nip": "8971648541",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GŁOGOWSKIEJ 27",
+      "adres": "ul. Romana Dmowskiego 15D Wrocław",
+      "telefon": "713556109",
+      "regon": "932196243",
+      "nip": "8971648848",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.GŁOGOWSKIEJ 41",
+      "adres": "ul. Mikołaja Sępa-Szarzyńskiego 62-66 Wrocław",
+      "telefon": "713556109",
+      "regon": "932196326",
+      "nip": "8971648937",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.NABYCIŃSKIEJ 1/3",
+      "adres": "ul. Romana Dmowskiego 15d Wrocław",
+      "telefon": "713556109",
+      "regon": "932196674",
+      "nip": "8971648268",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ZIELONOGÓRSKIEJ 22",
+      "adres": "ul. Mikołaja Sępa-Szarzyńskiego 62-66 Wrocław",
+      "telefon": "713556109",
+      "regon": "932197395",
+      "nip": "8971649368",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁĘCZYCKIEJ 14",
+      "adres": "ul. Romana Dmowskiego 15 D Wrocław",
+      "telefon": "713556109",
+      "regon": "932196645",
+      "nip": "8971649641",
+      "email": "",
+      "data_powstania": "1995-01-01"
+    },
+    {
+      "nazwa": "WSPÓLNOTA MIESZKANIOWA PRZY UL.ŁĘCZYCKIEJ 15",
+      "adres": "ul. Romana Dmowskiego 15 D Wrocław",
+      "telefon": "713556109",
+      "regon": "932196651",
+      "nip": "8971648245",
+      "email": "",
+      "data_powstania": "1995-01-01"
     }
   ],
   "tel-713484057": [
