@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07 15:15:48",
-  "total": 328,
+  "generated_at": "2026-06-07 15:32:00",
+  "total": 526,
   "sources": {
     "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\maps\\zarzadcy_wroclaw_full_details.json",
     "gus_csv": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\csv\\zarzadcy-gus-wroclaw.csv",
@@ -1168,7 +1168,7 @@
     },
     {
       "place_id": "ChIJZ_l3PmfCD0cRkzKaTgwdR8o",
-      "name": "Spółdzielnia Mieszkaniowa Śródmieście Prasa",
+      "name": "Sprzedaż mieszkań Wrocław",
       "address": "Łódzka 19, 50-521 Wrocław, Polska",
       "phone": "71 361 60 86",
       "website": "http://smsp.wroc.pl/",
@@ -1189,23 +1189,11 @@
       "lng": 17.0376534,
       "reviews": [],
       "latest_review_ts": 0,
-      "id": "spodzielnia-mieszkaniowa-srodmie-ie-prasa",
+      "id": "sprzedaz-mieszkan-wrocaw",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "607550336"
-        ],
-        "emails": [
-          "SEKRETARIAT@SMSP.WROC.PL"
-        ],
-        "website": "https://smsp.wroc.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 2
-      },
-      "wspolnoty_count": 2
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzVipSfXCD0cRyYCs7q5glxc",
@@ -3910,24 +3898,27 @@
         }
       ],
       "latest_review_ts": 1768153400,
-      "id": "dtd-nieruchomo-i-jakub-romanowski",
+      "id": "apw-zarzadzanie-nieruchomo-iami-witczak-p",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
-          "887039555",
-          "887093555"
+          "713486753",
+          "713486754",
+          "483486753",
+          "713466753"
         ],
         "emails": [
-          "zarzadca.dtd.nieruchomosci@gmail.com"
+          "BIURO@APW.WROCLAW.PL",
+          "biuro@apw.wroclaw"
         ],
-        "website": "https://www.gowork.pl/dtd-nieruchomosci-jakub-romanowski,22039971/dane-kontaktowe-firmy",
-        "confidence": "niska",
-        "wspolnoty_count": 3
+        "website": "https://apw.wroclaw.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 62
       },
-      "wspolnoty_count": 3
+      "wspolnoty_count": 62
     },
     {
       "place_id": "ChIJjQrQKCroD0cRky4JCzXt-e8",
@@ -5321,35 +5312,6 @@
       "wspolnoty_count": 0
     },
     {
-      "place_id": "ChIJA0MJIwvDD0cRvgn1d4BGkjE",
-      "name": "Arcadia. Chrobak A.",
-      "address": "Nefrytowa 62, 52-215 Wrocław, Polska",
-      "phone": "605 042 579",
-      "website": "http://www.arcadia-nieruchomosci.pl/teksty/kontakt",
-      "rating": 1,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=3571994972040530366",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.0495101,
-      "lng": 17.0255614,
-      "reviews": [
-        {
-          "author": "Anita",
-          "rating": 1,
-          "timestamp": 1750234982,
-          "date": "18.06.2025",
-          "text": "Zdecydowanie odradzam kontakt bądź współpracę z tą osobą,brak wiedzy merytorycznej  ,brak kompetencji , brak profesjonalizmu. Pani Agnieszka  Chrobak  nie potrafi załatwić prostych spraw ."
-        }
-      ],
-      "latest_review_ts": 1750234982,
-      "id": "arcadia-chrobak-a",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 0
-    },
-    {
       "place_id": "ChIJm0p0LkDCD0cRgCfFDZSHODg",
       "name": "Biuro Nieruchomości INFO-MAX",
       "address": "Powstańców Śląskich 114, 53-333 Wrocław, Polska",
@@ -6033,20 +5995,8 @@
       "latest_review_ts": 1772646741,
       "id": "complexcity",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "572684242"
-        ],
-        "emails": [
-          "biuro@complexcity.pl"
-        ],
-        "website": "https://complexcity.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 20
-      },
       "wspolnoty_count": 20
     },
     {
@@ -6110,40 +6060,8 @@
       "latest_review_ts": 1771958100,
       "id": "imperium-zarzadzanie",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "789248622",
-          "573094711",
-          "798365092",
-          "502439446",
-          "507471806",
-          "786814331",
-          "500749446",
-          "690617029",
-          "789239959",
-          "713932622",
-          "789239559"
-        ],
-        "emails": [
-          "WMMASLICZNE2IMPERIUM-ZARZADZANIE.COM.PL",
-          "wmbogatynska@imperium-zarzadzanie.com.pl",
-          "wmwillekrzemienieckie@imperium-zarzadzanie.com.pl",
-          "WMZAWIDOWSKA@IMPERIUM-ZARZADZANIE.COM.PL",
-          "WMWYCIESKA@IMPERIUM-ZARZADZANIE.COM.PL",
-          "WMSOLTYSOWICKA @IMPERIUM-ZARZADZANIE.COM.PL",
-          "WMZEBRA@IMPERIUM-ZARZADZANIE.COM.PL",
-          "wmmichalczyka@imperim-zarzadzanie.com.pl",
-          "WMCENTRALPARK@IMPERIUM-ZARZADZANIE.COM",
-          "WMSOLTYSOWICKA@IMPERIUM-ZARZADZANIE.COM.PL",
-          "cok@imperium-zarzadzanie.com.pl"
-        ],
-        "website": "https://imperium-zarzadzanie.com.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 40
-      },
       "wspolnoty_count": 40
     },
     {
@@ -6455,20 +6373,8 @@
       "latest_review_ts": 1772020219,
       "id": "herdom-zarzadzanie-nieruchomo-iami",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "713076060"
-        ],
-        "emails": [
-          "BIURO@HERDOM.PL"
-        ],
-        "website": "https://www.herdom.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 21
-      },
       "wspolnoty_count": 21
     },
     {
@@ -6782,7 +6688,7 @@
     },
     {
       "place_id": "ChIJ__-v8xHCD0cR72eB3XcuNI0",
-      "name": "EXIST III Zarządzanie nieruchomościami we Wrocławiu",
+      "name": "PHU Exist III Sp. z o.o.",
       "address": "Aleksandra Ostrowskiego 7, 53-238 Wrocław, Polska",
       "phone": "71 774 69 18",
       "website": "https://exist.com.pl/",
@@ -6863,7 +6769,7 @@
     },
     {
       "place_id": "ChIJ64TvbwzCD0cRGfv6c6N9eKQ",
-      "name": "PU MERITUM",
+      "name": "PU Meritum Zarządzanie Nieruchomościami",
       "address": "plac Orląt Lwowskich 20c, 53-605 Wrocław, Polska",
       "phone": "71 302 69 21",
       "website": "http://www.imeritum.pl/",
@@ -7831,7 +7737,7 @@
     },
     {
       "place_id": "ChIJq9pJ_OXpD0cRUDVktST2mGM",
-      "name": "Eureka",
+      "name": "EUREKA – Zarządzanie Nieruchomościami",
       "address": "plac Strzelecki 20, 50-224 Wrocław, Polska",
       "phone": "71 799 18 19",
       "website": "http://www.eureka.wroclaw.pl/",
@@ -10498,7 +10404,7 @@
     },
     {
       "place_id": "ChIJV9h2KAvCD0cRSfbp3KMSik4",
-      "name": "Oxbud - Zarządzanie nieruchomościami",
+      "name": "OXBUD Sp. z o.o.",
       "address": "Powstańców Śląskich 5/710, 50-077 Wrocław, Polska",
       "phone": "601 837 565",
       "website": "http://www.oxbud.pl/kontakt.html",
@@ -11142,22 +11048,8 @@
       "latest_review_ts": 1770465379,
       "id": "filia-centum-obsugi-mieszkanca-wrocawskie-mieszkania",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "713235710",
-          "713235754",
-          "7102421"
-        ],
-        "emails": [
-          "biuro@wm.wroc.pl"
-        ],
-        "website": "https://wm.wroc.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 100
-      },
       "wspolnoty_count": 100
     },
     {
@@ -11188,50 +11080,6 @@
         "maps"
       ],
       "wspolnoty_count": 0
-    },
-    {
-      "place_id": "ChIJ3ai-p8npD0cRUyDPIVGts1g",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Stefana Jaracza 63B, 50-305 Wrocław, Polska",
-      "phone": "71 774 69 18",
-      "website": "",
-      "rating": 5,
-      "reviews_count": 2,
-      "maps_url": "https://maps.google.com/?cid=6391642860140044371",
-      "status": "OPERATIONAL",
-      "hours": [
-        "poniedziałek: 07:30–15:30",
-        "wtorek: 07:30–15:30",
-        "środa: 07:30–15:30",
-        "czwartek: 07:30–15:30",
-        "piątek: 07:30–15:30",
-        "sobota: Zamknięte",
-        "niedziela: Zamknięte"
-      ],
-      "lat": 51.1269013,
-      "lng": 17.0586495,
-      "reviews": [
-        {
-          "author": "Nikodem Golec",
-          "rating": 5,
-          "timestamp": 1645034459,
-          "date": "16.02.2022",
-          "text": "bardzo polecam te osiedle świetna nazwa"
-        },
-        {
-          "author": "Janek Rydel",
-          "rating": 5,
-          "timestamp": 1636742932,
-          "date": "12.11.2021",
-          "text": "Świetne miejsce. Jak u mojej starej"
-        }
-      ],
-      "latest_review_ts": 1645034459,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJGUObPsTpD0cRqRzB8vJ4tc8",
@@ -11287,27 +11135,6 @@
         "confidence": "niska",
         "wspolnoty_count": 1
       },
-      "wspolnoty_count": 1
-    },
-    {
-      "place_id": "ChIJJ0NXt2XCD0cRq_ICv1akAP8",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Gwarna 17, 50-001 Wrocław, Polska",
-      "phone": "71 341 84 94",
-      "website": "https://otico.pl/blog/na-czym-polega-wspolnota-mieszkaniowa/",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=18374867172150407851",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.100392,
-      "lng": 17.0371152,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
       "wspolnoty_count": 1
     },
     {
@@ -11676,56 +11503,6 @@
         "maps"
       ],
       "wspolnoty_count": 0
-    },
-    {
-      "place_id": "ChIJFax2DrvDD0cRuG8mV6I7U1U",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Ołtaszyńska 100, 53-034 Wrocław, Polska",
-      "phone": "605 831 820",
-      "website": "",
-      "rating": 5,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=6148323484723736504",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.0582151,
-      "lng": 17.0073714,
-      "reviews": [
-        {
-          "author": "Олександр Терещенко",
-          "rating": 5,
-          "timestamp": 1513176491,
-          "date": "13.12.2017",
-          "text": "Normalne miejsce jest niedaleko."
-        }
-      ],
-      "latest_review_ts": 1513176491,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 1
-    },
-    {
-      "place_id": "ChIJUYUREQ3CD0cRyJD2DDzdFb8",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Wybrzeże Stanisława Wyspiańskiego 36, 50-370 Wrocław, Polska",
-      "phone": "71 328 19 97",
-      "website": "",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=13769154685740421320",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.10801550000001,
-      "lng": 17.0680927,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJW6TOE9TpD0cR5F_hOkUuMQg",
@@ -12185,63 +11962,6 @@
         "maps"
       ],
       "wspolnoty_count": 0
-    },
-    {
-      "place_id": "ChIJ9RY8YaXpD0cRGCI9E6brLxI",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Stanisława Przybyszewskiego 106, 51-148 Wrocław, Polska",
-      "phone": "71 326 17 26",
-      "website": "",
-      "rating": 3,
-      "reviews_count": 2,
-      "maps_url": "https://maps.google.com/?cid=1310525115107975704",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.1413652,
-      "lng": 17.062457,
-      "reviews": [
-        {
-          "author": "Jesusgivemenick Vjk",
-          "rating": 1,
-          "timestamp": 1660305786,
-          "date": "12.08.2022",
-          "text": "Nikt nie odbiera\nZawieszają połączenia"
-        },
-        {
-          "author": "Dorota Maluszczak",
-          "rating": 5,
-          "timestamp": 1687334385,
-          "date": "21.06.2023",
-          "text": "Super plac zabaw"
-        }
-      ],
-      "latest_review_ts": 1687334385,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 1
-    },
-    {
-      "place_id": "ChIJa5K7rv_pD0cRQed0Du7kq7k",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Zielonogórska 12, 53-617 Wrocław, Polska",
-      "phone": "71 355 74 39",
-      "website": "",
-      "rating": 0,
-      "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=13379038829130082113",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.1186363,
-      "lng": 17.0042035,
-      "reviews": [],
-      "latest_review_ts": 0,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJP0boNAjCD0cRy0G1E55b0zI",
@@ -14450,6 +14170,41 @@
       "wspolnoty_count": 66
     },
     {
+      "id": "biuro-z-a-n-jadwiga-koacz",
+      "place_id": "",
+      "name": "BIURO - Z.A.N. JADWIGA KOŁACZ",
+      "address": "",
+      "phone": "713281439",
+      "website": "https://www.gowork.pl/biuro-z.a.n.-jadwiga-kolacz,24207506/dane-kontaktowe-firmy",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713281439",
+          "692891830",
+          "713283667"
+        ],
+        "emails": [
+          "JADWIGAKOLACZ@WP.PL",
+          "piastowska30@gmail.com"
+        ],
+        "website": "https://www.gowork.pl/biuro-z.a.n.-jadwiga-kolacz,24207506/dane-kontaktowe-firmy",
+        "confidence": "niska",
+        "wspolnoty_count": 14
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 14
+    },
+    {
       "id": "bobs-invest",
       "place_id": "ChIJEayRZQnCD0cR105OlqjmXAc",
       "name": "Bobs Invest",
@@ -14527,9 +14282,9 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
+      "id": "bpr-dolnoslaskie-nieruchomo-i",
       "place_id": "ChIJT1tbUEZNDkcRL0CRPIdQoB4",
-      "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
+      "name": "BPR Dolnośląskie Nieruchomości Sp. z o.o.",
       "address": "Wałbrzyska 25/210, 58-100 Świdnica, Poland",
       "phone": "531 543 535",
       "website": "https://share.google/KgWsy14XulyN1q8wi",
@@ -14588,18 +14343,21 @@
       "latest_review_ts": 1771702258,
       "gus": {
         "phones": [
-          "601754696"
+          "717233636",
+          "746487171"
         ],
-        "emails": [],
-        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
+        "emails": [
+          "bpr.dn@wp.pl"
+        ],
+        "website": "https://share.google/KgWsy14XulyN1q8wi",
         "confidence": "niska",
-        "wspolnoty_count": 2
+        "wspolnoty_count": 34
       },
       "sources": [
         "gus",
         "maps"
       ],
-      "wspolnoty_count": 2
+      "wspolnoty_count": 34
     },
     {
       "id": "broker-nieruchomo-i",
@@ -15000,7 +14758,40 @@
       "wspolnoty_count": 39
     },
     {
-      "id": "y-a-r-d",
+      "id": "dtd-nieruchomo-i-jakub-romanowski",
+      "place_id": "",
+      "name": "DTD Nieruchomości Jakub Romanowski",
+      "address": "",
+      "phone": "887039555",
+      "website": "https://www.gowork.pl/dtd-nieruchomosci-jakub-romanowski,22039971/dane-kontaktowe-firmy",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "887039555",
+          "887093555"
+        ],
+        "emails": [
+          "zarzadca.dtd.nieruchomosci@gmail.com"
+        ],
+        "website": "https://www.gowork.pl/dtd-nieruchomosci-jakub-romanowski,22039971/dane-kontaktowe-firmy",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "eska-biuro-zarzadzania-nieruchomo-iami-krzysztof-sosna",
       "place_id": "",
       "name": "eSKa Biuro Zarządzania Nieruchomościami Krzysztof Sosna",
       "address": "",
@@ -15017,17 +14808,20 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "713556109"
+          "713482473",
+          "501276180"
         ],
-        "emails": [],
-        "website": "https://geoportal.wroclaw.pl/poi/poi/411",
+        "emails": [
+          "eska-zarzadzanie@wp.pl"
+        ],
+        "website": "https://geoportal.wroclaw.pl/poi/poi/372",
         "confidence": "niska",
-        "wspolnoty_count": 9
+        "wspolnoty_count": 15
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 9
+      "wspolnoty_count": 15
     },
     {
       "id": "ewa-hoffmann-zarzadca-nieruchomo-i",
@@ -16302,6 +16096,38 @@
       "wspolnoty_count": 1
     },
     {
+      "id": "pu-meritum",
+      "place_id": "",
+      "name": "PU MERITUM",
+      "address": "",
+      "phone": "713027654",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713027654"
+        ],
+        "emails": [
+          "biuro@imeritum.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 4
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 4
+    },
+    {
       "id": "r-group-company",
       "place_id": null,
       "name": "R-Group Company sp. z o.o.",
@@ -16584,6 +16410,83 @@
         "maps"
       ],
       "wspolnoty_count": 12
+    },
+    {
+      "id": "spodzielnia-mieszkaniowa-srodmie-ie-prasa",
+      "place_id": "ChIJZ_l3PmfCD0cRmbXD3xM02aU",
+      "name": "Spółdzielnia Mieszkaniowa Śródmieście Prasa",
+      "address": "Łódzka 19, 50-521 Wrocław, Poland",
+      "phone": "607550336",
+      "website": "https://www.smsp.wroc.pl/",
+      "rating": 3.3,
+      "reviews_count": 12,
+      "maps_url": "https://maps.google.com/?cid=11950640346167489945",
+      "status": "OPERATIONAL",
+      "hours": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 10:00 AM – 3:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 1:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "lat": 51.091363,
+      "lng": 17.0376534,
+      "reviews": [
+        {
+          "author": "Anna Napieraj",
+          "rating": 5,
+          "timestamp": 1770205951,
+          "date": "04.02.2026",
+          "text": "I highly recommend working with the Śródmieście-Prasa Housing Cooperative.\nDuring my major renovation, I could count on tremendous technical support and the prompt issuance of necessary permits.\nI would like to express my sincere gratitude to Ms. Kamila Żygadło, Mr. Michał Ozarski, Mr. Wojciech Kintzler, and Mr. Jakub Rejmer for their professional assistance and exemplary cooperation.\nIn this day and age, reliability and a friendly approach to residents deserve special recognition."
+        },
+        {
+          "author": "Piotr R.",
+          "rating": 1,
+          "timestamp": 1746737868,
+          "date": "08.05.2025",
+          "text": "The rank-and-file employees are friendly, but the board members are a disaster. Two hours of conversations, clear agreements, everything seems to be clear, but it turns out that the bland Knitzler, a board member, has no honor, nothing he says is true, he lied and cheated. Face-to-face discussions are one thing, and the member's decisions are another. Insulating a 40cm Styrofoam wall with an additional 8cm Styrofoam makes sense according to the member, but only wastes the cooperative's money. I've dealt with several cooperatives in Wrocław, but I've never encountered such a member in any of th"
+        },
+        {
+          "author": "Szymon Marczuk",
+          "rating": 5,
+          "timestamp": 1734357762,
+          "date": "16.12.2024",
+          "text": "Contact with the cooperative has always been excellent. We were renovating a property that required numerous approvals and consultations. Everything went smoothly."
+        },
+        {
+          "author": "Kiki Riki",
+          "rating": 1,
+          "timestamp": 1728901789,
+          "date": "14.10.2024",
+          "text": "Contact with this place is always a land of absurdities. You can hear from the voices that you're talking to people who barely understand what's being said to them. It's hard to get anything done. Maybe it's time to hire real employees instead of hiring women who have long since retired and are racking up double pay?\nThe process of getting anything done is a nightmare, and the tone of conversation with these women is a mockery. There's zero respect for the residents.\n\nAnd when you arrive in person, the circus is just beginning. Everyone blames everyone else for everything, and there's no accou"
+        },
+        {
+          "author": "Agnieszka Rzeczko",
+          "rating": 5,
+          "timestamp": 1769619408,
+          "date": "28.01.2026",
+          "text": "I heartily recommend it. The ladies in the membership and rental departments are very helpful. The management is competent and ready to help."
+        }
+      ],
+      "latest_review_ts": 1770205951,
+      "gus": {
+        "phones": [
+          "607550336"
+        ],
+        "emails": [
+          "SEKRETARIAT@SMSP.WROC.PL"
+        ],
+        "website": "https://smsp.wroc.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "tectum-zarzadzanie-nieruchomo-iami",
@@ -16924,12 +16827,6123 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "zarzadca",
+      "id": "y-a-r-d",
+      "place_id": "",
+      "name": "Y.A.R.D sp. z o.o.",
+      "address": "",
+      "phone": "713556109",
+      "website": "https://geoportal.wroclaw.pl/poi/poi/411",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713556109"
+        ],
+        "emails": [],
+        "website": "https://geoportal.wroclaw.pl/poi/poi/411",
+        "confidence": "niska",
+        "wspolnoty_count": 9
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 9
+    },
+    {
+      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
+      "place_id": "ChIJl7KWCmHCD0cRXeaUIQfJoU8",
+      "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
+      "address": "Boczna 2, 50-502 Wrocław, Poland",
+      "phone": "601 754 696",
+      "website": "http://zarosa.pl/kontakt.html",
+      "rating": 1,
+      "reviews_count": 1,
+      "maps_url": "https://maps.google.com/?cid=5738088432712083037",
+      "status": "OPERATIONAL",
+      "hours": [],
+      "lat": 51.0926339,
+      "lng": 17.0437703,
+      "reviews": [
+        {
+          "author": "mariusz swiezewski",
+          "rating": 1,
+          "timestamp": 1583185883,
+          "date": "02.03.2020",
+          "text": ""
+        }
+      ],
+      "latest_review_ts": 1583185883,
+      "gus": {
+        "phones": [
+          "601754696"
+        ],
+        "emails": [],
+        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-126889014",
       "place_id": "",
       "name": "Zarządca (tel. 126889014)",
       "address": "",
       "phone": "126889014",
       "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "126889014"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-173538610",
+      "place_id": "",
+      "name": "Zarządca (tel. 173538610)",
+      "address": "",
+      "phone": "173538610",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "173538610"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-3392228",
+      "place_id": "",
+      "name": "Zarządca (tel. 3392228)",
+      "address": "",
+      "phone": "3392228",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "3392228"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-3424225",
+      "place_id": "",
+      "name": "Zarządca (tel. 3424225)",
+      "address": "",
+      "phone": "3424225",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "3424225"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-3437564",
+      "place_id": "",
+      "name": "Zarządca (tel. 3437564)",
+      "address": "",
+      "phone": "3437564",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "3437564"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-3482700",
+      "place_id": "",
+      "name": "Zarządca (tel. 3482700)",
+      "address": "",
+      "phone": "3482700",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "3482700"
+        ],
+        "emails": [
+          "SP6EQZ@POCZTA.ONET.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-353538610",
+      "place_id": "",
+      "name": "Zarządca (tel. 353538610)",
+      "address": "",
+      "phone": "353538610",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "353538610"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-3652626",
+      "place_id": "",
+      "name": "Zarządca (tel. 3652626)",
+      "address": "",
+      "phone": "3652626",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "3652626"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-446621",
+      "place_id": "",
+      "name": "Zarządca (tel. 446621)",
+      "address": "",
+      "phone": "446621",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "446621"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-481456",
+      "place_id": "",
+      "name": "Zarządca (tel. 481456)",
+      "address": "",
+      "phone": "481456",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "481456"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-484884",
+      "place_id": "",
+      "name": "Zarządca (tel. 484884)",
+      "address": "",
+      "phone": "484884",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "484884"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-501216238",
+      "place_id": "",
+      "name": "Zarządca (tel. 501216238)",
+      "address": "",
+      "phone": "501216238",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "501216238"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-501452554",
+      "place_id": "",
+      "name": "Zarządca (tel. 501452554)",
+      "address": "",
+      "phone": "501452554",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "501452554"
+        ],
+        "emails": [
+          "ulanska58@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-501578017",
+      "place_id": "",
+      "name": "Zarządca (tel. 501578017)",
+      "address": "",
+      "phone": "501578017",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "501578017"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-505077778",
+      "place_id": "",
+      "name": "Zarządca (tel. 505077778)",
+      "address": "",
+      "phone": "505077778",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "505077778"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-506163109",
+      "place_id": "",
+      "name": "Zarządca (tel. 506163109)",
+      "address": "",
+      "phone": "506163109",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "506163109"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-50616319",
+      "place_id": "",
+      "name": "Zarządca (tel. 50616319)",
+      "address": "",
+      "phone": "50616319",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "50616319"
+        ],
+        "emails": [
+          "SYSZKU@POCZTA.FM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-509105795",
+      "place_id": "",
+      "name": "Zarządca (tel. 509105795)",
+      "address": "",
+      "phone": "509105795",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "509105795"
+        ],
+        "emails": [
+          "kruszynska.drohobycka@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-509278040",
+      "place_id": "",
+      "name": "Zarządca (tel. 509278040)",
+      "address": "",
+      "phone": "509278040",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "509278040"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-510155953",
+      "place_id": "",
+      "name": "Zarządca (tel. 510155953)",
+      "address": "",
+      "phone": "510155953",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "510155953"
+        ],
+        "emails": [
+          "baruczesi@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-511774274",
+      "place_id": "",
+      "name": "Zarządca (tel. 511774274)",
+      "address": "",
+      "phone": "511774274",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "511774274"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-512385996",
+      "place_id": "",
+      "name": "Zarządca (tel. 512385996)",
+      "address": "",
+      "phone": "512385996",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "512385996"
+        ],
+        "emails": [
+          "MICHAL.ZMUDZINSKI@O2.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-513185578",
+      "place_id": "",
+      "name": "Zarządca (tel. 513185578)",
+      "address": "",
+      "phone": "513185578",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "513185578"
+        ],
+        "emails": [
+          "JEKUCAB@GAZETA.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-513632950",
+      "place_id": "",
+      "name": "Zarządca (tel. 513632950)",
+      "address": "",
+      "phone": "513632950",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "513632950"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-515224141",
+      "place_id": "",
+      "name": "Zarządca (tel. 515224141)",
+      "address": "",
+      "phone": "515224141",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "515224141"
+        ],
+        "emails": [
+          "R.ZSIRAI@GMAIL.COM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-519156956",
+      "place_id": "",
+      "name": "Zarządca (tel. 519156956)",
+      "address": "",
+      "phone": "519156956",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "519156956"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-519776141",
+      "place_id": "",
+      "name": "Zarządca (tel. 519776141)",
+      "address": "",
+      "phone": "519776141",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "519776141"
+        ],
+        "emails": [
+          "POCZATEK_PIATKOWO@ADMINISTRACJA.COM.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-535533441",
+      "place_id": "",
+      "name": "Zarządca (tel. 535533441)",
+      "address": "",
+      "phone": "535533441",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "535533441"
+        ],
+        "emails": [
+          "PRZYBYSZEWSKIEGO25@GMAIL.COM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-576330930",
+      "place_id": "",
+      "name": "Zarządca (tel. 576330930)",
+      "address": "",
+      "phone": "576330930",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "576330930"
+        ],
+        "emails": [
+          "SYLWIA_NOWICKA@GABINVEST.EU"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-601443221",
+      "place_id": "",
+      "name": "Zarządca (tel. 601443221)",
+      "address": "",
+      "phone": "601443221",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "601443221"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-601474715",
+      "place_id": "",
+      "name": "Zarządca (tel. 601474715)",
+      "address": "",
+      "phone": "601474715",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "601474715"
+        ],
+        "emails": [
+          "magdastupak@poczta.onet.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-601577842",
+      "place_id": "",
+      "name": "Zarządca (tel. 601577842)",
+      "address": "",
+      "phone": "601577842",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "601577842"
+        ],
+        "emails": [
+          "wspolnota.jableczna@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-601726969",
+      "place_id": "",
+      "name": "Zarządca (tel. 601726969)",
+      "address": "",
+      "phone": "601726969",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "601726969"
+        ],
+        "emails": [
+          "jacek.mielnicki@mdesign.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-601778288",
+      "place_id": "",
+      "name": "Zarządca (tel. 601778288)",
+      "address": "",
+      "phone": "601778288",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "601778288"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602220122",
+      "place_id": "",
+      "name": "Zarządca (tel. 602220122)",
+      "address": "",
+      "phone": "602220122",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602220122"
+        ],
+        "emails": [
+          "STANULEWICZ@INTERIA.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602578301",
+      "place_id": "",
+      "name": "Zarządca (tel. 602578301)",
+      "address": "",
+      "phone": "602578301",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602578301"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602701612",
+      "place_id": "",
+      "name": "Zarządca (tel. 602701612)",
+      "address": "",
+      "phone": "602701612",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602701612"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602759983",
+      "place_id": "",
+      "name": "Zarządca (tel. 602759983)",
+      "address": "",
+      "phone": "602759983",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602759983"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602789199",
+      "place_id": "",
+      "name": "Zarządca (tel. 602789199)",
+      "address": "",
+      "phone": "602789199",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602789199"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-602844037",
+      "place_id": "",
+      "name": "Zarządca (tel. 602844037)",
+      "address": "",
+      "phone": "602844037",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "602844037"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-603099901",
+      "place_id": "",
+      "name": "Zarządca (tel. 603099901)",
+      "address": "",
+      "phone": "603099901",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "603099901"
+        ],
+        "emails": [
+          "biuro.bartex@interia.eu"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 11
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 11
+    },
+    {
+      "id": "tel-603425440",
+      "place_id": "",
+      "name": "Zarządca (tel. 603425440)",
+      "address": "",
+      "phone": "603425440",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "603425440"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-603604676",
+      "place_id": "",
+      "name": "Zarządca (tel. 603604676)",
+      "address": "",
+      "phone": "603604676",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "603604676"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-604224536",
+      "place_id": "",
+      "name": "Zarządca (tel. 604224536)",
+      "address": "",
+      "phone": "604224536",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "604224536"
+        ],
+        "emails": [
+          "KRZYCKA56@GOOGLEGROUPS.COM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-604260445",
+      "place_id": "",
+      "name": "Zarządca (tel. 604260445)",
+      "address": "",
+      "phone": "604260445",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "604260445"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-606854345",
+      "place_id": "",
+      "name": "Zarządca (tel. 606854345)",
+      "address": "",
+      "phone": "606854345",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "606854345"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-608284811",
+      "place_id": "",
+      "name": "Zarządca (tel. 608284811)",
+      "address": "",
+      "phone": "608284811",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "608284811"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-608590661",
+      "place_id": "",
+      "name": "Zarządca (tel. 608590661)",
+      "address": "",
+      "phone": "608590661",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "608590661"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-609853607",
+      "place_id": "",
+      "name": "Zarządca (tel. 609853607)",
+      "address": "",
+      "phone": "609853607",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "609853607"
+        ],
+        "emails": [
+          "LUCZYK@ONET.EU"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-610817",
+      "place_id": "",
+      "name": "Zarządca (tel. 610817)",
+      "address": "",
+      "phone": "610817",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "610817"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-618593",
+      "place_id": "",
+      "name": "Zarządca (tel. 618593)",
+      "address": "",
+      "phone": "618593",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "618593"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-619010",
+      "place_id": "",
+      "name": "Zarządca (tel. 619010)",
+      "address": "",
+      "phone": "619010",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "619010"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-624203",
+      "place_id": "",
+      "name": "Zarządca (tel. 624203)",
+      "address": "",
+      "phone": "624203",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "624203"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-663884233",
+      "place_id": "",
+      "name": "Zarządca (tel. 663884233)",
+      "address": "",
+      "phone": "663884233",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "663884233"
+        ],
+        "emails": [
+          "lecka.banasiak@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-668326772",
+      "place_id": "",
+      "name": "Zarządca (tel. 668326772)",
+      "address": "",
+      "phone": "668326772",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "668326772"
+        ],
+        "emails": [
+          "wspolnota.kasztanowa@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-668423246",
+      "place_id": "",
+      "name": "Zarządca (tel. 668423246)",
+      "address": "",
+      "phone": "668423246",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "668423246"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-691444456",
+      "place_id": "",
+      "name": "Zarządca (tel. 691444456)",
+      "address": "",
+      "phone": "691444456",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "691444456"
+        ],
+        "emails": [
+          "m.plawnicka@poczta.onet.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-691523537",
+      "place_id": "",
+      "name": "Zarządca (tel. 691523537)",
+      "address": "",
+      "phone": "691523537",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "691523537"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-693152892",
+      "place_id": "",
+      "name": "Zarządca (tel. 693152892)",
+      "address": "",
+      "phone": "693152892",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "693152892"
+        ],
+        "emails": [
+          "SMILOWSKI.D@WP.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-693643300",
+      "place_id": "",
+      "name": "Zarządca (tel. 693643300)",
+      "address": "",
+      "phone": "693643300",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "693643300"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-697562742",
+      "place_id": "",
+      "name": "Zarządca (tel. 697562742)",
+      "address": "",
+      "phone": "697562742",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "697562742"
+        ],
+        "emails": [
+          "NOWAROBOTNICZA@GMAIL.COM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-697808108",
+      "place_id": "",
+      "name": "Zarządca (tel. 697808108)",
+      "address": "",
+      "phone": "697808108",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "697808108"
+        ],
+        "emails": [
+          "bialy234@gmail.com"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-698788127",
+      "place_id": "",
+      "name": "Zarządca (tel. 698788127)",
+      "address": "",
+      "phone": "698788127",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "698788127"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-71223679",
+      "place_id": "",
+      "name": "Zarządca (tel. 71223679)",
+      "address": "",
+      "phone": "71223679",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "71223679"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-712621788",
+      "place_id": "",
+      "name": "Zarządca (tel. 712621788)",
+      "address": "",
+      "phone": "712621788",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "712621788"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713141192",
+      "place_id": "",
+      "name": "Zarządca (tel. 713141192)",
+      "address": "",
+      "phone": "713141192",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713141192"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713163713",
+      "place_id": "",
+      "name": "Zarządca (tel. 713163713)",
+      "address": "",
+      "phone": "713163713",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713163713"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713212765",
+      "place_id": "",
+      "name": "Zarządca (tel. 713212765)",
+      "address": "",
+      "phone": "713212765",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713212765"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713223109",
+      "place_id": "",
+      "name": "Zarządca (tel. 713223109)",
+      "address": "",
+      "phone": "713223109",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713223109"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713225071",
+      "place_id": "",
+      "name": "Zarządca (tel. 713225071)",
+      "address": "",
+      "phone": "713225071",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713225071"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713226445",
+      "place_id": "",
+      "name": "Zarządca (tel. 713226445)",
+      "address": "",
+      "phone": "713226445",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713226445"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713252784",
+      "place_id": "",
+      "name": "Zarządca (tel. 713252784)",
+      "address": "",
+      "phone": "713252784",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713252784"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713256904",
+      "place_id": "",
+      "name": "Zarządca (tel. 713256904)",
+      "address": "",
+      "phone": "713256904",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713256904"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713258395",
+      "place_id": "",
+      "name": "Zarządca (tel. 713258395)",
+      "address": "",
+      "phone": "713258395",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713258395"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713261788",
+      "place_id": "",
+      "name": "Zarządca (tel. 713261788)",
+      "address": "",
+      "phone": "713261788",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713261788"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713274360",
+      "place_id": "",
+      "name": "Zarządca (tel. 713274360)",
+      "address": "",
+      "phone": "713274360",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713274360"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713279016",
+      "place_id": "",
+      "name": "Zarządca (tel. 713279016)",
+      "address": "",
+      "phone": "713279016",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713279016"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713280165",
+      "place_id": "",
+      "name": "Zarządca (tel. 713280165)",
+      "address": "",
+      "phone": "713280165",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713280165"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713283352",
+      "place_id": "",
+      "name": "Zarządca (tel. 713283352)",
+      "address": "",
+      "phone": "713283352",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713283352"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713284862",
+      "place_id": "",
+      "name": "Zarządca (tel. 713284862)",
+      "address": "",
+      "phone": "713284862",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713284862"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713298110",
+      "place_id": "",
+      "name": "Zarządca (tel. 713298110)",
+      "address": "",
+      "phone": "713298110",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713298110"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713337405",
+      "place_id": "",
+      "name": "Zarządca (tel. 713337405)",
+      "address": "",
+      "phone": "713337405",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713337405"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713351455",
+      "place_id": "",
+      "name": "Zarządca (tel. 713351455)",
+      "address": "",
+      "phone": "713351455",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713351455"
+        ],
+        "emails": [
+          "eb.wro@interia.eu"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "tel-7133608022",
+      "place_id": "",
+      "name": "Zarządca (tel. 7133608022)",
+      "address": "",
+      "phone": "7133608022",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "7133608022"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713373326",
+      "place_id": "",
+      "name": "Zarządca (tel. 713373326)",
+      "address": "",
+      "phone": "713373326",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713373326"
+        ],
+        "emails": [
+          "MARCIN.GIERACHA@GMAIL.COM"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713380547",
+      "place_id": "",
+      "name": "Zarządca (tel. 713380547)",
+      "address": "",
+      "phone": "713380547",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713380547"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713391560",
+      "place_id": "",
+      "name": "Zarządca (tel. 713391560)",
+      "address": "",
+      "phone": "713391560",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713391560"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-7133916508",
+      "place_id": "",
+      "name": "Zarządca (tel. 7133916508)",
+      "address": "",
+      "phone": "7133916508",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "7133916508"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713391719",
+      "place_id": "",
+      "name": "Zarządca (tel. 713391719)",
+      "address": "",
+      "phone": "713391719",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713391719"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713398737",
+      "place_id": "",
+      "name": "Zarządca (tel. 713398737)",
+      "address": "",
+      "phone": "713398737",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713398737"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713410884",
+      "place_id": "",
+      "name": "Zarządca (tel. 713410884)",
+      "address": "",
+      "phone": "713410884",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713410884"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713415860",
+      "place_id": "",
+      "name": "Zarządca (tel. 713415860)",
+      "address": "",
+      "phone": "713415860",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713415860"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713418301",
+      "place_id": "",
+      "name": "Zarządca (tel. 713418301)",
+      "address": "",
+      "phone": "713418301",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713418301"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-71342148",
+      "place_id": "",
+      "name": "Zarządca (tel. 71342148)",
+      "address": "",
+      "phone": "71342148",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "71342148"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713422065",
+      "place_id": "",
+      "name": "Zarządca (tel. 713422065)",
+      "address": "",
+      "phone": "713422065",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713422065"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713425021",
+      "place_id": "",
+      "name": "Zarządca (tel. 713425021)",
+      "address": "",
+      "phone": "713425021",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713425021"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713428148",
+      "place_id": "",
+      "name": "Zarządca (tel. 713428148)",
+      "address": "",
+      "phone": "713428148",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713428148"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "tel-713432065",
+      "place_id": "",
+      "name": "Zarządca (tel. 713432065)",
+      "address": "",
+      "phone": "713432065",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713432065"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 6
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 6
+    },
+    {
+      "id": "tel-713435429",
+      "place_id": "",
+      "name": "Zarządca (tel. 713435429)",
+      "address": "",
+      "phone": "713435429",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713435429"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713435561",
+      "place_id": "",
+      "name": "Zarządca (tel. 713435561)",
+      "address": "",
+      "phone": "713435561",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713435561"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713443085",
+      "place_id": "",
+      "name": "Zarządca (tel. 713443085)",
+      "address": "",
+      "phone": "713443085",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713443085"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713443709",
+      "place_id": "",
+      "name": "Zarządca (tel. 713443709)",
+      "address": "",
+      "phone": "713443709",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713443709"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713451682",
+      "place_id": "",
+      "name": "Zarządca (tel. 713451682)",
+      "address": "",
+      "phone": "713451682",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713451682"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713451761",
+      "place_id": "",
+      "name": "Zarządca (tel. 713451761)",
+      "address": "",
+      "phone": "713451761",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713451761"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713453033",
+      "place_id": "",
+      "name": "Zarządca (tel. 713453033)",
+      "address": "",
+      "phone": "713453033",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713453033"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713455421",
+      "place_id": "",
+      "name": "Zarządca (tel. 713455421)",
+      "address": "",
+      "phone": "713455421",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713455421"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713464521",
+      "place_id": "",
+      "name": "Zarządca (tel. 713464521)",
+      "address": "",
+      "phone": "713464521",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713464521"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713465890",
+      "place_id": "",
+      "name": "Zarządca (tel. 713465890)",
+      "address": "",
+      "phone": "713465890",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713465890"
+        ],
+        "emails": [
+          "jerzykup@wp.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713466111",
+      "place_id": "",
+      "name": "Zarządca (tel. 713466111)",
+      "address": "",
+      "phone": "713466111",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713466111"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713476568",
+      "place_id": "",
+      "name": "Zarządca (tel. 713476568)",
+      "address": "",
+      "phone": "713476568",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713476568"
+        ],
+        "emails": [
+          "ADAMIDU@POCZTA.ONET.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713480711",
+      "place_id": "",
+      "name": "Zarządca (tel. 713480711)",
+      "address": "",
+      "phone": "713480711",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713480711"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713481248",
+      "place_id": "",
+      "name": "Zarządca (tel. 713481248)",
+      "address": "",
+      "phone": "713481248",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713481248"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713481466",
+      "place_id": "",
+      "name": "Zarządca (tel. 713481466)",
+      "address": "",
+      "phone": "713481466",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713481466"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713482000",
+      "place_id": "",
+      "name": "Zarządca (tel. 713482000)",
+      "address": "",
+      "phone": "713482000",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713482000"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713482386",
+      "place_id": "",
+      "name": "Zarządca (tel. 713482386)",
+      "address": "",
+      "phone": "713482386",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713482386"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713482563",
+      "place_id": "",
+      "name": "Zarządca (tel. 713482563)",
+      "address": "",
+      "phone": "713482563",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713482563"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713482734",
+      "place_id": "",
+      "name": "Zarządca (tel. 713482734)",
+      "address": "",
+      "phone": "713482734",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713482734"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713483105",
+      "place_id": "",
+      "name": "Zarządca (tel. 713483105)",
+      "address": "",
+      "phone": "713483105",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713483105"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713483469",
+      "place_id": "",
+      "name": "Zarządca (tel. 713483469)",
+      "address": "",
+      "phone": "713483469",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713483469"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713483561",
+      "place_id": "",
+      "name": "Zarządca (tel. 713483561)",
+      "address": "",
+      "phone": "713483561",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713483561"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713483597",
+      "place_id": "",
+      "name": "Zarządca (tel. 713483597)",
+      "address": "",
+      "phone": "713483597",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713483597"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713484019",
+      "place_id": "",
+      "name": "Zarządca (tel. 713484019)",
+      "address": "",
+      "phone": "713484019",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713484019"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713484057",
+      "place_id": "",
+      "name": "Zarządca (tel. 713484057)",
+      "address": "",
+      "phone": "713484057",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713484057"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713484374",
+      "place_id": "",
+      "name": "Zarządca (tel. 713484374)",
+      "address": "",
+      "phone": "713484374",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713484374"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713484935",
+      "place_id": "",
+      "name": "Zarządca (tel. 713484935)",
+      "address": "",
+      "phone": "713484935",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713484935"
+        ],
+        "emails": [
+          "hania31@op.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713485307",
+      "place_id": "",
+      "name": "Zarządca (tel. 713485307)",
+      "address": "",
+      "phone": "713485307",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713485307"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713486421",
+      "place_id": "",
+      "name": "Zarządca (tel. 713486421)",
+      "address": "",
+      "phone": "713486421",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713486421"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713486778",
+      "place_id": "",
+      "name": "Zarządca (tel. 713486778)",
+      "address": "",
+      "phone": "713486778",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713486778"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713487957",
+      "place_id": "",
+      "name": "Zarządca (tel. 713487957)",
+      "address": "",
+      "phone": "713487957",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713487957"
+        ],
+        "emails": [
+          "MMKRAM@ONLINEHOME.DE"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713489683",
+      "place_id": "",
+      "name": "Zarządca (tel. 713489683)",
+      "address": "",
+      "phone": "713489683",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713489683"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713500016",
+      "place_id": "",
+      "name": "Zarządca (tel. 713500016)",
+      "address": "",
+      "phone": "713500016",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713500016"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713513217",
+      "place_id": "",
+      "name": "Zarządca (tel. 713513217)",
+      "address": "",
+      "phone": "713513217",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713513217"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713519642",
+      "place_id": "",
+      "name": "Zarządca (tel. 713519642)",
+      "address": "",
+      "phone": "713519642",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713519642"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713526192",
+      "place_id": "",
+      "name": "Zarządca (tel. 713526192)",
+      "address": "",
+      "phone": "713526192",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713526192"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713526214",
+      "place_id": "",
+      "name": "Zarządca (tel. 713526214)",
+      "address": "",
+      "phone": "713526214",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713526214"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713536610",
+      "place_id": "",
+      "name": "Zarządca (tel. 713536610)",
+      "address": "",
+      "phone": "713536610",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713536610"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "tel-713538030",
+      "place_id": "",
+      "name": "Zarządca (tel. 713538030)",
+      "address": "",
+      "phone": "713538030",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713538030"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "tel-713538090",
+      "place_id": "",
+      "name": "Zarządca (tel. 713538090)",
+      "address": "",
+      "phone": "713538090",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713538090"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713545719",
+      "place_id": "",
+      "name": "Zarządca (tel. 713545719)",
+      "address": "",
+      "phone": "713545719",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713545719"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "tel-713550111",
+      "place_id": "",
+      "name": "Zarządca (tel. 713550111)",
+      "address": "",
+      "phone": "713550111",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713550111"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713575677",
+      "place_id": "",
+      "name": "Zarządca (tel. 713575677)",
+      "address": "",
+      "phone": "713575677",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713575677"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-7136196713",
+      "place_id": "",
+      "name": "Zarządca (tel. 7136196713)",
+      "address": "",
+      "phone": "7136196713",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "7136196713"
+        ],
+        "emails": [
+          "zamir@interia.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713627612",
+      "place_id": "",
+      "name": "Zarządca (tel. 713627612)",
+      "address": "",
+      "phone": "713627612",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713627612"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713628818",
+      "place_id": "",
+      "name": "Zarządca (tel. 713628818)",
+      "address": "",
+      "phone": "713628818",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713628818"
+        ],
+        "emails": [
+          "ECH4@WP.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713638610",
+      "place_id": "",
+      "name": "Zarządca (tel. 713638610)",
+      "address": "",
+      "phone": "713638610",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713638610"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713643517",
+      "place_id": "",
+      "name": "Zarządca (tel. 713643517)",
+      "address": "",
+      "phone": "713643517",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713643517"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713673511",
+      "place_id": "",
+      "name": "Zarządca (tel. 713673511)",
+      "address": "",
+      "phone": "713673511",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713673511"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-713677574",
+      "place_id": "",
+      "name": "Zarządca (tel. 713677574)",
+      "address": "",
+      "phone": "713677574",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713677574"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713691343",
+      "place_id": "",
+      "name": "Zarządca (tel. 713691343)",
+      "address": "",
+      "phone": "713691343",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713691343"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713691642",
+      "place_id": "",
+      "name": "Zarządca (tel. 713691642)",
+      "address": "",
+      "phone": "713691642",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713691642"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713695168",
+      "place_id": "",
+      "name": "Zarządca (tel. 713695168)",
+      "address": "",
+      "phone": "713695168",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713695168"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713721734",
+      "place_id": "",
+      "name": "Zarządca (tel. 713721734)",
+      "address": "",
+      "phone": "713721734",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713721734"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713728279",
+      "place_id": "",
+      "name": "Zarządca (tel. 713728279)",
+      "address": "",
+      "phone": "713728279",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713728279"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713728432",
+      "place_id": "",
+      "name": "Zarządca (tel. 713728432)",
+      "address": "",
+      "phone": "713728432",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713728432"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713728488",
+      "place_id": "",
+      "name": "Zarządca (tel. 713728488)",
+      "address": "",
+      "phone": "713728488",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713728488"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713728628",
+      "place_id": "",
+      "name": "Zarządca (tel. 713728628)",
+      "address": "",
+      "phone": "713728628",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713728628"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713728856",
+      "place_id": "",
+      "name": "Zarządca (tel. 713728856)",
+      "address": "",
+      "phone": "713728856",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713728856"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713729201",
+      "place_id": "",
+      "name": "Zarządca (tel. 713729201)",
+      "address": "",
+      "phone": "713729201",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713729201"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713729624",
+      "place_id": "",
+      "name": "Zarządca (tel. 713729624)",
+      "address": "",
+      "phone": "713729624",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713729624"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713729686",
+      "place_id": "",
+      "name": "Zarządca (tel. 713729686)",
+      "address": "",
+      "phone": "713729686",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713729686"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713902747",
+      "place_id": "",
+      "name": "Zarządca (tel. 713902747)",
+      "address": "",
+      "phone": "713902747",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713902747"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 4
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 4
+    },
+    {
+      "id": "tel-713907264",
+      "place_id": "",
+      "name": "Zarządca (tel. 713907264)",
+      "address": "",
+      "phone": "713907264",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713907264"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-71391650",
+      "place_id": "",
+      "name": "Zarządca (tel. 71391650)",
+      "address": "",
+      "phone": "71391650",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "71391650"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-713991650",
+      "place_id": "",
+      "name": "Zarządca (tel. 713991650)",
+      "address": "",
+      "phone": "713991650",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713991650"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-716321788",
+      "place_id": "",
+      "name": "Zarządca (tel. 716321788)",
+      "address": "",
+      "phone": "716321788",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "716321788"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-71713283667",
+      "place_id": "",
+      "name": "Zarządca (tel. 71713283667)",
+      "address": "",
+      "phone": "71713283667",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "71713283667"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
+      "id": "tel-717171251",
+      "place_id": "",
+      "name": "Zarządca (tel. 717171251)",
+      "address": "",
+      "phone": "717171251",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717171251"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 5
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 5
+    },
+    {
+      "id": "tel-7172336363",
+      "place_id": "",
+      "name": "Zarządca (tel. 7172336363)",
+      "address": "",
+      "phone": "7172336363",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "7172336363"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717337551",
+      "place_id": "",
+      "name": "Zarządca (tel. 717337551)",
+      "address": "",
+      "phone": "717337551",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717337551"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717576978",
+      "place_id": "",
+      "name": "Zarządca (tel. 717576978)",
+      "address": "",
+      "phone": "717576978",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717576978"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717777290",
+      "place_id": "",
+      "name": "Zarządca (tel. 717777290)",
+      "address": "",
+      "phone": "717777290",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717777290"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717802900",
+      "place_id": "",
+      "name": "Zarządca (tel. 717802900)",
+      "address": "",
+      "phone": "717802900",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717802900"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717808990",
+      "place_id": "",
+      "name": "Zarządca (tel. 717808990)",
+      "address": "",
+      "phone": "717808990",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717808990"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717816022",
+      "place_id": "",
+      "name": "Zarządca (tel. 717816022)",
+      "address": "",
+      "phone": "717816022",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717816022"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717828027",
+      "place_id": "",
+      "name": "Zarządca (tel. 717828027)",
+      "address": "",
+      "phone": "717828027",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717828027"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717829681",
+      "place_id": "",
+      "name": "Zarządca (tel. 717829681)",
+      "address": "",
+      "phone": "717829681",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717829681"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717835481",
+      "place_id": "",
+      "name": "Zarządca (tel. 717835481)",
+      "address": "",
+      "phone": "717835481",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717835481"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717836211",
+      "place_id": "",
+      "name": "Zarządca (tel. 717836211)",
+      "address": "",
+      "phone": "717836211",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717836211"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717838122",
+      "place_id": "",
+      "name": "Zarządca (tel. 717838122)",
+      "address": "",
+      "phone": "717838122",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717838122"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-71785107207",
+      "place_id": "",
+      "name": "Zarządca (tel. 71785107207)",
+      "address": "",
+      "phone": "71785107207",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "71785107207"
+        ],
+        "emails": [
+          "WSPOLNOTA.LAS@INTERIA.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717874940",
+      "place_id": "",
+      "name": "Zarządca (tel. 717874940)",
+      "address": "",
+      "phone": "717874940",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717874940"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717896829",
+      "place_id": "",
+      "name": "Zarządca (tel. 717896829)",
+      "address": "",
+      "phone": "717896829",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717896829"
+        ],
+        "emails": [
+          "info@e-promo24.eu"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717907990",
+      "place_id": "",
+      "name": "Zarządca (tel. 717907990)",
+      "address": "",
+      "phone": "717907990",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717907990"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717940232",
+      "place_id": "",
+      "name": "Zarządca (tel. 717940232)",
+      "address": "",
+      "phone": "717940232",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717940232"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717945345",
+      "place_id": "",
+      "name": "Zarządca (tel. 717945345)",
+      "address": "",
+      "phone": "717945345",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717945345"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717948624",
+      "place_id": "",
+      "name": "Zarządca (tel. 717948624)",
+      "address": "",
+      "phone": "717948624",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717948624"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717954044",
+      "place_id": "",
+      "name": "Zarządca (tel. 717954044)",
+      "address": "",
+      "phone": "717954044",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717954044"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717957966",
+      "place_id": "",
+      "name": "Zarządca (tel. 717957966)",
+      "address": "",
+      "phone": "717957966",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717957966"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-717967575",
+      "place_id": "",
+      "name": "Zarządca (tel. 717967575)",
+      "address": "",
+      "phone": "717967575",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717967575"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 6
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 6
+    },
+    {
+      "id": "tel-723136291",
+      "place_id": "",
+      "name": "Zarządca (tel. 723136291)",
+      "address": "",
+      "phone": "723136291",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "723136291"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-733974535",
+      "place_id": "",
+      "name": "Zarządca (tel. 733974535)",
+      "address": "",
+      "phone": "733974535",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "733974535"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-748533331",
+      "place_id": "",
+      "name": "Zarządca (tel. 748533331)",
+      "address": "",
+      "phone": "748533331",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "748533331"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-774339774",
+      "place_id": "",
+      "name": "Zarządca (tel. 774339774)",
+      "address": "",
+      "phone": "774339774",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "774339774"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-774423974",
+      "place_id": "",
+      "name": "Zarządca (tel. 774423974)",
+      "address": "",
+      "phone": "774423974",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "774423974"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-783647482",
+      "place_id": "",
+      "name": "Zarządca (tel. 783647482)",
+      "address": "",
+      "phone": "783647482",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "783647482"
+        ],
+        "emails": [
+          "sylwia.suszynska@wp.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-784170120",
+      "place_id": "",
+      "name": "Zarządca (tel. 784170120)",
+      "address": "",
+      "phone": "784170120",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "784170120"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-784917080",
+      "place_id": "",
+      "name": "Zarządca (tel. 784917080)",
+      "address": "",
+      "phone": "784917080",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "784917080"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-794418204",
+      "place_id": "",
+      "name": "Zarządca (tel. 794418204)",
+      "address": "",
+      "phone": "794418204",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "794418204"
+        ],
+        "emails": [
+          "MIRODA@OP.PL"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "tel-798729401",
+      "place_id": "",
+      "name": "Zarządca (tel. 798729401)",
+      "address": "",
+      "phone": "798729401",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "798729401"
+        ],
+        "emails": [],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "zarzadca",
+      "place_id": "",
+      "name": "ZARZĄDCA Sp. z o.o.",
+      "address": "",
+      "phone": "713420021",
+      "website": "https://zarzadca.wroc.pl/",
       "rating": 0,
       "reviews_count": 0,
       "maps_url": "",
