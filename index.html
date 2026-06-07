@@ -564,7 +564,11 @@ function mapsSearchUrl(nazwa) {
 }
 
 function wspolnotyCount(p) {
-  return (p.gus && p.gus.wspolnoty_count) || 0;
+  const fromGus = (p.gus && p.gus.wspolnoty_count) || 0;
+  const fromTop = p.wspolnoty_count || 0;
+  const fromCache = (wspolnotyCache && p.id && wspolnotyCache[p.id])
+    ? wspolnotyCache[p.id].length : 0;
+  return Math.max(fromGus, fromTop, fromCache);
 }
 
 function csvEscapeField(value) {
@@ -813,7 +817,7 @@ function toggleDetails(tr, p) {
         </div>`).join('')
     : '<p style="color:#aaa;font-size:.83rem">Brak recenzji</p>';
 
-  const wspCount = (p.gus && p.gus.wspolnoty_count) || 0;
+  const wspCount = wspolnotyCount(p);
   const managerId = p.id || '';
   const gusPhones = p.gus && p.gus.phones && p.gus.phones.length
     ? `<p style="font-size:.82rem;color:#666;margin-top:4px">Telefony GUS: ${p.gus.phones.join(', ')}</p>` : '';

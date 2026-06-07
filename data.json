@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 13:14:53",
+  "generated_at": "2026-06-07 12:59:58",
   "total": 328,
   "sources": {
     "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\wroclaw\\zarzadcy_wroclaw_full_details.json",
@@ -62,7 +62,8 @@
       "id": "novitas-apartments",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJjTajB-fpD0cR0lGqoqJgIWo",
@@ -126,11 +127,12 @@
       "id": "pomorska-32-tectumapartments",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJIbt5RHXCD0cRMxotuaOEBbc",
-      "name": "Salon Sprzedaży Archicom Wrocław",
+      "name": "Archicom (deweloper – nie zarządca)",
       "address": "MidPoint71, Powstańców Śląskich 9, 53-332 Wrocław, Polska",
       "phone": "71 785 81 41",
       "website": "https://www.archicom.pl/?utm_source=googlemaps&utm_medium=organic&utm_campaign=wizytowka-wroclaw-salon",
@@ -202,7 +204,8 @@
         "website": "https://archicom.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 5
-      }
+      },
+      "wspolnoty_count": 5
     },
     {
       "place_id": "ChIJqenHVmXCD0cRHRr6WYFWcng",
@@ -266,7 +269,8 @@
       "id": "rafin-developer",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJBfCXDnTCD0cRb-eYB0aBW6Y",
@@ -330,7 +334,8 @@
       "id": "uni-dom-nieruchomo-i-krystyna-maciag",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJVw-uYA3CD0cRSNJbJ-fSu3E",
@@ -379,7 +384,8 @@
       "id": "imn-s-k-a",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJQ9U-PR_CD0cRhzPluifaI6k",
@@ -407,7 +413,8 @@
       "id": "verona-building",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJsb97zm3CD0cRSOMJbJacYDE",
@@ -471,7 +478,8 @@
       "id": "deweloper-develia-nowe-mieszkania-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJibnHGg3CD0cRu-zCLZLvND4",
@@ -535,7 +543,8 @@
       "id": "a-o-busines-entre",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJm9va5QzCD0cRSn7q24LJU28",
@@ -599,7 +608,8 @@
       "id": "jot-be-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJQeLVu3TCD0cRQezOfDpruFE",
@@ -634,7 +644,8 @@
       "id": "panorama-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJEayRZQnCD0cRS79Z8HwyZag",
@@ -691,7 +702,8 @@
       "id": "investum-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJE05b73TCD0cRxjw2W0YQ-Dk",
@@ -755,7 +767,8 @@
       "id": "idea-place-biura-serwisowane-wirtualne-biuro-wirtualna-asystentka-sale-coworking",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ6dicgnbCD0cRdWtd6cBvmc0",
@@ -819,7 +832,8 @@
       "id": "otis",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJmUDtW3XCD0cRpT6S1mgUTOw",
@@ -883,7 +897,8 @@
       "id": "iglica-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJHZDXco7CD0cRCWz3MmNgzbo",
@@ -947,7 +962,8 @@
       "id": "atal-s-a-biuro-filii",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJRSoVxXTCD0cRGny0USiJqQ4",
@@ -1011,7 +1027,8 @@
       "id": "merkury-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJJ0NXt2XCD0cRIEdMxmI3dHo",
@@ -1031,7 +1048,8 @@
       "id": "pkp-s-a-rejon-dworcow-kolejowych-administracja-budynkow-wynajem-powierzchni",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJX2092AbqD0cRhqEX_ExxCTA",
@@ -1095,7 +1113,8 @@
       "id": "legnicka-business-house",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJJa3LW3vCD0cR9FgjCPyWx7o",
@@ -1115,7 +1134,8 @@
       "id": "olimp",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ374VidzpD0cRoQ5O0rkVS44",
@@ -1143,11 +1163,12 @@
       "id": "m3-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJZ_l3PmfCD0cRkzKaTgwdR8o",
-      "name": "Sprzedaż mieszkań Wrocław",
+      "name": "Spółdzielnia Mieszkaniowa Śródmieście-Prasa",
       "address": "Łódzka 19, 50-521 Wrocław, Polska",
       "phone": "71 361 60 86",
       "website": "http://smsp.wroc.pl/",
@@ -1168,7 +1189,7 @@
       "lng": 17.0376534,
       "reviews": [],
       "latest_review_ts": 0,
-      "id": "społdzielnia-mieszkaniowa-srodmie-ie-prasa",
+      "id": "spodzielnia-mieszkaniowa-srodmie-ie-prasa",
       "sources": [
         "gus",
         "maps"
@@ -1183,7 +1204,8 @@
         "website": "https://smsp.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 2
-      }
+      },
+      "wspolnoty_count": 2
     },
     {
       "place_id": "ChIJzVipSfXCD0cRyYCs7q5glxc",
@@ -1223,7 +1245,8 @@
         "website": "",
         "confidence": "niska",
         "wspolnoty_count": 2
-      }
+      },
+      "wspolnoty_count": 2
     },
     {
       "place_id": "ChIJsV3UoLfpD0cR8ShtwbxCaeU",
@@ -1287,11 +1310,12 @@
       "id": "hot-company-centrum-biznesu-dugosza-2-6",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJm0p0LkDCD0cRqjCZ2OkiGM0",
-      "name": "Strzelecki-Nieruchomości",
+      "name": "STRZELECKI-NIERUCHOMOŚCI",
       "address": "Powstańców Śląskich 114, 53-333 Wrocław, Polska",
       "phone": "71 373 22 87",
       "website": "https://www.nieruchomosci-online.pl/firmy/strzelecki-nieruchomosci-marian-strzelecki,YG9H8.html",
@@ -1355,7 +1379,8 @@
         "website": "https://share.google/cU20fFLofthLB0Oe7",
         "confidence": "niska",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJL5iLrnbCD0cRjbJ-kZ4dqTI",
@@ -1411,7 +1436,8 @@
       "id": "globhaus",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJy-BrdhbCD0cRErGDNPdQAXI",
@@ -1461,7 +1487,8 @@
       "id": "abrys-biuro-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJsVEiFHTCD0cRj4KuDaZsvls",
@@ -1525,7 +1552,8 @@
       "id": "focus-biuro-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJpT2HwXXCD0cRCKuvFKiFUjE",
@@ -1561,7 +1589,8 @@
       "id": "estate-broker-s-a",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJIWN2JwHqD0cRhlPltmrzvkg",
@@ -1604,7 +1633,8 @@
       "id": "biuro-nieruchomo-i-hause",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ7Yeo1nfCD0cRpbHxNEX1Qjw",
@@ -1624,7 +1654,8 @@
       "id": "commercial-property-investment",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJGx5NPw3CD0cR60t1yGcCZyA",
@@ -1680,7 +1711,8 @@
       "id": "kancelaria-adwokacka-krej-krej",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJpQpmYf3pD0cRC5lm9uGoOow",
@@ -1736,7 +1768,8 @@
       "id": "krzesaj-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ3x_vcuHpD0cRqj1SL8S0exo",
@@ -1756,7 +1789,8 @@
       "id": "marszakowicz-stanisaw-wycena-nieruchomo-i-biuro",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJa4DiMhnCD0cRHp9ckUZu8dg",
@@ -1776,7 +1810,8 @@
       "id": "apart-dom-biuro-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzfV59XbCD0cRvB9DAnoHzRI",
@@ -1840,7 +1875,8 @@
       "id": "mj-consulting-marta-janulewicz",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJGx5NPw3CD0cRqBmEUr4jgNo",
@@ -1868,7 +1904,8 @@
       "id": "investhaus-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJyw2j1QzCD0cRJBqtpVI_8Lo",
@@ -1918,7 +1955,8 @@
       "id": "kancelaria-notarialna-iwona-gomukiewicz-krzywulicz",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJpcqqSHXCD0cRYc99foI5m7M",
@@ -1974,7 +2012,8 @@
       "id": "savills-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJMefYdXXCD0cRqvr6y3fiGqQ",
@@ -2030,7 +2069,8 @@
       "id": "kelar-nieruchomo-i-magorzata-kelar",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ580dTA3CD0cR1e02_CcIlE0",
@@ -2050,7 +2090,8 @@
       "id": "brach-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJweH0jy3oD0cRZWczoYyXbk4",
@@ -2070,7 +2111,8 @@
       "id": "atelier-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJAb9d2QDqD0cRLRnuI57mUIU",
@@ -2134,7 +2176,8 @@
       "id": "omex",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ6Rdnk9jpD0cR2pCv_WT9P-I",
@@ -2154,7 +2197,8 @@
       "id": "konarski-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJobE50_bCD0cRTTPM5lyLISA",
@@ -2182,7 +2226,8 @@
       "id": "perfect-house",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJQRrUvHXCD0cRni2Vf-OePlM",
@@ -2202,7 +2247,8 @@
       "id": "apartament-highlander",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJDUXMmEnCD0cRBEO-Ws-HZPU",
@@ -2222,7 +2268,8 @@
       "id": "nobilis-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ8TCxWT_CD0cRS-5gkBf0_JA",
@@ -2278,7 +2325,8 @@
       "id": "willa-agencja-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJOQn_SXbCD0cRPyJYgbNeSts",
@@ -2306,7 +2354,8 @@
       "id": "czarnecka-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJs6SPZQnCD0cR4xUYu3MVQZo",
@@ -2334,7 +2383,8 @@
       "id": "evero",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJWyXNY0bCD0cRcsudGv3U7hM",
@@ -2390,7 +2440,8 @@
       "id": "corte-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJt4Yb8HTCD0cRvoc4HiasGhE",
@@ -2433,11 +2484,12 @@
       "id": "admi",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ-e-wvnvCD0cR8QiFviodHB0",
-      "name": "Domestia Sp. z o.o.",
+      "name": "Domestia – Zarządzanie Nieruchomościami",
       "address": "Tadeusza Kościuszki 85/b1, 50-442 Wrocław, Polska",
       "phone": "71 343 13 31",
       "website": "http://www.domestia.pl/",
@@ -2507,7 +2559,8 @@
         "website": "",
         "confidence": "niska",
         "wspolnoty_count": 3
-      }
+      },
+      "wspolnoty_count": 3
     },
     {
       "place_id": "ChIJ6dUFlmnCD0cR2hlpDjmPjc4",
@@ -2550,7 +2603,8 @@
       "id": "agna-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJycKF8XbCD0cRxhczx5BuqXI",
@@ -2570,7 +2624,8 @@
       "id": "btg",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJbaNhGg3CD0cRDTmLDsu8FBE",
@@ -2590,7 +2645,8 @@
       "id": "tbs24",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJpTNd-Y7CD0cRoGBAc3RyTHo",
@@ -2654,7 +2710,8 @@
       "id": "biuro-nieruchomo-i-magnus",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJW03tprfpD0cRujJs1U911kA",
@@ -2682,7 +2739,8 @@
       "id": "m-k-n",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJv44BsnLCD0cRgieC8Wfmf1k",
@@ -2738,7 +2796,8 @@
       "id": "tempo-s-a-biuro-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJdf-jgnDCD0cRfMYYOO-dZU4",
@@ -2794,7 +2853,8 @@
       "id": "advice-nieruchomo-i-magdalena-orowska",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJb-87GIHpD0cRJ6E9Ulq1VEc",
@@ -2822,7 +2882,8 @@
       "id": "matan-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJHcC8_pXpD0cRit-Ryid6Tnw",
@@ -2842,7 +2903,8 @@
       "id": "salwirak",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJxa5bcgvCD0cRQ_sutdkMEAM",
@@ -2877,7 +2939,8 @@
       "id": "procajo-inwestycja",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ3Sr_7LbpD0cRYmGmp_AL4zk",
@@ -2897,7 +2960,8 @@
       "id": "eko-finance",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ6esIl3TCD0cRoBVAaOfVv8Y",
@@ -2961,7 +3025,8 @@
       "id": "atut-m-biuro-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJAzgIr9jpD0cRPh9K7XKV2Us",
@@ -3011,7 +3076,8 @@
       "id": "pira-biuro-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJV3y-Q3bCD0cRZNwZAFr4AEE",
@@ -3031,7 +3097,8 @@
       "id": "markam-nieruchomo-i-barbara-wrzesinska",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJLYrJxwnCD0cRdUSdwzpLOlM",
@@ -3066,7 +3133,8 @@
       "id": "nasz-dom",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ01PZznLCD0cRKJqiZ1bpL-Q",
@@ -3122,7 +3190,8 @@
       "id": "aida-biuro-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJwXG379nDD0cRkCBv-4l420I",
@@ -3150,7 +3219,8 @@
       "id": "kormet",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJZ7PvBWHCD0cR_tcAZ9K_C10",
@@ -3214,7 +3284,8 @@
       "id": "agamas-bpn-magorzata-sieradzka",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJRzkapkDCD0cRkUc2UPQ76do",
@@ -3278,7 +3349,8 @@
       "id": "actiwa-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJiQdbZz7CD0cR4faxXa7n6e4",
@@ -3313,7 +3385,8 @@
       "id": "arcadia-chrobak-a",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJGTEahKfDD0cR9ImyzwNNC7c",
@@ -3341,7 +3414,8 @@
       "id": "wfn-nieruchomo-i-firlicinski-j",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJv9btrTfCD0cREHIwJm9ITg4",
@@ -3376,7 +3450,8 @@
       "id": "orla-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ-96nUPjCD0cRLmIx2voqq60",
@@ -3396,7 +3471,8 @@
       "id": "nieruchomo-i-band-otfinowski-j-mgr-inz",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJdxDJM_ToD0cR1P_93BsdqE8",
@@ -3460,7 +3536,8 @@
       "id": "delta-apart-house",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJUxm9fjPCD0cRV6X3Hap7-68",
@@ -3495,7 +3572,8 @@
       "id": "agal-zarzadzanie-nieruchomo-iami-szczygie-h",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJwz5nrLLpD0cRkuoIPcYeQbA",
@@ -3551,7 +3629,8 @@
       "id": "fliska-agnieszka-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ1SkeyFzoD0cREczzptECnic",
@@ -3571,7 +3650,8 @@
       "id": "bg-jachym-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJB_9ixBroD0cRPi1jf7uEDrA",
@@ -3634,8 +3714,21 @@
       "latest_review_ts": 1768153788,
       "id": "ga-mi-zarzadzanie-nieruchomo-iami",
       "sources": [
+        "gus",
         "maps"
-      ]
+      ],
+      "gus": {
+        "phones": [
+          "713485421"
+        ],
+        "emails": [
+          "bmichno@pzm-patron.pl"
+        ],
+        "website": "https://pzm-patron.pl",
+        "confidence": "niska",
+        "wspolnoty_count": 168
+      },
+      "wspolnoty_count": 168
     },
     {
       "place_id": "ChIJycKF8XbCD0cRTNJXlQV3s7Q",
@@ -3677,7 +3770,8 @@
       "id": "ada-dom-handlowy",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ70k4nEfCD0cRLBJtNPqfVWY",
@@ -3720,7 +3814,8 @@
       "id": "rzeczoznawstwo-majatkowe-robert-taciak",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ_ckma3bCD0cRO3lSGFxBWiw",
@@ -3740,11 +3835,12 @@
       "id": "verum-group-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJB_9ixBroD0cRooJMxMXrdrw",
-      "name": "APW. Zarządzanie nieruchomościami. Witczak P.",
+      "name": "Przemysław Witczak APW – Zarządzanie Nieruchomościami",
       "address": "Partyzantów 72, 51-675 Wrocław, Polska",
       "phone": "71 348 67 53",
       "website": "https://www.gowork.pl/opinie_czytaj,901550",
@@ -3793,7 +3889,7 @@
         }
       ],
       "latest_review_ts": 1768153400,
-      "id": "przemysław-witczak-apw-zarzadzanie-nieruchomo-iami",
+      "id": "przemysaw-witczak-apw-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
@@ -3810,7 +3906,8 @@
         "website": "https://apw.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 60
-      }
+      },
+      "wspolnoty_count": 60
     },
     {
       "place_id": "ChIJjQrQKCroD0cRky4JCzXt-e8",
@@ -3830,7 +3927,8 @@
       "id": "arcus-agencja-nieruchomo-i-kucharyk-w",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ8RqHVnbCD0cRCz-LBCIsmSI",
@@ -3850,7 +3948,8 @@
       "id": "arte-veneta",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJeZIiwIPBD0cRlawcPlDRJds",
@@ -3885,7 +3984,8 @@
       "id": "kbh-invest",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJs9VZojnCD0cRIs9eC5g2vVw",
@@ -3934,7 +4034,8 @@
       "id": "ms-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJK8Loh4nBD0cRRFZxxVihnEw",
@@ -3962,7 +4063,8 @@
       "id": "dolnoslaskie-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJZ94QzQ_CD0cR4_5Q7We6aH8",
@@ -3997,7 +4099,8 @@
       "id": "varmex",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJZzefXHTqD0cRiMgw7i1XDlI",
@@ -4053,7 +4156,8 @@
       "id": "arka-sikorska-b",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJUYUREQ3CD0cRXx45bxS5Byg",
@@ -4081,7 +4185,8 @@
       "id": "klaskaa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJqWEv3o3pD0cRK473l3pufi0",
@@ -4109,7 +4214,8 @@
       "id": "mokopol",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJb1WtL5PpD0cR9F3KEIudMM0",
@@ -4137,7 +4243,8 @@
       "id": "enzo",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJn7rktYLpD0cRDMMgK813hno",
@@ -4172,7 +4279,8 @@
       "id": "eswl-inwest",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ40viA4joD0cRsA2NUcBOOjE",
@@ -4236,7 +4344,8 @@
       "id": "wit-i-partner-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJo2EAqfLpD0cRmWToTwfVbSg",
@@ -4286,7 +4395,8 @@
       "id": "agencja-nieruchomo-i-apartament",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJgcBxUsjpD0cRmsQX33czVK0",
@@ -4350,7 +4460,8 @@
       "id": "fidom-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJmUDtW3XCD0cRqMNDe8w9Y70",
@@ -4414,7 +4525,8 @@
       "id": "euro-city-nieruchomo-i-zajkow-y",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJw5jMgMXpD0cRT2z4DJX3X3c",
@@ -4457,7 +4569,8 @@
       "id": "erjot",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJyy8d6s3pD0cRAlq82tVqPKY",
@@ -4521,7 +4634,8 @@
       "id": "interact",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJBU8LH_XoD0cRDeOar4WIfPI",
@@ -4549,7 +4663,8 @@
       "id": "dims",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJjYr98ufpD0cRMcqN9eF759I",
@@ -4613,7 +4728,8 @@
       "id": "rzeczoznawca-majatkowy-marta-siemasz-wycena-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJlWG_Xn_pD0cROZE5UXNrl3o",
@@ -4649,7 +4765,8 @@
       "id": "faktor-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJI0UJwTjCD0cReUSqjvjbmIk",
@@ -4713,7 +4830,8 @@
       "id": "oto-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJm-xoVubpD0cRMMeW7FhbVVI",
@@ -4777,7 +4895,8 @@
       "id": "penguin-room-2213-on-kaszubska-street",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJQ0ur5EDCD0cRxtpTpF-IL7A",
@@ -4841,7 +4960,8 @@
       "id": "neshouse",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJB9G3YT7DD0cRKePz8hV1O-4",
@@ -4869,7 +4989,8 @@
       "id": "resist",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJG8n2cljCD0cRbPYZNuZ3aoo",
@@ -4930,7 +5051,7 @@
         }
       ],
       "latest_review_ts": 1769684744,
-      "id": "domator-obsługa-nieruchomo-i",
+      "id": "domator-obsuga-nieruchomo-i",
       "sources": [
         "gus",
         "maps"
@@ -4946,7 +5067,8 @@
         "website": "https://share.google/v2sGPldDgd1bWJ5Uf",
         "confidence": "niska",
         "wspolnoty_count": 17
-      }
+      },
+      "wspolnoty_count": 17
     },
     {
       "place_id": "ChIJ9dhlelbCD0cRWzDAmZUFl7c",
@@ -4966,7 +5088,8 @@
       "id": "awoplast-wojciechowska-j-g-s",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ18-F-kDCD0cRvQRSGKdwCsU",
@@ -4994,7 +5117,8 @@
       "id": "sobolewska-biuro-obrotu-nieruchomo-iami-i-projektowania-wnetrz",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ-X_7sl7CD0cRazl3AgL_wqQ",
@@ -5014,7 +5138,8 @@
       "id": "biuro-posrednictwa-nieruchomo-i-kontakt-piotr-nowicki",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJz99JL0HCD0cReoaDLACwVbI",
@@ -5042,7 +5167,8 @@
       "id": "dbn-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ916IEFbCD0cRI_IVr_0xf2c",
@@ -5070,7 +5196,8 @@
       "id": "romejko-rudnicka-anna-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJP41Av0jCD0cRwF35CYDA-xY",
@@ -5105,11 +5232,12 @@
       "id": "proffice-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ60AFRRfCD0cRtcqIqstrERk",
-      "name": "Agal. Zarządzanie nieruchomościami. Szczygieł H.",
+      "name": "AGAL Zarządzanie Nieruchomościami",
       "address": "Żelazna 54, 53-429 Wrocław, Polska",
       "phone": "71 799 95 66",
       "website": "http://www.agal-nieruchomosci.pl/",
@@ -5145,7 +5273,8 @@
         "website": "https://agal-nieruchomosci.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 3
-      }
+      },
+      "wspolnoty_count": 3
     },
     {
       "place_id": "ChIJ9b7_h1XCD0cRECJOFutT4YY",
@@ -5209,7 +5338,8 @@
       "id": "perfect-place-biuro-obrotu-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJA0MJIwvDD0cRvgn1d4BGkjE",
@@ -5237,7 +5367,8 @@
       "id": "arcadia-chrobak-a",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJm0p0LkDCD0cRgCfFDZSHODg",
@@ -5257,7 +5388,8 @@
       "id": "biuro-nieruchomo-i-info-max",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ5b6U7izdD0cRdl6du_8ZkCQ",
@@ -5299,7 +5431,8 @@
       "id": "wppl",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJr1kMO33CD0cRavzBdgVxbxA",
@@ -5334,7 +5467,8 @@
       "id": "instrem",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJlR6tpkDCD0cRi6kBTvXYgSQ",
@@ -5370,7 +5504,8 @@
       "id": "bonum-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJk8eWD8vDD0cRorRjdfVzteU",
@@ -5390,7 +5525,8 @@
       "id": "terra-vera",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJl4PNu4TCD0cRMsfFkAoFBL4",
@@ -5439,7 +5575,8 @@
       "id": "geo-grupa-deweloperska-malinowe-zacisze",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJe4RVw2_CD0cRDTEpY4OmWo0",
@@ -5467,7 +5604,8 @@
       "id": "prestimo-nieruchomo-i-monika-oczkowicz",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJn7QmekfCD0cRFb0DJmII-dA",
@@ -5495,7 +5633,8 @@
       "id": "zielona-aleja",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJFU1U70DCD0cRWLB9xabRW3g",
@@ -5551,7 +5690,8 @@
       "id": "alventi",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJpV1jmUfCD0cRFtt_dmPGKAI",
@@ -5607,7 +5747,8 @@
       "id": "inkubator-przedsiebiorczo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJU7Q5nEfCD0cRZVzjHTHfbsQ",
@@ -5649,7 +5790,8 @@
       "id": "ad-rem-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ8-HEY3vCD0cR_pDxvbbndSU",
@@ -5669,7 +5811,8 @@
       "id": "constructum-konsulting-budowlany-bienkowski-sebastian",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJYdrzcc_DD0cRJ1plAYJT-sg",
@@ -5725,7 +5868,8 @@
       "id": "saller-polbau",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJMWnbrBY9REARVqgKl0iDwg8",
@@ -5781,7 +5925,8 @@
       "id": "parvis-kompleksowe-zarzadzanie-najmem",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ01V0mXXCD0cRTZNxGV83sO4",
@@ -5845,11 +5990,12 @@
       "id": "koncept-nieruchomo-i-agencja-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJZybDoHPpD0cRU73luVfoI3o",
-      "name": "COMPLEXCITY",
+      "name": "COMPLEXCITY – Zarządzanie Nieruchomościami",
       "address": "Wybrzeże Juliusza Słowackiego 12-14/lok.19, 50-411 Wrocław, Polska",
       "phone": "509 343 394",
       "website": "",
@@ -5921,11 +6067,12 @@
         "website": "https://complexcity.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 20
-      }
+      },
+      "wspolnoty_count": 20
     },
     {
       "place_id": "ChIJ8Tyj_LrDD0cR01V__OTO51Q",
-      "name": "Imperium Zarządzanie",
+      "name": "Imperium Zarządzanie Nieruchomościami",
       "address": "Rybacka 9/III piętro, 53-656 Wrocław, Polska",
       "phone": "459 567 788",
       "website": "https://imperium-zarzadzanie.com.pl/",
@@ -6017,11 +6164,12 @@
         "website": "https://imperium-zarzadzanie.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 37
-      }
+      },
+      "wspolnoty_count": 37
     },
     {
       "place_id": "ChIJX64jWoDDD0cRweq4kcQ3ac8",
-      "name": "Expert Dom",
+      "name": "Expert Dom Sp. z o.o.",
       "address": "Stawowa 15/13, 50-018 Wrocław, Polska",
       "phone": "71 733 75 53",
       "website": "http://www.expertdom.pl/",
@@ -6101,11 +6249,12 @@
         "website": "https://expertdom.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 160
-      }
+      },
+      "wspolnoty_count": 160
     },
     {
       "place_id": "ChIJjSTu5y3oD0cRHP9QZuZfgc0",
-      "name": "AMD Zarządca Nieruchomości Sp. z o.o.",
+      "name": "AMD Zarządca Nieruchomości Sp. z o.o. (nieprawidłowy tel.)",
       "address": "Ksawerego Liskego 7, 50-345 Wrocław, Polska",
       "phone": "71 750 04 50",
       "website": "http://amd.wroc.pl/",
@@ -6185,11 +6334,12 @@
         "website": "https://amd.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 37
-      }
+      },
+      "wspolnoty_count": 37
     },
     {
       "place_id": "ChIJqRQaBXvCD0cR6NxJnWkGEK4",
-      "name": "ZN BONITATIS sp. z o.o.",
+      "name": "ZN BONITATIS Sp. z o.o.",
       "address": "Kniaziewicza 37, 50-455 Wrocław, Polska",
       "phone": "71 344 02 77",
       "website": "http://www.bonitatis.pl/",
@@ -6262,11 +6412,12 @@
         "website": "https://bonitatis.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 78
-      }
+      },
+      "wspolnoty_count": 78
     },
     {
       "place_id": "ChIJ3S5ajiPBD0cR9bE5RrojKyQ",
-      "name": "Herdom Zarządzanie Nieruchomościami",
+      "name": "Herdom Sp. z o.o.",
       "address": "Mińska 38/lokal 100, 54-610 Wrocław, Polska",
       "phone": "537 118 777",
       "website": "https://www.herdom.pl/",
@@ -6338,11 +6489,12 @@
         "website": "https://www.herdom.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 19
-      }
+      },
+      "wspolnoty_count": 19
     },
     {
       "place_id": "ChIJZwp4__3DD0cRAkDY171XNY4",
-      "name": "Zarządzanie Nieruchomościami Adm-System Małgorzata Rauch-Janowicz",
+      "name": "Adm-System (Małgorzata Rauch-Janowicz)",
       "address": "Na Grobli 34, 50-421 Wrocław, Polska",
       "phone": "601 199 011",
       "website": "http://adm-rauch.pl/",
@@ -6416,11 +6568,12 @@
         "website": "http://www.adm-rauch.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 26
-      }
+      },
+      "wspolnoty_count": 26
     },
     {
       "place_id": "ChIJ7Yeo1nfCD0cRXrKK8WnQJa4",
-      "name": "Domus zarządzanie nieruchomościami",
+      "name": "Domus Sp. z o.o. Sp.k.",
       "address": "Grabiszyńska 163, 53-434 Wrocław, Polska",
       "phone": "71 323 08 09",
       "website": "http://zarzadca.wroclaw.pl/",
@@ -6493,11 +6646,12 @@
         "website": "http://zarzadca.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 82
-      }
+      },
+      "wspolnoty_count": 82
     },
     {
       "place_id": "ChIJ8XYbNsPpD0cRdiTfE4R57gk",
-      "name": "ATENA & HJW Sp. z o.o. - Biuro 1",
+      "name": "Atena & HJW Sp. z o.o.",
       "address": "Ołbińska 6, 50-237 Wrocław, Polska",
       "phone": "71 772 63 00",
       "website": "http://www.atena-hjw.pl/",
@@ -6579,7 +6733,8 @@
         "website": "https://atena-hjw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 647
-      }
+      },
+      "wspolnoty_count": 647
     },
     {
       "place_id": "ChIJ3wxzAXPDD0cRAXSg48yx0BU",
@@ -6643,11 +6798,12 @@
       "id": "traczyk-zarzadzanie-najmem",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ__-v8xHCD0cR72eB3XcuNI0",
-      "name": "EXIST III Zarządzanie nieruchomościami we Wrocławiu",
+      "name": "PHU Exist III Sp. z o.o.",
       "address": "Aleksandra Ostrowskiego 7, 53-238 Wrocław, Polska",
       "phone": "71 774 69 18",
       "website": "https://exist.com.pl/",
@@ -6722,11 +6878,12 @@
         "website": "https://exist.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 13
-      }
+      },
+      "wspolnoty_count": 13
     },
     {
       "place_id": "ChIJ64TvbwzCD0cRGfv6c6N9eKQ",
-      "name": "PU MERITUM",
+      "name": "Imeritum – Zarządzanie Nieruchomościami",
       "address": "plac Orląt Lwowskich 20c, 53-605 Wrocław, Polska",
       "phone": "71 302 69 21",
       "website": "http://www.imeritum.pl/",
@@ -6798,7 +6955,8 @@
         "website": "https://imeritum.pl",
         "confidence": "niska",
         "wspolnoty_count": 13
-      }
+      },
+      "wspolnoty_count": 13
     },
     {
       "place_id": "ChIJfe-bxG_CD0cRC8MLIxPpD44",
@@ -6862,11 +7020,12 @@
       "id": "4management-zarzadca-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJsb7CiiTCD0cR4DBc5KQ03PE",
-      "name": "PROMENA SP. Z O.O.",
+      "name": "Promena – Zarządzanie Nieruchomościami",
       "address": "Jemiołowa 16/2, 53-447 Wrocław, Polska",
       "phone": "71 724 50 53",
       "website": "http://promena-zarzadca.pl/",
@@ -6942,7 +7101,8 @@
         "website": "https://promena-zarzadca.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 180
-      }
+      },
+      "wspolnoty_count": 180
     },
     {
       "place_id": "ChIJ9-lQ0YPDD0cRpWI2i82MA9A",
@@ -7020,7 +7180,8 @@
         "website": "https://integrummanagement.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 49
-      }
+      },
+      "wspolnoty_count": 49
     },
     {
       "place_id": "ChIJ3_s-ohvCD0cRUznb4JndtPU",
@@ -7094,7 +7255,8 @@
         "website": "https://www.admirom-5.wroc.pl/home",
         "confidence": "niska",
         "wspolnoty_count": 210
-      }
+      },
+      "wspolnoty_count": 210
     },
     {
       "place_id": "ChIJ74dt7ArCD0cRhboLV5cxKG8",
@@ -7158,11 +7320,12 @@
       "id": "wynajmo-zarzadzanie-najmem-mieszkan-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJyYhHs-3CD0cRDmfWcWYVGFQ",
-      "name": "MAH Zarządzanie nieruchomościami. M. Hałasińska",
+      "name": "MAH Zarządzanie Nieruchomościami Magdalena Hałasińska",
       "address": "Tarnogajska 11/13, 50-512 Wrocław, Polska",
       "phone": "71 795 95 39",
       "website": "http://www.mah.wroc.pl/",
@@ -7219,7 +7382,7 @@
         }
       ],
       "latest_review_ts": 1769067644,
-      "id": "mah-zarzadzanie-nieruchomo-iami-magdalena-hałasinska",
+      "id": "mah-zarzadzanie-nieruchomo-iami-magdalena-haasinska",
       "sources": [
         "gus",
         "maps"
@@ -7235,11 +7398,12 @@
         "website": "https://mah.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 45
-      }
+      },
+      "wspolnoty_count": 45
     },
     {
       "place_id": "ChIJLWLcFwDDD0cRA9eFIPmkIt8",
-      "name": "Zarządzanie Nieruchomościami Przemysław Pisaniak",
+      "name": "Pisaniak",
       "address": "Boczna 2/7, 50-502 Wrocław, Polska",
       "phone": "509 397 602",
       "website": "https://pisaniak.pl/",
@@ -7304,7 +7468,8 @@
         "website": "https://share.google/MIBZRp6uRKD8rxjCw",
         "confidence": "niska",
         "wspolnoty_count": 36
-      }
+      },
+      "wspolnoty_count": 36
     },
     {
       "place_id": "ChIJm3t_CM7DD0cRdl9xQRi0O0Q",
@@ -7382,7 +7547,8 @@
         "website": "https://naszzarzadca-wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 246
-      }
+      },
+      "wspolnoty_count": 246
     },
     {
       "place_id": "ChIJ7X0hxfRZmwYROR2phGcyfWM",
@@ -7458,11 +7624,12 @@
         "website": "https://www.hb.nieruchomosci.pl",
         "confidence": "niska",
         "wspolnoty_count": 4
-      }
+      },
+      "wspolnoty_count": 4
     },
     {
       "place_id": "ChIJqSjimvvCD0cREClJzPrqBVQ",
-      "name": "FONTIS Zarządzanie Nieruchomościami Sp. z o. o.",
+      "name": "FONTIS Zarządzanie Nieruchomościami Sp. z o.o.",
       "address": "Kłodzka 11, 50-536 Wrocław, Polska",
       "phone": "71 339 92 00",
       "website": "http://www.fontis.com.pl/",
@@ -7537,7 +7704,8 @@
         "website": "https://www.fontis.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 30
-      }
+      },
+      "wspolnoty_count": 30
     },
     {
       "place_id": "ChIJcx_HlSLpD0cRP_xx8ROEMFM",
@@ -7601,7 +7769,8 @@
       "id": "zarzadcamieszkan-pl",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJGYJSG-fpD0cRJuDCSS860H4",
@@ -7665,11 +7834,12 @@
       "id": "prywatny-zarzad-mieszkaniami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJvYGhMBjoD0cR4d9GoD3rsyA",
-      "name": "FONTIS Zarządzanie Nieruchomościami",
+      "name": "Fontis",
       "address": "Jezierskiego 14, 51-691 Wrocław, Polska",
       "phone": "71 348 21 48",
       "website": "http://www.fontis.com.pl/",
@@ -7739,11 +7909,12 @@
         "website": "fontis.com.pl",
         "confidence": "niska",
         "wspolnoty_count": 541
-      }
+      },
+      "wspolnoty_count": 541
     },
     {
       "place_id": "ChIJq9pJ_OXpD0cRUDVktST2mGM",
-      "name": "Eureka",
+      "name": "EUREKA – Zarządzanie Nieruchomościami",
       "address": "plac Strzelecki 20, 50-224 Wrocław, Polska",
       "phone": "71 799 18 19",
       "website": "http://www.eureka.wroclaw.pl/",
@@ -7819,11 +7990,12 @@
         "website": "https://www.eureka.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 81
-      }
+      },
+      "wspolnoty_count": 81
     },
     {
       "place_id": "ChIJA4t-Hw3CD0cR6q3rXCZuD7w",
-      "name": "Meritum Sp. z o.o.",
+      "name": "PU Meritum Zarządzanie Nieruchomościami",
       "address": "Marszałka Józefa Piłsudskiego 12/2, 50-049 Wrocław, Polska",
       "phone": "71 780 62 02",
       "website": "",
@@ -7900,7 +8072,8 @@
         "website": "http://meritumzarzadca.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 78
-      }
+      },
+      "wspolnoty_count": 78
     },
     {
       "place_id": "ChIJz7N6UBzrD0cRs1BOVv-ZKxU",
@@ -7964,11 +8137,12 @@
       "id": "zarzadzanie-najmem-wrocaw-przynajem",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJEVNyYbjBD0cRKbw2Qj4JgJU",
-      "name": "EGENDOM",
+      "name": "EGENDOM Sp. z o.o.",
       "address": "Marii Rodziewiczówny 8/lok. 2, 54-607 Wrocław, Polska",
       "phone": "71 725 82 77",
       "website": "http://www.egendom.pl/",
@@ -8041,7 +8215,8 @@
         "website": "https://egendom.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 25
-      }
+      },
+      "wspolnoty_count": 25
     },
     {
       "place_id": "ChIJF9AR6HXCD0cRPk0l_zkKaSA",
@@ -8105,11 +8280,12 @@
       "id": "traczyk-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJESLAPnXCD0cRua5pmVTS9iE",
-      "name": "Prime Project",
+      "name": "Prime Project – Zarządzanie Nieruchomościami",
       "address": "Kiełbaśnicza 28, 50-109 Wrocław, Polska",
       "phone": "71 344 35 13",
       "website": "https://www.primeproject.pl/",
@@ -8183,7 +8359,8 @@
         "website": "https://primeproject.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 35
-      }
+      },
+      "wspolnoty_count": 35
     },
     {
       "place_id": "ChIJjQ7PizvCD0cRwf6HsfYESJc",
@@ -8262,7 +8439,8 @@
         "website": "https://4m.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 50
-      }
+      },
+      "wspolnoty_count": 50
     },
     {
       "place_id": "ChIJ1XJ4KqTDD0cR-WMtk4z7Dns",
@@ -8298,7 +8476,8 @@
       "id": "zarzadzanie-najmem-wrocaw-opieka-nad-nieruchomo-iami-bhn",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJncFTNV2Y2i0RgqwnLfGPd8A",
@@ -8326,11 +8505,12 @@
       "id": "molendinum-zarzadzanie-nieruchomo-iami-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJeVUjqALmD0cR_khFQd-lTpA",
-      "name": "Capital sp. z o.o.",
+      "name": "Capital Sp. z o.o.",
       "address": "Słowicza 16A, 53-320 Wrocław, Polska",
       "phone": "71 342 81 22",
       "website": "https://capital.wroclaw.pl/",
@@ -8403,11 +8583,12 @@
         "website": "https://capital.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 11
-      }
+      },
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJ-YuA68nqD0cRelvmKdZBISo",
-      "name": "Dla-Wspólnoty - Zarządzanie nieruchomościami",
+      "name": "DLA-WSPÓLNOTY.PL – zarządzanie nieruchomościami Jakub Szpiegowski",
       "address": "Olbrachtowska 30, 54-063 Wrocław, Polska",
       "phone": "601 954 443",
       "website": "http://www.dla-wspolnoty.pl/",
@@ -8473,11 +8654,12 @@
         "website": "https://dla-wspolnoty.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 47
-      }
+      },
+      "wspolnoty_count": 47
     },
     {
       "place_id": "ChIJXxGyBszDD0cRonZMF-yOmVA",
-      "name": "Forum",
+      "name": "FORUM Zarządzanie Nieruchomościami Sp. z o.o.",
       "address": "Skarbowców 94C, 53-025 Wrocław, Polska",
       "phone": "71 338 03 45",
       "website": "https://www.forum.wroc.pl/",
@@ -8552,11 +8734,12 @@
         "website": "https://forum.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 77
-      }
+      },
+      "wspolnoty_count": 77
     },
     {
       "place_id": "ChIJ921fIZBED0cRZS2XmUkJnDM",
-      "name": "NASZ DOM Zarządzanie Nieruchomościami",
+      "name": "NASZ DOM Zarządzanie Nieruchomościami (Helena Gałuszka)",
       "address": "Długa 55H/3, 53-633 Wrocław, Polska",
       "phone": "575 998 515",
       "website": "http://www.naszdomzn.pl/",
@@ -8600,11 +8783,12 @@
         "website": "http://naszdomzn.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 7
-      }
+      },
+      "wspolnoty_count": 7
     },
     {
       "place_id": "ChIJSwwnmG_DD0cRZP5muWYfrCA",
-      "name": "Alba Property Management Spółka z o.o.",
+      "name": "ALBA Polska Sp. z o.o.",
       "address": "plac Powstańców Śląskich 16-18/18, 53-314 Wrocław, Polska",
       "phone": "532 400 252",
       "website": "http://www.alba.com.pl/nieruchomosci",
@@ -8676,7 +8860,8 @@
         "website": "https://alba.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 30
-      }
+      },
+      "wspolnoty_count": 30
     },
     {
       "place_id": "ChIJMTr9sNjpD0cRc6at4N_Oo1w",
@@ -8737,7 +8922,7 @@
         }
       ],
       "latest_review_ts": 1772040360,
-      "id": "zakład-gospodarki-mieszkaniowej-centrum",
+      "id": "zakad-gospodarki-mieszkaniowej-centrum",
       "sources": [
         "gus",
         "maps"
@@ -8752,11 +8937,12 @@
         "website": "https://share.google/ZPRHZ8KdQoQYPX30D",
         "confidence": "niska",
         "wspolnoty_count": 87
-      }
+      },
+      "wspolnoty_count": 87
     },
     {
       "place_id": "ChIJIVsb8TbCD0cR8pWDVMZmEiM",
-      "name": "PUMAZ Stanisław Olszewski",
+      "name": "PUMAZ ZN Sp. z o.o.",
       "address": "Sępia 29, 53-143 Wrocław, Polska",
       "phone": "71 332 34 25",
       "website": "http://www.pumaz.pl/",
@@ -8832,7 +9018,8 @@
         "website": "http://pumaz.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 89
-      }
+      },
+      "wspolnoty_count": 89
     },
     {
       "place_id": "ChIJ0en469_DD0cR77XBi3gaw-Y",
@@ -8868,11 +9055,12 @@
       "id": "wroc-to-let",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJBdJNXXXqD0cR7aPY0IDIDDA",
-      "name": "Locator Sp. z o.o. Zarządzanie nieruchomościami",
+      "name": "Locator Sp. z o.o.",
       "address": "Balonowa 39, 54-129 Wrocław, Polska",
       "phone": "71 367 66 21",
       "website": "http://locator.wroclaw.pl/",
@@ -8946,7 +9134,8 @@
         "website": "http://locator.wroclaw.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 30
-      }
+      },
+      "wspolnoty_count": 30
     },
     {
       "place_id": "ChIJNeYBLfLDD0cRLkj2TwUuR24",
@@ -8982,7 +9171,8 @@
       "id": "properunit-zarzadzanie-najmem",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJqxscYXXCD0cRlSRh8wiSpFA",
@@ -9046,7 +9236,8 @@
       "id": "zarzad-zasobu-komunalnego",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJUWgBPu3CD0cRB0aQqCOwLCs",
@@ -9096,7 +9287,8 @@
       "id": "daga-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJnQUitE_CD0cRhlqM886GUcc",
@@ -9172,11 +9364,12 @@
         "website": "https://share.google/nu4HN88eSe782oycW",
         "confidence": "niska",
         "wspolnoty_count": 14
-      }
+      },
+      "wspolnoty_count": 14
     },
     {
       "place_id": "ChIJcVLcOFHDD0cRQbJAobtEt14",
-      "name": "VESTA Zarządzanie Nieruchomościami",
+      "name": "Vesta Zarządzanie Nieruchomościami Sp. z o.o.",
       "address": "al. Generała Józefa Hallera 84/lok. 2, 53-203 Wrocław, Polska",
       "phone": "796 034 051",
       "website": "https://vestazn.pl/",
@@ -9251,7 +9444,8 @@
         "website": "https://vesta.nieruchomosci.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 63
-      }
+      },
+      "wspolnoty_count": 63
     },
     {
       "place_id": "ChIJVYwT4uHCD0cRODu24jGWkwQ",
@@ -9315,7 +9509,8 @@
       "id": "wzn-zarzadzanie-nieruchomo-iami-oddzia-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJWTj6YXzCD0cRienGw3-un9g",
@@ -9379,7 +9574,8 @@
       "id": "gross-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJo2M5pW7CD0cRb14Pv3VW6qA",
@@ -9457,7 +9653,8 @@
         "website": "https://share.google/LzjGjoqSmUL8QsKY1",
         "confidence": "niska",
         "wspolnoty_count": 57
-      }
+      },
+      "wspolnoty_count": 57
     },
     {
       "place_id": "ChIJQfffoP3DD0cRhHHBwIeCqoA",
@@ -9521,7 +9718,8 @@
       "id": "reithouse",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJvbme0iDCD0cRcZgKG7NmBrU",
@@ -9599,7 +9797,8 @@
         "website": "https://share.google/Pe8JOEvzNTl1U2xid",
         "confidence": "niska",
         "wspolnoty_count": 354
-      }
+      },
+      "wspolnoty_count": 354
     },
     {
       "place_id": "ChIJzfVX8vnCD0cRNgqQhw-QuhM",
@@ -9663,11 +9862,12 @@
       "id": "a-m-nieruchomo-i-izabela-mateuszuk-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzS3H38XrD0cRITW-bRWlAg0",
-      "name": "m4 - zarządzanie nieruchomościami",
+      "name": "M4 Zarządzanie Nieruchomościami",
       "address": "Kolista 26/lok. 25, 54-152 Wrocław, Polska",
       "phone": "604 752 570",
       "website": "http://www.m4zarzadzanie.pl/",
@@ -9711,7 +9911,8 @@
         "website": "https://m4zarzadzanie.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 8
-      }
+      },
+      "wspolnoty_count": 8
     },
     {
       "place_id": "ChIJSTOYGYjCD0cRPKzHscrKSog",
@@ -9775,7 +9976,8 @@
       "id": "zarzad-zasobu-komunalnego-bok-nr-5",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJT1I2tXLpD0cRifm7oAd6PyM",
@@ -9839,7 +10041,8 @@
       "id": "prywatny-zarzad-mieszkaniami-patron",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 16
     },
     {
       "place_id": "ChIJE4wK0m_CD0cRgJnbin3sCSk",
@@ -9903,7 +10106,8 @@
       "id": "wrenieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzyVqFgvCD0cRD8y_5j7Kmbw",
@@ -9967,11 +10171,12 @@
       "id": "zarzad-zasobu-komunalnego-bok-nr-1",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzyVqFgvCD0cR_D8QXLwT45E",
-      "name": "Wro-Dom Sp. z o.o. Zarządzanie nieruchomościami",
+      "name": "ZGN WRO-DOM Sp. z o.o.",
       "address": "Powstańców Śląskich 5, 53-332 Wrocław, Polska",
       "phone": "71 344 22 41",
       "website": "http://www.wro-dom.pl/",
@@ -10045,7 +10250,8 @@
         "website": "https://wro-dom.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 233
-      }
+      },
+      "wspolnoty_count": 233
     },
     {
       "place_id": "ChIJd7umbN_pD0cRQfgkfQckSIU",
@@ -10109,7 +10315,8 @@
       "id": "wydzia-nieruchomo-i-skarbu-panstwa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJJ0NXt2XCD0cR06IHKKfcNjQ",
@@ -10173,7 +10380,8 @@
       "id": "pkp-sa-oddzia-gospodarowania-nieruchomo-iami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJf0cY5RsIKg8RTao7sCcB0TI",
@@ -10237,7 +10445,8 @@
       "id": "odbior-mieszkan-sprawdzone-mieszkanie-odbiory-mieszkan-od-dewelopera-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzzmuXbTpD0cRF8j9j3Kpzmc",
@@ -10301,7 +10510,8 @@
       "id": "zarzad-zasobu-komunalnego-bok-nr-2",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ75CXL74tyQYRxriD9Fx-gXM",
@@ -10365,11 +10575,12 @@
       "id": "auridom",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJV9h2KAvCD0cRSfbp3KMSik4",
-      "name": "Oxbud - Zarządzanie nieruchomościami",
+      "name": "OXBUD Sp. z o.o.",
       "address": "Powstańców Śląskich 5/710, 50-077 Wrocław, Polska",
       "phone": "601 837 565",
       "website": "http://www.oxbud.pl/kontakt.html",
@@ -10434,7 +10645,8 @@
         "website": "https://oxbud.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 4
-      }
+      },
+      "wspolnoty_count": 4
     },
     {
       "place_id": "ChIJKzKHt2vCD0cRdy6NmdVdxqo",
@@ -10498,7 +10710,8 @@
       "id": "administracja-os-ii-dorota-barbara-spodzielni-mieszkaniowej-wrocaw-poudnie",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJFTKl4IzpD0cRgt9vju4_mgY",
@@ -10562,7 +10775,8 @@
       "id": "tbs",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJkfdVYADpD0cRvx1u5efo5Ig",
@@ -10597,7 +10811,8 @@
       "id": "zarzadca-nieruchomo-i-atena",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJl1-G65PpD0cRdrG1zSLgS7s",
@@ -10673,11 +10888,12 @@
         "website": "",
         "confidence": "niska",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJuS0BtljCD0cREtg5UqU2Emc",
-      "name": "Major Domus",
+      "name": "Major-Domus Zarządzanie i Obrót Nieruchomościami",
       "address": "al. Armii Krajowej 14, 50-541 Wrocław, Polska",
       "phone": "71 785 77 94",
       "website": "https://www.major-domus.pl/",
@@ -10741,7 +10957,8 @@
         "website": "https://major-domus.com.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 23
-      }
+      },
+      "wspolnoty_count": 23
     },
     {
       "place_id": "ChIJubjxN2vCD0cRN9pGuo9ZYBw",
@@ -10805,7 +11022,8 @@
       "id": "administracja-os-i-anna-spodzielni-mieszkaniowej-wrocaw-poudnie",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJM6id9X3CD0cRvUFjt4GrntE",
@@ -10833,7 +11051,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJqRmnRMTpD0cRiN3im70-pqs",
@@ -10876,7 +11095,8 @@
       "id": "wspolnota-mieszkaniowa-njn-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJd2uk_jjCD0cRfv0bNfVx4Ao",
@@ -10940,11 +11160,12 @@
       "id": "atena-hjw-biuro-2",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJM-GKIunCD0cR3bnaXiOjnoo",
-      "name": "Filia Centum Obsługi Mieszkańca - Wrocławskie Mieszkania Sp. z o. o.",
+      "name": "Wrocławskie Mieszkania Sp. z o.o.",
       "address": "Gazowa 20, 50-513 Wrocław, Polska",
       "phone": "71 333 24 11",
       "website": "https://www.wm.wroc.pl/kontakt/",
@@ -11001,7 +11222,7 @@
         }
       ],
       "latest_review_ts": 1770465379,
-      "id": "wrocławskie-mieszkania",
+      "id": "wrocawskie-mieszkania",
       "sources": [
         "gus",
         "maps"
@@ -11018,7 +11239,8 @@
         "website": "https://wm.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 100
-      }
+      },
+      "wspolnoty_count": 100
     },
     {
       "place_id": "ChIJ77VZFtvpD0cR02NYkKdymss",
@@ -11046,7 +11268,8 @@
       "id": "wspolnota-mieszkaniowa-prusa-24",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ3ai-p8npD0cRUyDPIVGts1g",
@@ -11089,7 +11312,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJGUObPsTpD0cRqRzB8vJ4tc8",
@@ -11144,7 +11368,8 @@
         "website": "",
         "confidence": "niska",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJJ0NXt2XCD0cRq_ICv1akAP8",
@@ -11164,7 +11389,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJjwp37BHDD0cRx1rP9vRCvv4",
@@ -11207,7 +11433,8 @@
       "id": "wspolnota-mieszkaniowa-zabrodzka-6-8-10",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJAQCkq-DpD0cR1yicvN7gPeo",
@@ -11227,7 +11454,8 @@
       "id": "wspolnota-mieszkaniowa-trojka",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJE4zvXLLpD0cR0kO1MYS-468",
@@ -11255,7 +11483,8 @@
       "id": "wspolnota-mieszkaniowa-zarzad",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ9Rnur3vCD0cR_3jdKBtD5Qg",
@@ -11319,7 +11548,8 @@
       "id": "budowlani-spodzielnia-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJp1yP25DpD0cRS2b7Hr65TKA",
@@ -11375,7 +11605,8 @@
       "id": "wspolnota-mieszkaniowa-rozanka",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJLwyoc1jCD0cRJhzfEyzxcG8",
@@ -11403,7 +11634,8 @@
       "id": "wspolnota-mieszkaniowa-ul-jabeczna-22-36",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ9zud7nrCD0cRjlL4nYHOD7I",
@@ -11438,7 +11670,8 @@
       "id": "oaza-spodzielnia-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ0TE1Rh3pD0cRJFkdqJSiZvo",
@@ -11458,7 +11691,8 @@
       "id": "wspolnota-mieszkaniowa-pestalozziego-6",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJyUwqIWrCD0cREjWuWAPR4NM",
@@ -11522,7 +11756,8 @@
       "id": "spodzielnia-mieszkaniowa-wrocaw-poudnie",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJFax2DrvDD0cRuG8mV6I7U1U",
@@ -11550,7 +11785,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJUYUREQ3CD0cRyJD2DDzdFb8",
@@ -11570,7 +11806,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJW6TOE9TpD0cR5F_hOkUuMQg",
@@ -11627,7 +11864,8 @@
       "id": "zlota-kielnia-spodzielnia-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ6_ODNP7CD0cRbfM-_4-Ys9w",
@@ -11683,7 +11921,8 @@
       "id": "przystankowa-24-wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJLWv5zgXCD0cRscXi3BRnVuw",
@@ -11703,7 +11942,8 @@
       "id": "wspolnota-mieszkaniowa-pod-kasztanami",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJt6FsBdTpD0cR_iRO3L8z5oY",
@@ -11731,7 +11971,8 @@
       "id": "nova-locum-spodzielnia-mieszkaniowa-lokatorsko-wasno-iowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJcRhDYXrCD0cRDW6JU0ieFdo",
@@ -11795,7 +12036,8 @@
       "id": "spodzielnia-mieszkaniowa-cegieka",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJidyLjgTqD0cRLxK8oq5nc7c",
@@ -11859,7 +12101,8 @@
       "id": "popowice-spodzielnia-mieszkaniowa-lokatorsko-wasno-iowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJzbGwUXrCD0cRAr8ZDEhrBBQ",
@@ -11913,7 +12156,7 @@
         }
       ],
       "latest_review_ts": 1691415775,
-      "id": "społdzielnia-mieszkaniowa-arka",
+      "id": "spodzielnia-mieszkaniowa-arka",
       "sources": [
         "gus",
         "maps"
@@ -11928,7 +12171,8 @@
         "website": "http://www.arka.wroc.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJl_ZPSvbDD0cRezpRc9r52pY",
@@ -11956,7 +12200,8 @@
       "id": "wspolnota-mieszkaniowa-slezna-178-180b",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJccM549rpD0cRnJ-WknrgrW0",
@@ -12020,7 +12265,8 @@
       "id": "spodzielnia-mieszkaniowa-na-szancach",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJiVo1Sk7CD0cRk7pJG4jI5Cc",
@@ -12050,7 +12296,8 @@
         "website": "",
         "confidence": "niska",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJ9RY8YaXpD0cRGCI9E6brLxI",
@@ -12085,7 +12332,8 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJa5K7rv_pD0cRQed0Du7kq7k",
@@ -12105,11 +12353,12 @@
       "id": "wspolnota-mieszkaniowa",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJP0boNAjCD0cRy0G1E55b0zI",
-      "name": "Jedynka. Spółdzielnia Mieszkaniowa",
+      "name": "Spółdzielnia Mieszkaniowa Jedynka we Wrocławiu",
       "address": "Środkowa 3, 53-662 Wrocław, Polska",
       "phone": "71 355 34 77",
       "website": "http://www.sm-jedynka.pl/",
@@ -12166,7 +12415,7 @@
         }
       ],
       "latest_review_ts": 1673425781,
-      "id": "społdzielnia-mieszkaniowa-jedynka-we-wrocławiu",
+      "id": "spodzielnia-mieszkaniowa-jedynka-we-wrocawiu",
       "sources": [
         "gus",
         "maps"
@@ -12181,7 +12430,8 @@
         "website": "https://sm-jedynka.pl",
         "confidence": "wysoka",
         "wspolnoty_count": 1
-      }
+      },
+      "wspolnoty_count": 1
     },
     {
       "place_id": "ChIJj091m-bDD0cRLp58WGw_EC0",
@@ -12245,7 +12495,8 @@
       "id": "realsy-management",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ828vRnXCD0cRnfyAyvOqog0",
@@ -12309,7 +12560,8 @@
       "id": "premium-real-estates",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJx_JGG-HpD0cR4nyDgoUJBCQ",
@@ -12373,7 +12625,8 @@
       "id": "homfi-wrocaw-agencja-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJIxI2WvbDD0cR5Xq3-k3ig_4",
@@ -12437,7 +12690,8 @@
       "id": "prime-properties-group",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJcZAAHDHpD0cRcNzXRySvxaU",
@@ -12501,7 +12755,8 @@
       "id": "glory-estate",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJdw2n_DHpD0cR9_-Tlhb18Vc",
@@ -12565,7 +12820,8 @@
       "id": "uniquerent-travel",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ0wrAPAfpD0cR_ioT-K5auP8",
@@ -12629,7 +12885,8 @@
       "id": "mell-estate",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJcZCR13nDD0cRjLrZL8KDquQ",
@@ -12693,7 +12950,8 @@
       "id": "angel-management-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ1Y5vgfLDD0cR-EZyzJ7i3TY",
@@ -12757,7 +13015,8 @@
       "id": "mk-prestige-nieruchomo-i-biuro-nieruchomo-i-we-wrocawiu",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJJXQDOE_pD0cRE2dlXKCKrtg",
@@ -12821,7 +13080,8 @@
       "id": "hamilton-may-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJBYlStATDD0cRWoRH1UYWUqo",
@@ -12885,7 +13145,8 @@
       "id": "evesta-biuro-nieruchomo-i-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJY3668HHDD0cRdjDvA8qCtY4",
@@ -12949,7 +13210,8 @@
       "id": "smart-rental-management-apartments",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJSb0Vi_XpD0cRFXewJ0xZxCo",
@@ -13013,7 +13275,8 @@
       "id": "mwi-investments-agencja-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJqxV0GD_DD0cRtGVYo_Rnrqk",
@@ -13077,7 +13340,8 @@
       "id": "vobisrent-zarzadzanie-najmem-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJA_z7wd_DD0cRvDbecYbSrLs",
@@ -13141,7 +13405,8 @@
       "id": "agencja-nieruchomo-i-qivi-property",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ21fyH4TBD0cRlyXU2UY5rLc",
@@ -13205,7 +13470,8 @@
       "id": "biuro-nieruchomo-i-as-property-wycena-nieruchomo-i-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJI_LJQo3DD0cRUSUGxOzvzqU",
@@ -13269,7 +13535,8 @@
       "id": "euro-management",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJoXBsvzLpD0cRuRQdtDgOPJg",
@@ -13319,7 +13586,8 @@
       "id": "apartamento-apartamenty-wrocaw-wynajem-apartamentow-wrocaw-apartament-wrocaw-mieszkanie-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJNQhbNHXCD0cR5WFHmZy9sMQ",
@@ -13383,7 +13651,8 @@
       "id": "heritage-gates",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJwfZvpmHBD0cR-Ormt0XOmxI",
@@ -13447,7 +13716,8 @@
       "id": "n-home-nieruchomo-i-biuro-nieruchomo-i-wrocaw",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJSbIPQpDDD0cRXf5PN3eWp9E",
@@ -13511,7 +13781,8 @@
       "id": "sky-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ06vv23DCD0cRgYnlWPGxIk0",
@@ -13575,7 +13846,8 @@
       "id": "sdp-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJaTxD9vjCD0cRLJQ_kmLiVIk",
@@ -13639,7 +13911,8 @@
       "id": "ag-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJfzXTWzjCD0cRZk5ls9oGDWM",
@@ -13703,7 +13976,8 @@
       "id": "paczos-pl-doradza-pl-biuro-nieruchomo-i-kredyt-hipoteczny-ubezpieczenia",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJFxOtyevDD0cRW1AstWb3pzE",
@@ -13746,7 +14020,8 @@
       "id": "halavach-real-estate-agency",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJ5fosPvnDD0cRyjlPDgjyTxw",
@@ -13810,7 +14085,8 @@
       "id": "home-brand-nieruchomo-i",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "place_id": "ChIJx6mi11_DD0cRcn18-0thiCE",
@@ -13874,7 +14150,8 @@
       "id": "cara-living-pl",
       "sources": [
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 0
     },
     {
       "id": "admika",
@@ -13950,7 +14227,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 9
     },
     {
       "id": "ager",
@@ -14005,7 +14283,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "alcero-ad-nieruchomo-i",
@@ -14053,7 +14332,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "amw-tbs-kwatera",
@@ -14129,7 +14409,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "aqua-serwis",
@@ -14198,7 +14479,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
       "id": "arkadia-licencjonowany-zarzadca-nieruchomo-i",
@@ -14231,7 +14513,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 20
     },
     {
       "id": "awbud-developer",
@@ -14305,7 +14588,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 7
     },
     {
       "id": "b-b-zarzadzanie-projektowanie-utrzymanie-nieruchomo-i",
@@ -14340,7 +14624,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 23
     },
     {
       "id": "bobs-invest",
@@ -14416,12 +14701,13 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
       "place_id": "ChIJT1tbUEZNDkcRL0CRPIdQoB4",
-      "name": "BPR Dolnośląskie Nieruchomości Sp. z o.o.",
+      "name": "Zarosa Barbara. Zarządzanie Nieruchomościami Ubezpieczenia",
       "address": "Wałbrzyska 25/210, 58-100 Świdnica, Poland",
       "phone": "531 543 535",
       "website": "https://share.google/w13OiCapIHfhUTQyF",
@@ -14490,7 +14776,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "broker-nieruchomo-i",
@@ -14523,7 +14810,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 10
     },
     {
       "id": "bryliant-licencjonowani-zarzadcy-nieruchomo-i",
@@ -14554,10 +14842,11 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 4
     },
     {
-      "id": "c-w-budmat-społka-z-ograniczona-odpowiedzialno-ia",
+      "id": "c-w-budmat-spoka-z-ograniczona-odpowiedzialno-ia",
       "place_id": "",
       "name": "C&W BUDMAT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
       "address": "",
@@ -14585,10 +14874,11 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 5
     },
     {
-      "id": "city-nest-zarzadzanie-nieruchomo-iami-michał-dybski",
+      "id": "city-nest-zarzadzanie-nieruchomo-iami-micha-dybski",
       "place_id": "ChIJY75vXrTDD0cRg7sgRVTrIU4",
       "name": "CITY NEST ZARZĄDZANIE NIERUCHOMOŚCIAMI",
       "address": "Turniejowa 22/11, 53-014 Wrocław, Poland",
@@ -14666,7 +14956,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 13
     },
     {
       "id": "dczn-dolnoslaskie-centrum-zarzadzania-nieruchomo-iami",
@@ -14735,7 +15026,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
       "id": "domicilium",
@@ -14814,10 +15106,11 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 40
     },
     {
-      "id": "drapała-zarzadzanie-nieruchomo-iami",
+      "id": "drapaa-zarzadzanie-nieruchomo-iami",
       "place_id": "ChIJqalksLfpD0cRByo4I1VYPSo",
       "name": "Drapała Zarządzanie Nieruchomościami",
       "address": "Galla Anonima 4/LU2, 51-162 Wrocław, Poland",
@@ -14892,12 +15185,13 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 39
     },
     {
       "id": "y-a-r-d",
       "place_id": "",
-      "name": "eSKa Biuro Zarządzania Nieruchomościami Krzysztof Sosna",
+      "name": "Y.A.R.D sp. z o.o.",
       "address": "",
       "phone": "713482473",
       "website": "https://geoportal.wroclaw.pl/poi/poi/372",
@@ -14921,7 +15215,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 9
     },
     {
       "id": "ewa-hoffmann-zarzadca-nieruchomo-i",
@@ -14952,7 +15247,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "feroma",
@@ -14999,7 +15295,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "foster-property",
@@ -15061,7 +15358,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 7
     },
     {
       "id": "gacek-hoffman",
@@ -15109,7 +15407,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "gestor",
@@ -15186,7 +15485,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 22
     },
     {
       "id": "haas-zarzadzanie-nieruchomo-iami",
@@ -15264,7 +15564,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 4
     },
     {
       "id": "inter-es-deweloper",
@@ -15342,7 +15643,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
       "id": "kancelaria-patronus",
@@ -15373,7 +15675,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "kkn",
@@ -15405,10 +15708,11 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 8
     },
     {
-      "id": "kompleksowa-obsługa-osiedla",
+      "id": "kompleksowa-obsuga-osiedla",
       "place_id": "ChIJSVBme3TqD0cRNJk08j3ivHU",
       "name": "Kompleksowa Obsługa Osiedla Sp. z o.o.",
       "address": "bulwar Ikara 29a/lok.3, 54-130 Wrocław, Poland",
@@ -15484,7 +15788,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1083
     },
     {
       "id": "kvw-e-nieruchomo-i",
@@ -15561,7 +15866,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 76
     },
     {
       "id": "m2-projekt",
@@ -15610,10 +15916,11 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
-      "id": "marta-kozłowska-zarzadzanie-nieruchomo-ia",
+      "id": "marta-kozowska-zarzadzanie-nieruchomo-ia",
       "place_id": "",
       "name": "Marta Kozłowska Zarządzanie Nieruchomością",
       "address": "",
@@ -15641,7 +15948,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "masters-zarzadzanie-nieruchomo-iami",
@@ -15687,7 +15995,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 12
     },
     {
       "id": "mediaserwis",
@@ -15748,7 +16057,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 12
     },
     {
       "id": "mr-zarzadca",
@@ -15790,7 +16100,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "nawigator-nieruchomo-i",
@@ -15869,7 +16180,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 23
     },
     {
       "id": "ncc-nieruchomo-i",
@@ -15909,7 +16221,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 17
     },
     {
       "id": "neodomi",
@@ -15940,7 +16253,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 5
     },
     {
       "id": "osiedle-so",
@@ -15971,7 +16285,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "p-administracja",
@@ -16039,7 +16354,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "pbo-dach-bud",
@@ -16115,7 +16431,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "pentagon-nieruchomo-i",
@@ -16183,7 +16500,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "posesja-zanal-zarzadzanie-nieruchomo-iami",
@@ -16259,7 +16577,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 4
     },
     {
       "id": "pro-serwis",
@@ -16335,7 +16654,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "property-facility-management",
@@ -16366,7 +16686,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "przedsiebiorstwo-budowlane-budotex",
@@ -16446,7 +16767,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 28
     },
     {
       "id": "r-group-company",
@@ -16477,7 +16799,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 2
     },
     {
       "id": "rachmix-zarzadzanie",
@@ -16554,7 +16877,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
       "id": "rem-group-zarzadzanie-nieruchomo-iami",
@@ -16630,7 +16954,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
       "id": "rodom-zarzadzanie-nieruchomo-iami-roman-olakowski",
@@ -16661,10 +16986,11 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
-      "id": "społdzielnia-budowlano-mieszkaniowa-maslice",
+      "id": "spodzielnia-budowlano-mieszkaniowa-maslice",
       "place_id": "ChIJ34WXR4vqD0cR9NmDNB-2Jak",
       "name": "\"Maślice\" Cooperative Building and Housing",
       "address": "Pilczycka 196D, 54-144 Wrocław, Poland",
@@ -16738,10 +17064,11 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 19
     },
     {
-      "id": "społdzielnia-mieszkaniowa-nasz-energetyk",
+      "id": "spodzielnia-mieszkaniowa-nasz-energetyk",
       "place_id": "ChIJL6U7ijnCD0cRmYgMdUWOK6w",
       "name": "Spółdzielnia Mieszkaniowa \"Nasz Energetyk\"",
       "address": "Gajowicka 177, 53-150 Wrocław, Poland",
@@ -16814,10 +17141,11 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 12
     },
     {
-      "id": "społdzielnia-mieszkaniowa-wrocławski-dom",
+      "id": "spodzielnia-mieszkaniowa-wrocawski-dom",
       "place_id": "ChIJ7-tJpFLoD0cRI54uN44oq8g",
       "name": "Wrocławski Dom. Spółdzielnia Mieszkaniowa",
       "address": "Grudziądzka 91A, 51-166 Wrocław, Poland",
@@ -16882,10 +17210,11 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 3
     },
     {
-      "id": "tbs-wrocław",
+      "id": "tbs-wrocaw",
       "place_id": "ChIJzfgRv7vpD0cR1fsAx-Ow9A0",
       "name": "Towarzystwo Budownictwa Społecznego Wrocław Spółka z o.o.",
       "address": "Stanisława Przybyszewskiego 102/104, 51-148 Wrocław, Poland",
@@ -16958,7 +17287,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 22
     },
     {
       "id": "tectum-zarzadzanie-nieruchomo-iami",
@@ -17026,7 +17356,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 6
     },
     {
       "id": "u-residence-ms-pro-apartamenty",
@@ -17102,7 +17433,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "ultranet",
@@ -17178,7 +17510,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "wpb-zarzadzanie-nieruchomo-iami",
@@ -17209,7 +17542,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 4
     },
     {
       "id": "wspolnota-mieszkaniowa-zwycieska-45",
@@ -17240,14 +17574,15 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "zarzadca",
       "place_id": "",
-      "name": "Zarządca (tel. 126889014)",
+      "name": "ZARZĄDCA Sp. z o.o.",
       "address": "",
-      "phone": "126889014",
+      "phone": "173538610",
       "website": "",
       "rating": 0,
       "reviews_count": 0,
@@ -17260,18 +17595,20 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "713420021"
+          "713420021",
+          "126889014"
         ],
         "emails": [
           "zarzadca@zarzadca.x.pl"
         ],
         "website": "https://zarzadca.wroc.pl/",
         "confidence": "niska",
-        "wspolnoty_count": 11
+        "wspolnoty_count": 12
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 12
     },
     {
       "id": "zarzadzanie-nieruchomo-iami-nasze-domy",
@@ -17302,7 +17639,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 12
     },
     {
       "id": "zuh-partner-nieruchomo-i",
@@ -17356,7 +17694,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "zzn",
@@ -17389,7 +17728,8 @@
       },
       "sources": [
         "gus"
-      ]
+      ],
+      "wspolnoty_count": 24
     },
     {
       "id": "swiat-nieruchomo-i-znib-wspolnota",
@@ -17465,7 +17805,8 @@
       "sources": [
         "gus",
         "maps"
-      ]
+      ],
+      "wspolnoty_count": 1
     }
   ]
 }

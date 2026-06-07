@@ -72,6 +72,8 @@ def gus_block(company: dict, wspolnoty_count: int = 0) -> dict:
 def merge_gus_into_record(record: dict, company: dict, wspolnoty_count: int) -> dict:
     record = dict(record)
     record["id"] = company.get("id") or record.get("id") or gus_io.slugify(record.get("name", ""))
+    if company.get("name") and not str(company.get("key", "")).startswith("phone:"):
+        record["name"] = company["name"]
     record["gus"] = gus_block(company, wspolnoty_count)
     sources = set(record.get("sources", ["maps"]))
     sources.add("gus")
@@ -201,16 +203,17 @@ def main():
 
     # link wspólnot (regeneruj index)
     import subprocess
-    subprocess.run(
-        [
-            sys.executable,
-            str(ROOT / "link_wspolnoty.py"),
-            "--zarzadcy", zarzadcy_csv,
-            "--wspolnoty", str(wspolnoty_csv),
-            "--output", str(wspolnoty_path),
-        ],
-        check=True,
-    )
+    overrides_path = DATA_GUS / "wspolnoty_phone_manager.csv"
+    link_cmd = [
+        sys.executable,
+        str(ROOT / "link_wspolnoty.py"),
+        "--zarzadcy", zarzadcy_csv,
+        "--wspolnoty", str(wspolnoty_csv),
+        "--output", str(wspolnoty_path),
+    ]
+    if overrides_path.exists():
+        link_cmd.extend(["--overrides", str(overrides_path)])
+    subprocess.run(link_cmd, check=True)
 
     wsp_counts = load_wspolnoty_counts(wspolnoty_path)
 
@@ -320,10 +323,11 @@ def main():
         final.append(r)
     deduped = final
 
-    # Update wspolnoty_count on all records that have gus block
     for r in deduped:
+        cnt = wsp_counts.get(r["id"], 0)
+        r["wspolnoty_count"] = cnt
         if r.get("gus"):
-            r["gus"]["wspolnoty_count"] = wsp_counts.get(r["id"], r["gus"].get("wspolnoty_count", 0))
+            r["gus"]["wspolnoty_count"] = cnt
 
     output = {
         "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
