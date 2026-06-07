@@ -105,13 +105,61 @@
       flex-wrap: wrap;
       align-items: center;
     }
-    .controls input[type=text] {
+    .search-wrap {
       flex: 1;
       min-width: 180px;
+      position: relative;
+    }
+    .search-wrap input[type=text] {
+      width: 100%;
       padding: 7px 11px;
       border: 1px solid #c5cdd8;
       border-radius: 6px;
       font-size: 0.9rem;
+    }
+    .search-suggestions {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      right: 0;
+      background: #fff;
+      border: 1px solid #c5cdd8;
+      border-radius: 6px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+      max-height: 280px;
+      overflow-y: auto;
+      z-index: 100;
+    }
+    .search-suggestions[hidden] { display: none; }
+    .suggestion-item {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 9px 12px;
+      border: none;
+      border-bottom: 1px solid #eef1f5;
+      background: #fff;
+      cursor: pointer;
+    }
+    .suggestion-item:last-child { border-bottom: none; }
+    .suggestion-item:hover, .suggestion-item.active {
+      background: #eef3fb;
+    }
+    .suggestion-wsp {
+      display: block;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #222;
+      line-height: 1.3;
+    }
+    .suggestion-mgr {
+      display: block;
+      font-size: 0.78rem;
+      color: #666;
+      margin-top: 2px;
+    }
+    .wspolnoty-table tr.match-highlight td {
+      background: #fff8dc;
     }
     .controls select {
       padding: 7px 10px;
@@ -367,7 +415,7 @@
       #map { height: 100% !important; }
 
       .controls { flex-wrap: wrap; gap: 6px; }
-      .controls input[type=text] { min-width: 100%; }
+      .controls .search-wrap { min-width: 100%; flex: 1 1 100%; }
 
       thead th:nth-child(3), td:nth-child(3),
       thead th:nth-child(4), td:nth-child(4),
@@ -398,7 +446,10 @@
 <div class="layout" id="layout">
   <div class="table-panel" id="table-panel" style="display:flex;flex-direction:column;overflow:hidden;">
     <div class="controls">
-      <input type="text" id="search" placeholder="Szukaj nazwy lub adresu…" />
+      <div class="search-wrap">
+        <input type="text" id="search" placeholder="Szukaj zarządcy, wspólnoty lub adresu…" autocomplete="off" />
+        <div id="search-suggestions" hidden></div>
+      </div>
       <select id="sort-select">
         <option value="name-asc">Nazwa A–Z</option>
         <option value="name-desc">Nazwa Z–A</option>
@@ -540,6 +591,150 @@ let wspolnotyCache = null;
 let wspolnotyLoadPromise = null;
 let wspolnotySortCol = 'data_powstania';
 let wspolnotySortDir = -1;
+let placesById = {};
+let wspolnotySearchIndex = [];
+let suggestionActiveIdx = -1;
+
+function escapeHtml(text) {
+  return String(text ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function wspolnotaKey(w) {
+  return w.regon || `${(w.nazwa || '').toLowerCase()}|${(w.adres || '').toLowerCase()}`;
+}
+
+function rebuildPlacesById() {
+  placesById = {};
+  allPlaces.forEach(p => { if (p.id) placesById[p.id] = p; });
+}
+
+function buildWspolnotySearchIndex() {
+  wspolnotySearchIndex = [];
+  if (!wspolnotyCache) return;
+  for (const [managerId, items] of Object.entries(wspolnotyCache)) {
+    const place = placesById[managerId];
+    const managerName = place ? (place.name || managerId) : `${managerId} (brak profilu)`;
+    const hasProfile = !!place;
+    for (const w of items) {
+      wspolnotySearchIndex.push({
+        managerId,
+        managerName,
+        hasProfile,
+        nazwa: w.nazwa || '',
+        adres: w.adres || '',
+        key: wspolnotaKey(w),
+      });
+    }
+  }
+}
+
+function wspolnotaMatchesQuery(item, ql) {
+  return (item.nazwa || '').toLowerCase().includes(ql)
+    || (item.adres || '').toLowerCase().includes(ql);
+}
+
+function getManagerIdsForWspolnotyQuery(q) {
+  const ids = new Set();
+  if (!q) return ids;
+  const ql = q.toLowerCase();
+  for (const item of wspolnotySearchIndex) {
+    if (wspolnotaMatchesQuery(item, ql)) ids.add(item.managerId);
+  }
+  return ids;
+}
+
+function getWspolnotySuggestions(q, limit = 8) {
+  if (!q || q.length < 3) return [];
+  const ql = q.toLowerCase();
+  const out = [];
+  for (const item of wspolnotySearchIndex) {
+    if (!wspolnotaMatchesQuery(item, ql)) continue;
+    out.push(item);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+
+function hideSearchSuggestions() {
+  const box = document.getElementById('search-suggestions');
+  box.hidden = true;
+  box.innerHTML = '';
+  box._suggestions = [];
+  suggestionActiveIdx = -1;
+}
+
+function renderSearchSuggestions(q) {
+  const box = document.getElementById('search-suggestions');
+  if (!q || q.length < 3) {
+    hideSearchSuggestions();
+    return;
+  }
+  const suggestions = getWspolnotySuggestions(q, 8);
+  if (!suggestions.length) {
+    hideSearchSuggestions();
+    return;
+  }
+  box.hidden = false;
+  box._suggestions = suggestions;
+  suggestionActiveIdx = -1;
+  box.innerHTML = suggestions.map((s, i) => `
+    <button type="button" class="suggestion-item" data-idx="${i}">
+      <span class="suggestion-wsp">${escapeHtml(s.nazwa)}</span>
+      <span class="suggestion-mgr">${escapeHtml(s.managerName)}</span>
+    </button>
+  `).join('');
+  box.querySelectorAll('.suggestion-item').forEach(btn => {
+    btn.addEventListener('mousedown', e => e.preventDefault());
+    btn.addEventListener('click', () => {
+      const s = box._suggestions[parseInt(btn.dataset.idx, 10)];
+      if (s) openManagerFromSuggestion(s);
+    });
+  });
+}
+
+function highlightSuggestionItems() {
+  const box = document.getElementById('search-suggestions');
+  if (box.hidden) return;
+  box.querySelectorAll('.suggestion-item').forEach((btn, i) => {
+    btn.classList.toggle('active', i === suggestionActiveIdx);
+  });
+}
+
+async function openManagerFromSuggestion(s) {
+  hideSearchSuggestions();
+  if (!s.hasProfile) {
+    alert(`Wspólnota „${s.nazwa}” jest przypisana do ${s.managerId}, ale nie ma karty zarządcy na liście.`);
+    return;
+  }
+  const p = placesById[s.managerId];
+  if (!p) return;
+  const idx = filteredPlaces.indexOf(p);
+  if (idx < 0) return;
+  const tbody = document.getElementById('table-body');
+  const tr = tbody.querySelector(`tr[data-index="${idx}"]`);
+  if (!tr) return;
+  tr.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  if (openRow && openRow !== tr) {
+    const prevDetail = document.getElementById('detail-row');
+    if (prevDetail) prevDetail.remove();
+    document.querySelectorAll('tbody tr.selected').forEach(r => r.classList.remove('selected'));
+  }
+  if (!tr.classList.contains('selected')) {
+    toggleDetails(tr, p);
+  }
+  const wspSection = document.getElementById('detail-row')?.querySelector('.wspolnoty-section');
+  if (wspSection) {
+    wspSection._highlightKey = s.key;
+    await showWspolnoty(s.managerId, wspSection, p.name || s.managerId, s.key);
+    const highlighted = wspSection.querySelector('tr.match-highlight');
+    if (highlighted) highlighted.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+}
+
+function onSearchInput() {
+  renderTable();
+  renderSearchSuggestions(document.getElementById('search').value.trim());
+}
 
 function formatTs(ts) {
   if (!ts) return '—';
@@ -623,19 +818,21 @@ function statusLabel(s) {
 }
 
 function renderTable() {
-  const search = document.getElementById('search').value.toLowerCase();
+  const search = document.getElementById('search').value.toLowerCase().trim();
   const ratingVal = document.getElementById('min-rating').value;
+  const wspManagerIds = getManagerIdsForWspolnotyQuery(search);
 
   filteredPlaces = allPlaces.filter(p => {
-    const matchSearch = !search ||
+    const matchManager = !search ||
       (p.name || '').toLowerCase().includes(search) ||
       (p.address || '').toLowerCase().includes(search);
+    const matchWspolnota = wspManagerIds.has(p.id);
     let matchRating = true;
     if (ratingVal && ratingVal !== '0') {
       const maxRating = parseFloat(ratingVal.split('-')[1]);
       matchRating = (p.rating || 0) < maxRating;
     }
-    return matchSearch && matchRating;
+    return (matchManager || matchWspolnota) && matchRating;
   });
 
   // Sort
@@ -712,9 +909,9 @@ function sortWspolnotyList(list) {
   });
 }
 
-function renderWspolnotyContent(container, managerName) {
+function renderWspolnotyContent(container, managerName, highlightKey) {
   const list = sortWspolnotyList(container._wspolnotyList || []);
-  container.querySelector('.wspolnoty-content').innerHTML = renderWspolnotyTable(list);
+  container.querySelector('.wspolnoty-content').innerHTML = renderWspolnotyTable(list, highlightKey || container._highlightKey);
   const exportBtn = container.querySelector('.btn-export-csv');
   if (exportBtn) {
     exportBtn.onclick = () => exportWspolnotyCsv(list, managerName || '');
@@ -730,15 +927,17 @@ function renderWspolnotyContent(container, managerName) {
   });
 }
 
-function renderWspolnotyTable(list) {
+function renderWspolnotyTable(list, highlightKey) {
   if (!list || !list.length) {
     return '<p style="color:#aaa;font-size:.83rem">Brak danych GUS dla tego zarządcy.</p>';
   }
   const rows = list.map(w => {
     const nazwa = (w.nazwa || '—').replace(/</g, '&lt;');
     const mapsUrl = mapsSearchUrl(w.nazwa);
+    const key = wspolnotaKey(w);
+    const hl = highlightKey && key === highlightKey ? ' class="match-highlight"' : '';
     return `
-    <tr>
+    <tr${hl} data-wsp-key="${escapeHtml(key)}">
       <td>${nazwa}</td>
       <td>${(w.adres || '—').replace(/</g,'&lt;')}</td>
       <td>${w.telefon || '—'}</td>
@@ -759,14 +958,15 @@ function renderWspolnotyTable(list) {
     </div>`;
 }
 
-async function showWspolnoty(managerId, container, managerName) {
+async function showWspolnoty(managerId, container, managerName, highlightKey) {
   const btn = container.querySelector('.btn-wspolnoty');
   if (btn) { btn.disabled = true; btn.textContent = 'Ładowanie…'; }
   const index = await loadWspolnotyIndex();
   const list = index[managerId] || [];
   container._wspolnotyList = list;
   container._managerName = managerName || managerId;
-  renderWspolnotyContent(container, container._managerName);
+  if (highlightKey) container._highlightKey = highlightKey;
+  renderWspolnotyContent(container, container._managerName, highlightKey);
   if (btn) { btn.disabled = false; btn.textContent = `Odśwież listę (${list.length})`; }
 }
 
@@ -892,7 +1092,31 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
   });
 });
 
-document.getElementById('search').addEventListener('input', renderTable);
+document.getElementById('search').addEventListener('input', onSearchInput);
+document.getElementById('search').addEventListener('keydown', e => {
+  const box = document.getElementById('search-suggestions');
+  const items = box._suggestions || [];
+  if (e.key === 'Escape') {
+    hideSearchSuggestions();
+    return;
+  }
+  if (box.hidden || !items.length) return;
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    suggestionActiveIdx = Math.min(suggestionActiveIdx + 1, items.length - 1);
+    highlightSuggestionItems();
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    suggestionActiveIdx = Math.max(suggestionActiveIdx - 1, 0);
+    highlightSuggestionItems();
+  } else if (e.key === 'Enter' && suggestionActiveIdx >= 0) {
+    e.preventDefault();
+    openManagerFromSuggestion(items[suggestionActiveIdx]);
+  }
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-wrap')) hideSearchSuggestions();
+});
 document.getElementById('sort-select').addEventListener('change', e => {
   const val = e.target.value;
   const lastDash = val.lastIndexOf('-');
@@ -911,13 +1135,17 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 markerLayer = L.layerGroup().addTo(map);
 
 // Load data
-fetch(DATA_URL)
-  .then(r => {
+Promise.all([
+  fetch(DATA_URL).then(r => {
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     return r.json();
-  })
-  .then(data => {
+  }),
+  loadWspolnotyIndex(),
+])
+  .then(([data]) => {
     allPlaces = data.results || data;
+    rebuildPlacesById();
+    buildWspolnotySearchIndex();
     document.getElementById('header-info').textContent =
       `Dane: ${data.total || allPlaces.length} firm · ${data.generated_at || ''}`;
     renderTable();
