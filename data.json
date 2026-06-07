@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07 12:59:58",
-  "total": 328,
+  "generated_at": "2026-06-07 14:47:40",
+  "total": 330,
   "sources": {
     "maps_full": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\wroclaw\\zarzadcy_wroclaw_full_details.json",
-    "gus_csv": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane-gus\\zarzadcy-gus-wroclaw.csv",
+    "gus_csv": "dane-gus/zarzadcy-gus-wroclaw-portal.csv",
     "gus_maps": "C:\\Users\\lukas\\Desktop\\Zarzadzanie nieruchomosciami\\google-maps-api\\dane\\gus\\zarzadcy_gus_maps.json"
   },
   "results": [
@@ -1230,23 +1230,24 @@
         }
       ],
       "latest_review_ts": 1390833261,
-      "id": "tel-713345103",
+      "id": "zanir-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
+          "713345112",
           "713345103"
         ],
         "emails": [
-          "ZANIR@INTERIA.PL"
+          "zanir@interia.pl"
         ],
         "website": "",
         "confidence": "niska",
-        "wspolnoty_count": 2
+        "wspolnoty_count": 7
       },
-      "wspolnoty_count": 2
+      "wspolnoty_count": 7
     },
     {
       "place_id": "ChIJsV3UoLfpD0cR8ShtwbxCaeU",
@@ -2546,21 +2547,28 @@
         }
       ],
       "latest_review_ts": 1727868372,
-      "id": "tel-713431331",
+      "id": "domestia-zarzadzanie-nieruchomo-iami",
       "sources": [
         "gus",
         "maps"
       ],
       "gus": {
         "phones": [
-          "713431331"
+          "713431331",
+          "717575978",
+          "7107575978",
+          "717575578",
+          "7175759781",
+          "71757598"
         ],
-        "emails": [],
-        "website": "",
-        "confidence": "niska",
-        "wspolnoty_count": 3
+        "emails": [
+          "biuro@domestia.pl"
+        ],
+        "website": "https://domestia.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 92
       },
-      "wspolnoty_count": 3
+      "wspolnoty_count": 92
     },
     {
       "place_id": "ChIJ6dUFlmnCD0cR2hlpDjmPjc4",
@@ -3719,16 +3727,17 @@
       ],
       "gus": {
         "phones": [
-          "713485421"
+          "713485421",
+          "713486420"
         ],
         "emails": [
-          "bmichno@pzm-patron.pl"
+          "AGNIESZKA.GAWEDZKA@GA-MI.COM.PL"
         ],
         "website": "https://pzm-patron.pl",
         "confidence": "niska",
-        "wspolnoty_count": 168
+        "wspolnoty_count": 169
       },
-      "wspolnoty_count": 168
+      "wspolnoty_count": 169
     },
     {
       "place_id": "ChIJycKF8XbCD0cRTNJXlQV3s7Q",
@@ -3896,18 +3905,26 @@
       ],
       "gus": {
         "phones": [
+          "887039555",
+          "887093555",
+          "713281439",
           "713486753",
-          "483486753"
+          "483486753",
+          "692891830",
+          "713283667"
         ],
         "emails": [
+          "zarzadca.dtd.nieruchomosci@gmail.com",
+          "JADWIGAKOLACZ@WP.PL",
           "BIURO@APW.WROCLAW.PL",
-          "biuro@apw.wroclaw"
+          "biuro@apw.wroclaw",
+          "piastowska30@gmail.com"
         ],
-        "website": "https://apw.wroclaw.pl",
+        "website": "https://www.gowork.pl/dtd-nieruchomosci-jakub-romanowski,22039971/dane-kontaktowe-firmy",
         "confidence": "wysoka",
-        "wspolnoty_count": 60
+        "wspolnoty_count": 77
       },
-      "wspolnoty_count": 60
+      "wspolnoty_count": 77
     },
     {
       "place_id": "ChIJjQrQKCroD0cRky4JCzXt-e8",
@@ -5066,9 +5083,9 @@
         ],
         "website": "https://share.google/v2sGPldDgd1bWJ5Uf",
         "confidence": "niska",
-        "wspolnoty_count": 17
+        "wspolnoty_count": 21
       },
-      "wspolnoty_count": 17
+      "wspolnoty_count": 21
     },
     {
       "place_id": "ChIJ9dhlelbCD0cRWzDAmZUFl7c",
@@ -6163,9 +6180,9 @@
         ],
         "website": "https://imperium-zarzadzanie.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 37
+        "wspolnoty_count": 40
       },
-      "wspolnoty_count": 37
+      "wspolnoty_count": 40
     },
     {
       "place_id": "ChIJX64jWoDDD0cRweq4kcQ3ac8",
@@ -6248,9 +6265,9 @@
         ],
         "website": "https://expertdom.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 160
+        "wspolnoty_count": 162
       },
-      "wspolnoty_count": 160
+      "wspolnoty_count": 162
     },
     {
       "place_id": "ChIJjSTu5y3oD0cRHP9QZuZfgc0",
@@ -6333,9 +6350,9 @@
         ],
         "website": "https://amd.wroc.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 37
+        "wspolnoty_count": 46
       },
-      "wspolnoty_count": 37
+      "wspolnoty_count": 46
     },
     {
       "place_id": "ChIJqRQaBXvCD0cR6NxJnWkGEK4",
@@ -6411,9 +6428,9 @@
         ],
         "website": "https://bonitatis.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 78
+        "wspolnoty_count": 80
       },
-      "wspolnoty_count": 78
+      "wspolnoty_count": 80
     },
     {
       "place_id": "ChIJ3S5ajiPBD0cR9bE5RrojKyQ",
@@ -6488,9 +6505,9 @@
         ],
         "website": "https://www.herdom.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 19
+        "wspolnoty_count": 21
       },
-      "wspolnoty_count": 19
+      "wspolnoty_count": 21
     },
     {
       "place_id": "ChIJZwp4__3DD0cRAkDY171XNY4",
@@ -6716,7 +6733,6 @@
       "gus": {
         "phones": [
           "713613713",
-          "713619713",
           "717726315",
           "717726300",
           "71932205203",
@@ -6727,14 +6743,14 @@
           "717726310"
         ],
         "emails": [
-          "BIURO@ATENA-HJW.PL",
-          "ATENA@3C.PL"
+          "ATENA@3C.PL",
+          "BIURO@ATENA-HJW.PL"
         ],
         "website": "https://atena-hjw.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 647
+        "wspolnoty_count": 640
       },
-      "wspolnoty_count": 647
+      "wspolnoty_count": 640
     },
     {
       "place_id": "ChIJ3wxzAXPDD0cRAXSg48yx0BU",
@@ -6867,19 +6883,18 @@
       ],
       "gus": {
         "phones": [
-          "717746918",
           "717746938",
-          "717746935"
+          "717746935",
+          "717746917"
         ],
         "emails": [
-          "COK@EXIST.COM.PL",
           "EXIST@HOME.PL"
         ],
         "website": "https://exist.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 13
+        "wspolnoty_count": 4
       },
-      "wspolnoty_count": 13
+      "wspolnoty_count": 4
     },
     {
       "place_id": "ChIJ64TvbwzCD0cRGfv6c6N9eKQ",
@@ -6950,7 +6965,7 @@
           "713026921"
         ],
         "emails": [
-          "BIURO@IMPERITUM.PL"
+          "biuro@imeritum.pl"
         ],
         "website": "https://imeritum.pl",
         "confidence": "niska",
@@ -7100,9 +7115,9 @@
         ],
         "website": "https://promena-zarzadca.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 180
+        "wspolnoty_count": 185
       },
-      "wspolnoty_count": 180
+      "wspolnoty_count": 185
     },
     {
       "place_id": "ChIJ9-lQ0YPDD0cRpWI2i82MA9A",
@@ -7251,12 +7266,14 @@
         "phones": [
           "713621788"
         ],
-        "emails": [],
+        "emails": [
+          "BIURO@ADMIROM-5.WROC.PL"
+        ],
         "website": "https://www.admirom-5.wroc.pl/home",
         "confidence": "niska",
-        "wspolnoty_count": 210
+        "wspolnoty_count": 214
       },
-      "wspolnoty_count": 210
+      "wspolnoty_count": 214
     },
     {
       "place_id": "ChIJ74dt7ArCD0cRhboLV5cxKG8",
@@ -7390,16 +7407,18 @@
       "gus": {
         "phones": [
           "717959539",
-          "717959639"
+          "71795539",
+          "717959639",
+          "7179589539"
         ],
         "emails": [
           "biuro@mah.wroc.pl"
         ],
         "website": "https://mah.wroc.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 45
+        "wspolnoty_count": 48
       },
-      "wspolnoty_count": 45
+      "wspolnoty_count": 48
     },
     {
       "place_id": "ChIJLWLcFwDDD0cRA9eFIPmkIt8",
@@ -7703,9 +7722,9 @@
         ],
         "website": "https://www.fontis.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 30
+        "wspolnoty_count": 31
       },
-      "wspolnoty_count": 30
+      "wspolnoty_count": 31
     },
     {
       "place_id": "ChIJcx_HlSLpD0cRP_xx8ROEMFM",
@@ -8060,20 +8079,26 @@
       "gus": {
         "phones": [
           "717806202",
+          "717836122",
+          "717838836",
           "713027654",
           "7117806202",
-          "717806402"
+          "717806402",
+          "717836121",
+          "713281512"
         ],
         "emails": [
-          "BIURO@MERITUM.PL",
+          "bok@meritumzarzadca.com.pl",
+          "MERITUMAT@WP.PL",
+          "biuro@imeritum.pl",
           "bok@meritumzarzadzanie.com.pl",
           "BOK@MERITUM.ZARZADCA.COM.PL"
         ],
         "website": "http://meritumzarzadca.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 78
+        "wspolnoty_count": 94
       },
-      "wspolnoty_count": 78
+      "wspolnoty_count": 94
     },
     {
       "place_id": "ChIJz7N6UBzrD0cRs1BOVv-ZKxU",
@@ -8214,9 +8239,9 @@
         ],
         "website": "https://egendom.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 25
+        "wspolnoty_count": 28
       },
-      "wspolnoty_count": 25
+      "wspolnoty_count": 28
     },
     {
       "place_id": "ChIJF9AR6HXCD0cRPk0l_zkKaSA",
@@ -8438,9 +8463,9 @@
         ],
         "website": "https://4m.wroclaw.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 50
+        "wspolnoty_count": 51
       },
-      "wspolnoty_count": 50
+      "wspolnoty_count": 51
     },
     {
       "place_id": "ChIJ1XJ4KqTDD0cR-WMtk4z7Dns",
@@ -8582,9 +8607,9 @@
         ],
         "website": "https://capital.wroclaw.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 11
+        "wspolnoty_count": 12
       },
-      "wspolnoty_count": 11
+      "wspolnoty_count": 12
     },
     {
       "place_id": "ChIJ-YuA68nqD0cRelvmKdZBISo",
@@ -8733,9 +8758,9 @@
         ],
         "website": "https://forum.wroc.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 77
+        "wspolnoty_count": 79
       },
-      "wspolnoty_count": 77
+      "wspolnoty_count": 79
     },
     {
       "place_id": "ChIJ921fIZBED0cRZS2XmUkJnDM",
@@ -8859,9 +8884,9 @@
         ],
         "website": "https://alba.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 30
+        "wspolnoty_count": 32
       },
-      "wspolnoty_count": 30
+      "wspolnoty_count": 32
     },
     {
       "place_id": "ChIJMTr9sNjpD0cRc6at4N_Oo1w",
@@ -8936,9 +8961,9 @@
         ],
         "website": "https://share.google/ZPRHZ8KdQoQYPX30D",
         "confidence": "niska",
-        "wspolnoty_count": 87
+        "wspolnoty_count": 89
       },
-      "wspolnoty_count": 87
+      "wspolnoty_count": 89
     },
     {
       "place_id": "ChIJIVsb8TbCD0cR8pWDVMZmEiM",
@@ -9017,9 +9042,9 @@
         ],
         "website": "http://pumaz.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 89
+        "wspolnoty_count": 90
       },
-      "wspolnoty_count": 89
+      "wspolnoty_count": 90
     },
     {
       "place_id": "ChIJ0en469_DD0cR77XBi3gaw-Y",
@@ -9443,9 +9468,9 @@
         ],
         "website": "https://vesta.nieruchomosci.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 63
+        "wspolnoty_count": 66
       },
-      "wspolnoty_count": 63
+      "wspolnoty_count": 66
     },
     {
       "place_id": "ChIJVYwT4uHCD0cRODu24jGWkwQ",
@@ -10873,7 +10898,7 @@
         }
       ],
       "latest_review_ts": 1768677492,
-      "id": "tel-600894308",
+      "id": "wspolnota-mieszkaniowa-ul-zmigrodzka-28-42",
       "sources": [
         "gus",
         "maps"
@@ -10956,9 +10981,9 @@
         ],
         "website": "https://major-domus.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 23
+        "wspolnoty_count": 24
       },
-      "wspolnoty_count": 23
+      "wspolnoty_count": 24
     },
     {
       "place_id": "ChIJubjxN2vCD0cRN9pGuo9ZYBw",
@@ -11052,7 +11077,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJqRmnRMTpD0cRiN3im70-pqs",
@@ -11159,9 +11184,21 @@
       "latest_review_ts": 1771563653,
       "id": "atena-hjw-biuro-2",
       "sources": [
+        "gus",
         "maps"
       ],
-      "wspolnoty_count": 0
+      "gus": {
+        "phones": [
+          "713619713"
+        ],
+        "emails": [
+          "BIURO@ATENA-HJW.PL"
+        ],
+        "website": "https://www.atena-hjw.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 11
+      },
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJM-GKIunCD0cR3bnaXiOjnoo",
@@ -11272,50 +11309,6 @@
       "wspolnoty_count": 0
     },
     {
-      "place_id": "ChIJ3ai-p8npD0cRUyDPIVGts1g",
-      "name": "Wspólnota Mieszkaniowa",
-      "address": "Stefana Jaracza 63B, 50-305 Wrocław, Polska",
-      "phone": "71 774 69 18",
-      "website": "",
-      "rating": 5,
-      "reviews_count": 2,
-      "maps_url": "https://maps.google.com/?cid=6391642860140044371",
-      "status": "OPERATIONAL",
-      "hours": [
-        "poniedziałek: 07:30–15:30",
-        "wtorek: 07:30–15:30",
-        "środa: 07:30–15:30",
-        "czwartek: 07:30–15:30",
-        "piątek: 07:30–15:30",
-        "sobota: Zamknięte",
-        "niedziela: Zamknięte"
-      ],
-      "lat": 51.1269013,
-      "lng": 17.0586495,
-      "reviews": [
-        {
-          "author": "Nikodem Golec",
-          "rating": 5,
-          "timestamp": 1645034459,
-          "date": "16.02.2022",
-          "text": "bardzo polecam te osiedle świetna nazwa"
-        },
-        {
-          "author": "Janek Rydel",
-          "rating": 5,
-          "timestamp": 1636742932,
-          "date": "12.11.2021",
-          "text": "Świetne miejsce. Jak u mojej starej"
-        }
-      ],
-      "latest_review_ts": 1645034459,
-      "id": "wspolnota-mieszkaniowa",
-      "sources": [
-        "maps"
-      ],
-      "wspolnoty_count": 0
-    },
-    {
       "place_id": "ChIJGUObPsTpD0cRqRzB8vJ4tc8",
       "name": "Biuro Wspólnoty Mieszkaniowej JNN",
       "address": "Nowowiejska 10, 50-314 Wrocław, Polska",
@@ -11353,7 +11346,7 @@
         }
       ],
       "latest_review_ts": 1546810309,
-      "id": "tel-717830422",
+      "id": "biuro-wspolnoty-mieszkaniowej-jnn",
       "sources": [
         "gus",
         "maps"
@@ -11390,7 +11383,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJjwp37BHDD0cRx1rP9vRCvv4",
@@ -11786,7 +11779,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJUYUREQ3CD0cRyJD2DDzdFb8",
@@ -11807,7 +11800,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJW6TOE9TpD0cR5F_hOkUuMQg",
@@ -12283,21 +12276,11 @@
       "lng": 17.020446,
       "reviews": [],
       "latest_review_ts": 0,
-      "id": "tel-713371284",
+      "id": "wspolnota-mieszkaniowa",
       "sources": [
-        "gus",
         "maps"
       ],
-      "gus": {
-        "phones": [
-          "713371284"
-        ],
-        "emails": [],
-        "website": "",
-        "confidence": "niska",
-        "wspolnoty_count": 1
-      },
-      "wspolnoty_count": 1
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJ9RY8YaXpD0cRGCI9E6brLxI",
@@ -12333,7 +12316,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJa5K7rv_pD0cRQed0Du7kq7k",
@@ -12354,7 +12337,7 @@
       "sources": [
         "maps"
       ],
-      "wspolnoty_count": 0
+      "wspolnoty_count": 11
     },
     {
       "place_id": "ChIJP0boNAjCD0cRy0G1E55b0zI",
@@ -14154,6 +14137,39 @@
       "wspolnoty_count": 0
     },
     {
+      "id": "maslice-cooperative-building-and-housing",
+      "place_id": "",
+      "name": "\"Maślice\" Cooperative Building and Housing",
+      "address": "",
+      "phone": "713541466",
+      "website": "https://maslice.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713541466",
+          "713548440"
+        ],
+        "emails": [
+          "sekretariat@maslice.pl"
+        ],
+        "website": "https://maslice.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 19
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 19
+    },
+    {
       "id": "admika",
       "place_id": "ChIJ16Tdc07CD0cRj6sXR7dwNgY",
       "name": "Admika sp. z o.o.",
@@ -14287,37 +14303,21 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "alcero-ad-nieruchomo-i",
-      "place_id": "ChIJqXq29bHDD0cRocsm-e7oZio",
+      "id": "alcero-ad-nieruchomo-i-pl",
+      "place_id": "",
       "name": "ALCERO ad-nieruchomości.pl",
-      "address": "Seweryna Wysłoucha 7, 52-433 Wrocław, Poland",
-      "phone": "886 857 164",
-      "website": "http://ad-nieruchomosci.pl/",
-      "rating": 5,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=3055385510297389985",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 6:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.0749132,
-      "lng": 16.9749286,
-      "reviews": [
-        {
-          "author": "Kamila Kubot",
-          "rating": 5,
-          "timestamp": 1735690614,
-          "date": "01.01.2025",
-          "text": "I recommend them with a clear conscience, they are fully professional, a reliable company, I am very satisfied with the services and the approach to the customer."
-        }
-      ],
-      "latest_review_ts": 1735690614,
+      "address": "",
+      "phone": "886857164",
+      "website": "https://ad-nieruchomosci.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "886857164"
@@ -14330,8 +14330,7 @@
         "wspolnoty_count": 1
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 1
     },
@@ -14413,57 +14412,21 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "aqua-serwis",
-      "place_id": "ChIJeRWANrLDD0cR6lE38eBMtfc",
+      "id": "aqua-serwis-sa",
+      "place_id": "",
       "name": "Aqua Serwis SA",
-      "address": "Świętego Mikołaja 19, 50-128 Wrocław, Poland",
+      "address": "",
       "phone": "713110336",
-      "website": "http://www.aqua-serwis.eu/",
-      "rating": 2.9,
-      "reviews_count": 26,
-      "maps_url": "https://maps.google.com/?cid=17849257227156148714",
-      "status": "OPERATIONAL",
+      "website": "https://aqua-serwis.eu",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
       "hours": [],
-      "lat": 51.1117461,
-      "lng": 17.0262864,
-      "reviews": [
-        {
-          "author": "Dariusz Burzynskki",
-          "rating": 5,
-          "timestamp": 1759400095,
-          "date": "02.10.2025",
-          "text": "Since the person responsible for contacting community members changed, I've been happy with the communication. Best regards,\nMagdalena Skrok"
-        },
-        {
-          "author": "Justyna Osadnik",
-          "rating": 5,
-          "timestamp": 1751364131,
-          "date": "01.07.2025",
-          "text": "As a member of one of the communities, I'm satisfied with Aqua Serwis as a manager. Reports of faults or technical issues are accepted and usually resolved quite quickly. Email communication works well.\nI appreciate that you can get clear information and that they don't just brush people off, but actually try to get things done. Documents and billing are transparent, and everything is verifiable.\nI have no major complaints; considering the market conditions, they're really solid."
-        },
-        {
-          "author": "Jędrzej Skrabucha",
-          "rating": 1,
-          "timestamp": 1713342871,
-          "date": "17.04.2024",
-          "text": "The company is failing to fulfill its primary responsibility of managing the property:\n\n- No community meetings for two years.\n- Minimal or evasive responses to residents' questions (including about the quality of the building's pipes, the cleanliness and snow removal of sidewalks, driveways, and garage entrances, a leaking shaft in one of the staircases, and a change in the security company).\n- No information whatsoever about ongoing gardening work (including spraying herbicides near the playground, where children were playing moments later).\n- \"Introducing an IT system to manage fees and com"
-        },
-        {
-          "author": "iGOR",
-          "rating": 5,
-          "timestamp": 1749133231,
-          "date": "05.06.2025",
-          "text": "Wsparcie i zaopiekowanie Wspólnotą, przez panią administrator daje poczucie bezpieczeństwa w sytuacjach kryzysowych jak w codziennym funcjonowaniu. Polecenie całkowicie zasłużone, trzymajcie tak dalej Aqua Serwis!"
-        },
-        {
-          "author": "Teresa Mucha",
-          "rating": 5,
-          "timestamp": 1730289236,
-          "date": "30.10.2024",
-          "text": "I'm so surprised by some of the reviews... My experience is quite the opposite... Mr. Mariusz, who had the valves replaced by me, not only replaced all the ones that needed replacing... but also replaced the heavily worn traps and inspected the entire plumbing system... It turned out that quite a lot needed to be done... I'm incredibly impressed with such reliable service... I don't know about others, but Mr. Mariusz represents his company with dignity... Thank you."
-        }
-      ],
-      "latest_review_ts": 1759400095,
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "713110336",
@@ -14477,10 +14440,41 @@
         "wspolnoty_count": 3
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 3
+    },
+    {
+      "id": "architektoniczne-biuro-usug-projektowych",
+      "place_id": "",
+      "name": "Architektoniczne Biuro Usług Projektowych",
+      "address": "",
+      "phone": "713420749",
+      "website": "https://gacek.net.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713420749"
+        ],
+        "emails": [
+          "jgacek@gacek.net.pl"
+        ],
+        "website": "https://gacek.net.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
     },
     {
       "id": "arkadia-licencjonowany-zarzadca-nieruchomo-i",
@@ -14509,95 +14503,20 @@
         ],
         "website": "https://www.lznarkadia.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 20
+        "wspolnoty_count": 22
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 20
+      "wspolnoty_count": 22
     },
     {
-      "id": "awbud-developer",
-      "place_id": "ChIJI3aOVIfCD0cRQBlqTsrGOiM",
-      "name": "Awbud-Developer Sp. o.o.",
-      "address": "Szybka 1F/c, 50-421 Wrocław, Poland",
-      "phone": "71 357 18 18",
-      "website": "http://awbud-developer.pl/",
-      "rating": 3.8,
-      "reviews_count": 5,
-      "maps_url": "https://maps.google.com/?cid=2538559912177965376",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 7:30 AM – 2:30 PM",
-        "Tuesday: 7:30 AM – 2:30 PM",
-        "Wednesday: 7:30 AM – 2:30 PM",
-        "Thursday: 7:30 AM – 2:30 PM",
-        "Friday: 7:30 AM – 2:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1020666,
-      "lng": 17.0548646,
-      "reviews": [
-        {
-          "author": "JAN SAWA",
-          "rating": 5,
-          "timestamp": 1427201925,
-          "date": "24.03.2015",
-          "text": "Professional approach to collaboration. High-standard commercial premises. A developer worth recommending."
-        },
-        {
-          "author": "Aniela (Aniel)",
-          "rating": 3,
-          "timestamp": 1688658111,
-          "date": "06.07.2023",
-          "text": "Far from the cooperative. I recommend the nice lady Beata."
-        },
-        {
-          "author": "Piotr Dietrich",
-          "rating": 5,
-          "timestamp": 1478586911,
-          "date": "08.11.2016",
-          "text": "The most honest developer in Wrocław"
-        },
-        {
-          "author": "Aska J",
-          "rating": 5,
-          "timestamp": 1540117446,
-          "date": "21.10.2018",
-          "text": "Okay"
-        },
-        {
-          "author": "Jakub Wojtyczka",
-          "rating": 1,
-          "timestamp": 1618596041,
-          "date": "16.04.2021",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1688658111,
-      "gus": {
-        "phones": [
-          "713544770"
-        ],
-        "emails": [],
-        "website": "https://awbud-developer.pl/",
-        "confidence": "niska",
-        "wspolnoty_count": 7
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 7
-    },
-    {
-      "id": "b-b-zarzadzanie-projektowanie-utrzymanie-nieruchomo-i",
+      "id": "awbud-developer-sp-o-o",
       "place_id": "",
-      "name": "B&B | Zarządzanie – Projektowanie – Utrzymanie Nieruchomości",
+      "name": "Awbud-Developer Sp. o.o.",
       "address": "",
-      "phone": "510758329",
-      "website": "https://bib.wroclaw.pl",
+      "phone": "713544770",
+      "website": "https://awbud-developer.pl/",
       "rating": 0,
       "reviews_count": 0,
       "maps_url": "",
@@ -14609,23 +14528,55 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
+          "713544770"
+        ],
+        "emails": [],
+        "website": "https://awbud-developer.pl/",
+        "confidence": "niska",
+        "wspolnoty_count": 7
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 7
+    },
+    {
+      "id": "b-b-zarzadzanie-projektowanie-utrzymanie-nieruchomo-i",
+      "place_id": "",
+      "name": "B&B | Zarządzanie – Projektowanie – Utrzymanie Nieruchomości",
+      "address": "",
+      "phone": "713073636",
+      "website": "https://zarzadzaniebp.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713073636",
           "510758329",
           "5100758329",
           "717171253"
         ],
         "emails": [
+          "ksiegowosc@zarzadzaniebp.pl",
           "biuro@bib.wroclaw.pl",
           "BIURO@BIB.WROCŁAW",
           "bib99@vp.pl"
         ],
-        "website": "https://bib.wroclaw.pl",
+        "website": "https://zarzadzaniebp.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 23
+        "wspolnoty_count": 66
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 23
+      "wspolnoty_count": 66
     },
     {
       "id": "bobs-invest",
@@ -14703,81 +14654,6 @@
         "maps"
       ],
       "wspolnoty_count": 1
-    },
-    {
-      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
-      "place_id": "ChIJT1tbUEZNDkcRL0CRPIdQoB4",
-      "name": "Zarosa Barbara. Zarządzanie Nieruchomościami Ubezpieczenia",
-      "address": "Wałbrzyska 25/210, 58-100 Świdnica, Poland",
-      "phone": "531 543 535",
-      "website": "https://share.google/w13OiCapIHfhUTQyF",
-      "rating": 5,
-      "reviews_count": 12,
-      "maps_url": "https://maps.google.com/?cid=2206852359178502191",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 3:00 PM",
-        "Tuesday: 8:00 AM – 3:00 PM",
-        "Wednesday: 8:00 AM – 3:00 PM",
-        "Thursday: 8:00 AM – 3:00 PM",
-        "Friday: 9:00 AM – 2:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 50.8374813,
-      "lng": 16.4790342,
-      "reviews": [
-        {
-          "author": "K U S E K",
-          "rating": 5,
-          "timestamp": 1771701556,
-          "date": "21.02.2026",
-          "text": "I'm very pleased with the collaboration. All matters are handled promptly, and communication with the owners is seamless. They demonstrate a high level of commitment and care for their residents. I highly recommend them."
-        },
-        {
-          "author": "Julka Kłusek",
-          "rating": 5,
-          "timestamp": 1771622807,
-          "date": "20.02.2026",
-          "text": "A very good manager! Mr. Rafał is always reliable. Great service. I recommend this company!!!"
-        },
-        {
-          "author": "Darek Kłusek",
-          "rating": 5,
-          "timestamp": 1771702258,
-          "date": "21.02.2026",
-          "text": "Great collaboration, and above all, excellent communication with Mr. Rafał. I highly recommend him!"
-        },
-        {
-          "author": "Renata",
-          "rating": 5,
-          "timestamp": 1643307902,
-          "date": "27.01.2022",
-          "text": "Very good manager, professional service, great contact. I recommend it!!!!!"
-        },
-        {
-          "author": "Cwieku",
-          "rating": 5,
-          "timestamp": 1613857631,
-          "date": "20.02.2021",
-          "text": "Full professionalism, I am pleasantly surprised"
-        }
-      ],
-      "latest_review_ts": 1771702258,
-      "gus": {
-        "phones": [
-          "601754696"
-        ],
-        "emails": [],
-        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
-        "confidence": "niska",
-        "wspolnoty_count": 2
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 2
     },
     {
       "id": "broker-nieruchomo-i",
@@ -14878,65 +14754,21 @@
       "wspolnoty_count": 5
     },
     {
-      "id": "city-nest-zarzadzanie-nieruchomo-iami-micha-dybski",
-      "place_id": "ChIJY75vXrTDD0cRg7sgRVTrIU4",
+      "id": "city-nest-zarzadzanie-nieruchomo-iami",
+      "place_id": "",
       "name": "CITY NEST ZARZĄDZANIE NIERUCHOMOŚCIAMI",
-      "address": "Turniejowa 22/11, 53-014 Wrocław, Poland",
-      "phone": "71 757 58 56",
-      "website": "http://citynest.pl/",
-      "rating": 3,
-      "reviews_count": 20,
-      "maps_url": "https://maps.google.com/?cid=5630039756359383939",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.06962799999999,
-      "lng": 17.0076031,
-      "reviews": [
-        {
-          "author": "kaj czan",
-          "rating": 1,
-          "timestamp": 1769616117,
-          "date": "28.01.2026",
-          "text": "The worst and least competent property manager in Wrocław. He represents only the interests of the developer and his friends and the companies that provide services in the estate."
-        },
-        {
-          "author": "Andrzej Młodowicz",
-          "rating": 5,
-          "timestamp": 1757656437,
-          "date": "12.09.2025",
-          "text": "The administrator is involved in community affairs and is capable of solving complex problems. After taking over the community, he accomplished more in two years than the previous administrator had in eight."
-        },
-        {
-          "author": "Szymon Stachurski",
-          "rating": 1,
-          "timestamp": 1770453911,
-          "date": "07.02.2026",
-          "text": "One of the worst managers... A misunderstanding! He's worthless... It's not even worth talking about."
-        },
-        {
-          "author": "Igor Dąbrowski",
-          "rating": 5,
-          "timestamp": 1748956171,
-          "date": "03.06.2025",
-          "text": "I moved into a new apartment managed by CITYNEST and I'm very happy, especially compared to the manager in another development. They were quick and helpful!"
-        },
-        {
-          "author": "Kaloian Hristov",
-          "rating": 5,
-          "timestamp": 1675322871,
-          "date": "02.02.2023",
-          "text": "Ogolnie bardzo dobra wspolpraca z firma, szczegolnie z Panem Januszem ktory zawsze byl dostepny i mial praktycznie odp na wszelkie moje pytania. Niestety duzo osob sie skarze o ich uslug chociaz wydaje mi sie ze jest to spowodowane tym ze duzo osob nie zdaje sobie sprawe ze niektorych rzeczy sie nie da zalatwic od zaraz i ze pomiedzy wlascicielami i rarzadza nieruchomosci jest deweloper jak i firma budowlana ktora jest odpowiedzialna za naprawe wszelkich usterek w okresie gwarancyjnym. To ze firmy budowlanej zajmuje dluzej naprawic usterek nie jest wina rarzadca budynku… Citynest moze jakis ro"
-        }
-      ],
-      "latest_review_ts": 1770453911,
+      "address": "",
+      "phone": "717575856",
+      "website": "http://www.citynest.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "717575856",
@@ -14951,13 +14783,12 @@
         ],
         "website": "http://www.citynest.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 13
+        "wspolnoty_count": 14
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
-      "wspolnoty_count": 13
+      "wspolnoty_count": 14
     },
     {
       "id": "dczn-dolnoslaskie-centrum-zarzadzania-nieruchomo-iami",
@@ -15026,6 +14857,40 @@
       "sources": [
         "gus",
         "maps"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "deweloper-inter-es",
+      "place_id": "",
+      "name": "Deweloper INTER-ES",
+      "address": "",
+      "phone": "668431929",
+      "website": "https://deweloper-is.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "668431929",
+          "713231545"
+        ],
+        "emails": [
+          "ID@DEWELOPER-IS.PL",
+          "of@deweloper-is.pl"
+        ],
+        "website": "https://deweloper-is.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
       ],
       "wspolnoty_count": 3
     },
@@ -15101,13 +14966,13 @@
         ],
         "website": "https://domicilium.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 40
+        "wspolnoty_count": 41
       },
       "sources": [
         "gus",
         "maps"
       ],
-      "wspolnoty_count": 40
+      "wspolnoty_count": 41
     },
     {
       "id": "drapaa-zarzadzanie-nieruchomo-iami",
@@ -15189,12 +15054,12 @@
       "wspolnoty_count": 39
     },
     {
-      "id": "y-a-r-d",
+      "id": "eska-biuro-zarzadzania-nieruchomo-iami-krzysztof-sosna",
       "place_id": "",
-      "name": "Y.A.R.D sp. z o.o.",
+      "name": "eSKa Biuro Zarządzania Nieruchomościami Krzysztof Sosna",
       "address": "",
-      "phone": "713482473",
-      "website": "https://geoportal.wroclaw.pl/poi/poi/372",
+      "phone": "501276180",
+      "website": "",
       "rating": 0,
       "reviews_count": 0,
       "maps_url": "",
@@ -15206,17 +15071,19 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "713556109"
+          "501276180"
         ],
-        "emails": [],
-        "website": "https://geoportal.wroclaw.pl/poi/poi/411",
+        "emails": [
+          "eska-zarzadzanie@wp.pl"
+        ],
+        "website": "",
         "confidence": "niska",
-        "wspolnoty_count": 9
+        "wspolnoty_count": 4
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 9
+      "wspolnoty_count": 4
     },
     {
       "id": "ewa-hoffmann-zarzadca-nieruchomo-i",
@@ -15243,44 +15110,29 @@
         ],
         "website": "https://ewahoffmann.pl",
         "confidence": "niska",
-        "wspolnoty_count": 1
+        "wspolnoty_count": 3
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 1
+      "wspolnoty_count": 3
     },
     {
-      "id": "feroma",
-      "place_id": "ChIJI8mA4uHpD0cRIzGbwgy43LE",
+      "id": "feroma-consulting",
+      "place_id": "",
       "name": "Feroma-Consulting Sp. z o.o.",
-      "address": "Szewska 3, 50-438 Wrocław, Poland",
-      "phone": "71 321 04 28",
-      "website": "http://www.feroma.pl/",
-      "rating": 1,
-      "reviews_count": 2,
-      "maps_url": "https://maps.google.com/?cid=12816321004533657891",
-      "status": "OPERATIONAL",
+      "address": "",
+      "phone": "713210428",
+      "website": "https://feroma.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
       "hours": [],
-      "lat": 51.1075471,
-      "lng": 17.0337707,
-      "reviews": [
-        {
-          "author": "Anna Lemko",
-          "rating": 1,
-          "timestamp": 1580991640,
-          "date": "06.02.2020",
-          "text": ""
-        },
-        {
-          "author": "Mateusz",
-          "rating": 1,
-          "timestamp": 1580833317,
-          "date": "04.02.2020",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1580991640,
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "713210428"
@@ -15293,57 +15145,26 @@
         "wspolnoty_count": 1
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 1
     },
     {
-      "id": "foster-property",
-      "place_id": "ChIJn8VHxi_DD0cRdLphnBtMDV4",
+      "id": "foster-property-zarzadzanie-nieruchomo-iami",
+      "place_id": "",
       "name": "Foster Property - Zarządzanie Nieruchomościami",
-      "address": "al. Armii Krajowej 61, 50-541 Wrocław, Poland",
-      "phone": "570 003 263",
-      "website": "https://foster24.pl/",
-      "rating": 5,
-      "reviews_count": 3,
-      "maps_url": "https://maps.google.com/?cid=6777156695733942900",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: Closed",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.0847871,
-      "lng": 17.0660415,
-      "reviews": [
-        {
-          "author": "Dawid Rzepka",
-          "rating": 5,
-          "timestamp": 1710402703,
-          "date": "14.03.2024",
-          "text": "We were very apprehensive about changing management, but after a few months, I can confidently say that we've seen improvements. Communication is excellent, even though the previous management sometimes didn't respond to emails for weeks. Despite my initial concerns, I can now confidently recommend them!"
-        },
-        {
-          "author": "Marcel Kierzek",
-          "rating": 5,
-          "timestamp": 1691672034,
-          "date": "10.08.2023",
-          "text": "Good contact, I recommend working with this company."
-        },
-        {
-          "author": "Mateusz Jachymski",
-          "rating": 5,
-          "timestamp": 1690539517,
-          "date": "28.07.2023",
-          "text": "I recommend this manager!"
-        }
-      ],
-      "latest_review_ts": 1710402703,
+      "address": "",
+      "phone": "570003263",
+      "website": "https://foster24.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "570003263"
@@ -15356,120 +15177,26 @@
         "wspolnoty_count": 7
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 7
     },
     {
-      "id": "gacek-hoffman",
-      "place_id": "ChIJ0T2PSnTCD0cRHqgarwj_yOc",
-      "name": "Architektoniczne Biuro Usług Projektowych",
-      "address": "Rynek 26, 10, 50-101 Wrocław, Poland",
-      "phone": "71 342 07 49",
-      "website": "http://gacek.net.pl/",
-      "rating": 5,
-      "reviews_count": 1,
-      "maps_url": "https://maps.google.com/?cid=16701879630866065438",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1090923,
-      "lng": 17.0323674,
-      "reviews": [
-        {
-          "author": "Urszula Kielar (Kielar Urszula)",
-          "rating": 5,
-          "timestamp": 1580992624,
-          "date": "06.02.2020",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1580992624,
-      "gus": {
-        "phones": [
-          "713420749"
-        ],
-        "emails": [
-          "jgacek@gacek.net.pl"
-        ],
-        "website": "https://gacek.net.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 1
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 1
-    },
-    {
-      "id": "gestor",
-      "place_id": "ChIJOaLu5UDCD0cRBOxA0fjvU3Y",
+      "id": "gestor-zarzadca-nieruchomo-i-wrocaw",
+      "place_id": "",
       "name": "Gestor Zarządca Nieruchomości - Wrocław",
-      "address": "Żmigrodzka 244, 51-131 Wrocław, Poland",
-      "phone": "71 790 33 97",
-      "website": "http://gestor.com.pl/",
-      "rating": 3.4,
-      "reviews_count": 24,
-      "maps_url": "https://maps.google.com/?cid=8526422371484101636",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.161577,
-      "lng": 17.0245465,
-      "reviews": [
-        {
-          "author": "Rafal Fundowicz",
-          "rating": 1,
-          "timestamp": 1770301544,
-          "date": "05.02.2026",
-          "text": "I don't recommend providing services because they constantly delay transfers. They claim to have external accounting, but that's not the case with us. I don't know if it's because they don't receive a few percent of the invoice for the service provided. This company's policy is to charge a few percent of the invoiced amount."
-        },
-        {
-          "author": "Leszek",
-          "rating": 1,
-          "timestamp": 1717676259,
-          "date": "06.06.2024",
-          "text": "As someone else has already written, steer clear of this company. I've been waiting for almost six months for the construction irregularities in my apartment on Pretficza Street to be corrected—to no avail. The sheer ignorance and arrogance of the managers of this branch meant I had to report the irregularities to the Building Inspectorate (DINB). I attribute the lack of action by Gestor Sp. z o.o. to their incompetence and lack of professionalism, or perhaps mismanagement, which results in a lack of funds for renovations. But when the renovation fund for a 151-unit community is allocated almo"
-        },
-        {
-          "author": "Mieszkanie 567",
-          "rating": 5,
-          "timestamp": 1699304055,
-          "date": "06.11.2023",
-          "text": "I highly recommend Gestor, and especially Director Wioleta Maciąg-Czarzasta. I've lived in the Pretficza Street development for over 10 years. Wioleta immediately and passionately resolves problems in our development. She's available 24/7 and always responds quickly to every request. She utilizes every possible solution to help residents. She treats each person individually and personally oversees everything. She offers assistance, expert advice, and approaches every problem with great empathy. She is very reliable, professional, and competent, with extensive knowledge and experience in proper"
-        },
-        {
-          "author": "Marta Marek",
-          "rating": 5,
-          "timestamp": 1713806094,
-          "date": "22.04.2024",
-          "text": "Gestor Wrocław Property Management is a reliable and highly efficient company, staffed by competent, professional, and friendly people. The administrator's support and care for the community provide a sense of security in crisis situations and in everyday life. The recommendation is thoroughly deserved; keep up the good work, Gestor."
-        },
-        {
-          "author": "Kuba Kmiecik",
-          "rating": 5,
-          "timestamp": 1748255955,
-          "date": "26.05.2025",
-          "text": "I don't know why people give low reviews, everything works as it should, it's not expensive, I advise you to come here to improve the company's reviews"
-        }
-      ],
-      "latest_review_ts": 1770301544,
+      "address": "",
+      "phone": "717903398",
+      "website": "https://gestor.com.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "717903398",
@@ -15483,8 +15210,7 @@
         "wspolnoty_count": 22
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 22
     },
@@ -15568,85 +15294,6 @@
       "wspolnoty_count": 4
     },
     {
-      "id": "inter-es-deweloper",
-      "place_id": "ChIJiQGAyLbpD0cRCQbur08c_98",
-      "name": "Deweloper INTER-ES",
-      "address": "Jedności Narodowej 194, 50-302 Wrocław, Poland",
-      "phone": "71 323 15 30",
-      "website": "http://www.deweloper-is.pl/",
-      "rating": 2.4,
-      "reviews_count": 77,
-      "maps_url": "https://maps.google.com/?cid=16140650718098753033",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 5:00 PM",
-        "Tuesday: 8:00 AM – 5:00 PM",
-        "Wednesday: 8:00 AM – 5:00 PM",
-        "Thursday: 8:00 AM – 5:00 PM",
-        "Friday: 8:00 AM – 5:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1278282,
-      "lng": 17.0515688,
-      "reviews": [
-        {
-          "author": "G B",
-          "rating": 1,
-          "timestamp": 1604615637,
-          "date": "05.11.2020",
-          "text": "They burn waste to heat up the building. Actively poisoning their neighborhood."
-        },
-        {
-          "author": "Abi M",
-          "rating": 1,
-          "timestamp": 1704434851,
-          "date": "05.01.2024",
-          "text": "Neither environment friendly nor people friendly developer. Not recommended"
-        },
-        {
-          "author": "Marta Grzegorska",
-          "rating": 1,
-          "timestamp": 1772871879,
-          "date": "07.03.2026",
-          "text": "Unfortunately, my experience with this developer was negative. I had to travel over 100 km to Wrocław during the week to view the apartment and take a day off work because the seller refused to meet on the weekend.\nAfter the meeting, we exchanged emails about the purchase and the terms of the transaction, including price negotiations. However, it turned out that the developer categorically refused any negotiations – even nominal ones. While we were finalizing the details, contact suddenly stopped. A week later, I learned that the apartment had been sold to someone else, even though I had clear"
-        },
-        {
-          "author": "Robert Jasiński",
-          "rating": 1,
-          "timestamp": 1758886427,
-          "date": "26.09.2025",
-          "text": "The negative comments seen here truly reflect the company's true condition and level of service, as well as its genuine approach to both customers and employees. I could write a comprehensive review, but the best solution would be to summarize everything in one word: \"avoid.\""
-        },
-        {
-          "author": "W K",
-          "rating": 5,
-          "timestamp": 1771429172,
-          "date": "18.02.2026",
-          "text": "Professional services for employees at profrska. Specific and objective in every matter, whether rental or sales."
-        }
-      ],
-      "latest_review_ts": 1772871879,
-      "gus": {
-        "phones": [
-          "668431929",
-          "713231545"
-        ],
-        "emails": [
-          "ID@DEWELOPER-IS.PL",
-          "of@deweloper-is.pl"
-        ],
-        "website": "https://deweloper-is.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 3
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 3
-    },
-    {
       "id": "kancelaria-patronus",
       "place_id": "",
       "name": "Kancelaria Patronus (firma prawna – nie zarządca nieruchomości)",
@@ -15710,6 +15357,50 @@
         "gus"
       ],
       "wspolnoty_count": 8
+    },
+    {
+      "id": "kompleksowa-obsuga-nieruchomo-i-partner-bartosz-zakrzewski",
+      "place_id": "ChIJ__-vaN3pD0cRsZ2NoxvBTRI",
+      "name": "Kompleksowa Obsługa Nieruchomości \"Partner\" Bartosz Zakrzewski",
+      "address": "Bolesława Chrobrego 2, 50-254 Wrocław, Poland",
+      "phone": "71 394 17 71",
+      "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "https://maps.google.com/?cid=1318922590341668273",
+      "status": "OPERATIONAL",
+      "hours": [
+        "Monday: 8:00 AM – 3:30 PM",
+        "Tuesday: 8:00 AM – 3:30 PM",
+        "Wednesday: 8:00 AM – 3:30 PM",
+        "Thursday: 8:00 AM – 3:30 PM",
+        "Friday: 8:00 AM – 3:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "lat": 51.1206531,
+      "lng": 17.0348668,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713944525",
+          "713379460",
+          "605830309"
+        ],
+        "emails": [
+          "kon-partner@wp.pl",
+          "PARTNER00000@WP.PL"
+        ],
+        "website": "https://maps.app.goo.gl/4vgFw59QRpikPDBAA",
+        "confidence": "niska",
+        "wspolnoty_count": 5
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 5
     },
     {
       "id": "kompleksowa-obsuga-osiedla",
@@ -15783,13 +15474,13 @@
         ],
         "website": "http://koo.com.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 1083
+        "wspolnoty_count": 1085
       },
       "sources": [
         "gus",
         "maps"
       ],
-      "wspolnoty_count": 1083
+      "wspolnoty_count": 1085
     },
     {
       "id": "kvw-e-nieruchomo-i",
@@ -15911,13 +15602,13 @@
         ],
         "website": "https://m2projekt.com",
         "confidence": "niska",
-        "wspolnoty_count": 2
+        "wspolnoty_count": 3
       },
       "sources": [
         "gus",
         "maps"
       ],
-      "wspolnoty_count": 2
+      "wspolnoty_count": 3
     },
     {
       "id": "marta-kozowska-zarzadzanie-nieruchomo-ia",
@@ -16061,27 +15752,19 @@
       "wspolnoty_count": 12
     },
     {
-      "id": "mr-zarzadca",
-      "place_id": "ChIJJ2JB95SVD0cRSLe3swyJKhc",
+      "id": "mr-zarzadzanie-nieruchomo-iami-magdalena-gargol",
+      "place_id": "",
       "name": "MR Zarządzanie nieruchomościami Magdalena Gargol",
-      "address": "Lubomierska 2/17, 54-062 Wrocław, Poland",
-      "phone": "667 971 337",
+      "address": "",
+      "phone": "667971337",
       "website": "https://mrzarzadca.pl",
       "rating": 0,
       "reviews_count": 0,
-      "maps_url": "https://maps.google.com/?cid=1669297299541964616",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1679004,
-      "lng": 16.8970217,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
       "reviews": [],
       "latest_review_ts": 0,
       "gus": {
@@ -16095,74 +15778,61 @@
         ],
         "website": "https://mrzarzadca.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 2
+        "wspolnoty_count": 10
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
-      "wspolnoty_count": 2
+      "wspolnoty_count": 10
     },
     {
-      "id": "nawigator-nieruchomo-i",
-      "place_id": "ChIJX2S75t7DD0cRwLI8Ng2AxUk",
+      "id": "ms-pro-investments",
+      "place_id": "",
+      "name": "MS Pro Investments",
+      "address": "",
+      "phone": "729963656",
+      "website": "https://u-residence.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "729963656"
+        ],
+        "emails": [
+          "INFO@U-RESIDENCE.PL"
+        ],
+        "website": "https://u-residence.pl",
+        "confidence": "niska",
+        "wspolnoty_count": 1
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 1
+    },
+    {
+      "id": "nawigator-nieruchomo-i-wrocaw",
+      "place_id": "",
       "name": "Nawigator Nieruchomości Wrocław",
-      "address": "Hubska 52, 50-502 Wrocław, Poland",
-      "phone": "71 780 61 04",
-      "website": "https://www.nawigator-nieruchomosci.pl/",
-      "rating": 3.1,
-      "reviews_count": 45,
-      "maps_url": "https://maps.google.com/?cid=5315795729413616320",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 9:00 AM – 5:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.0911838,
-      "lng": 17.044263,
-      "reviews": [
-        {
-          "author": "Przemysław Zalewski",
-          "rating": 1,
-          "timestamp": 1772181450,
-          "date": "27.02.2026",
-          "text": "A nightmare. A company that no one in their right mind would choose to service. They acquire clients through contacts, for example, with developer Dach-Bud, who hands them fully constructed housing estates to manage. Then, out of convenience, laziness, and lack of knowledge, people persist with this poor service, unable to get anything done or even contact them. Dach-Bud also shows where its customers are... seeing reviews and hearing from its own customers about how it works... they continue to push their clients into their clutches."
-        },
-        {
-          "author": "bartosz_w_trasie",
-          "rating": 1,
-          "timestamp": 1767799970,
-          "date": "07.01.2026",
-          "text": "The breakdown management is unprofessional - a maintenance technician arrives after several phone calls informing them of the breakdown. The first calls are dismissed because they tell you it's a problem with the apartment, not the building (over the phone without checking the cause). Only after a few phone calls will they kindly arrive, without equipment, wondering what to do because the breakdown is in the common areas... It's a shame to write this, but if this is how the security and service for residents are handled, it's probably not good."
-        },
-        {
-          "author": "Wit Mak",
-          "rating": 1,
-          "timestamp": 1772636926,
-          "date": "04.03.2026",
-          "text": "The navigator is a disaster... You report the problem to them several times, no response, and in the end, all they do is write, \"Please describe the situation in more detail by email.\"\nLaughter in the audience, not the Manager."
-        },
-        {
-          "author": "Bartlomiej Jankowski",
-          "rating": 1,
-          "timestamp": 1772367002,
-          "date": "01.03.2026",
-          "text": "You can't cross with a child, you have to walk on the street because someone at your company doesn't know how to park. I don't recommend it."
-        },
-        {
-          "author": "Emil Pietrzak",
-          "rating": 1,
-          "timestamp": 1754975304,
-          "date": "12.08.2025",
-          "text": "Repairs are handled poorly, reports of faults are delayed for months, and when I ask for a breakdown of the cost of repairs, which are often poorly done, emails go unanswered. The manager has 30 days to respond, and I still have emails with requests I sent over six months ago."
-        }
-      ],
-      "latest_review_ts": 1772636926,
+      "address": "",
+      "phone": "717806104",
+      "website": "https://nawigator-nieruchomosci.pl/wroclaw/",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "717806104",
@@ -16178,8 +15848,7 @@
         "wspolnoty_count": 23
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 23
     },
@@ -16249,12 +15918,12 @@
         ],
         "website": "https://neodomi.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 5
+        "wspolnoty_count": 6
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 5
+      "wspolnoty_count": 6
     },
     {
       "id": "osiedle-so",
@@ -16358,6 +16027,42 @@
       "wspolnoty_count": 2
     },
     {
+      "id": "p-b-budotex",
+      "place_id": "",
+      "name": "P. B. Budotex Sp. z o.o.",
+      "address": "",
+      "phone": "717866530",
+      "website": "https://budotex.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "717866530",
+          "717866533",
+          "717860530",
+          "7178666530"
+        ],
+        "emails": [
+          "ADMINISTRACJA@BUDOTEX.PL",
+          "ADMINISTRATOR@BUDOTEX.PL"
+        ],
+        "website": "https://budotex.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 28
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 28
+    },
+    {
       "id": "pbo-dach-bud",
       "place_id": "ChIJ53S0rm7CD0cRPMt6_xhDyKg",
       "name": "PBO DACH BUD Sp. z o.o.",
@@ -16435,57 +16140,21 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "pentagon-nieruchomo-i",
-      "place_id": "ChIJDQ_eGvjDD0cRieU3HcTKQ2I",
+      "id": "pentagon-walus-p",
+      "place_id": "",
       "name": "Pentagon. Walus P.",
-      "address": "Brzoskwiniowa 8, 50-080 Smolec, Poland",
-      "phone": "512 244 909",
+      "address": "",
+      "phone": "512244909",
       "website": "https://pentagon.nieruchomosci.pl/",
-      "rating": 2.3,
-      "reviews_count": 14,
-      "maps_url": "https://maps.google.com/?cid=7080725982809154953",
-      "status": "OPERATIONAL",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
       "hours": [],
-      "lat": 51.087639,
-      "lng": 16.9063474,
-      "reviews": [
-        {
-          "author": "Lu L",
-          "rating": 1,
-          "timestamp": 1760547543,
-          "date": "15.10.2025",
-          "text": "I don't recommend it.\nA one-man company that has taken over the housing cooperatives and is unable to manage them.\nHe dismisses every resident, is rude, and indolent.\nFurthermore, the billing process is terrible. It's impossible to know what the actual balance of the apartment/housing cooperative is.\nIn short, he's a con man and should be avoided."
-        },
-        {
-          "author": "Maciej Modzelewski",
-          "rating": 5,
-          "timestamp": 1755640636,
-          "date": "19.08.2025",
-          "text": "I recommend it. Transparent and precise billing and a quick response to reported problems within the community. Efficiently coordinated stairwell painting process."
-        },
-        {
-          "author": "Patrycja",
-          "rating": 1,
-          "timestamp": 1766313561,
-          "date": "21.12.2025",
-          "text": "The manager is terrible and expensive. The gate lock has been under repair for two months. He lacks control over the service providers, i.e., the cleaning crew and the lock repair crew. The manager initially has excellent public relations, but this doesn't translate into subsequent service delivery. I don't recommend it! Review update: I still don't recommend it... all issues are dismissed, and there's no response to reported problems. When the manager goes on vacation, no one covers for him, so you can only pray that nothing happens in the building. For example, the elevator in our building b"
-        },
-        {
-          "author": "Ratel Eximus",
-          "rating": 1,
-          "timestamp": 1727899635,
-          "date": "02.10.2024",
-          "text": "A man who has no clue how to manage anything. There's no point in reporting any problems to this man, because he's not willing to help; he only knows how to sit at a desk and count money. To say he lacks professionalism is like praising him."
-        },
-        {
-          "author": "Szymon Byś",
-          "rating": 1,
-          "timestamp": 1745840715,
-          "date": "28.04.2025",
-          "text": "Stay away from this man and his pseudo-company. He has no knowledge of property management or the law. He creates problems where none exist."
-        }
-      ],
-      "latest_review_ts": 1766313561,
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "512244909"
@@ -16498,8 +16167,7 @@
         "wspolnoty_count": 2
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 2
     },
@@ -16690,87 +16358,6 @@
       "wspolnoty_count": 1
     },
     {
-      "id": "przedsiebiorstwo-budowlane-budotex",
-      "place_id": "ChIJ2TzeltvDD0cRYM5ajzntusU",
-      "name": "P. B. Budotex Sp. z o.o.",
-      "address": "Wyścigowa 56G/3a, 53-012 Wrocław, Poland",
-      "phone": "71 786 65 30",
-      "website": "http://www.budotex.pl/",
-      "rating": 3.5,
-      "reviews_count": 39,
-      "maps_url": "https://maps.google.com/?cid=14247961202613997152",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 8:00 AM – 4:00 PM",
-        "Tuesday: 8:00 AM – 4:00 PM",
-        "Wednesday: 8:00 AM – 4:00 PM",
-        "Thursday: 8:00 AM – 4:00 PM",
-        "Friday: 8:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.0641882,
-      "lng": 17.0043556,
-      "reviews": [
-        {
-          "author": "Bartosz Pabi",
-          "rating": 4,
-          "timestamp": 1544552490,
-          "date": "11.12.2018",
-          "text": "Good estate developer"
-        },
-        {
-          "author": "Franek Ropa",
-          "rating": 1,
-          "timestamp": 1749196727,
-          "date": "06.06.2025",
-          "text": "Lack of transparency, avoidance of responses, and ignoring community resolutions\n\nI regretfully have to provide a negative review. As a property owner in a community managed by Budotex, I have experienced months of delays, withholding information, and failure to implement resolutions passed by residents. The company has repeatedly ignored letters regarding another community's debt to us, refuses to provide documents despite a statutory obligation, and delays key actions, such as terminating the lease in accordance with the wishes of the majority of owners.\n\nThe community management department "
-        },
-        {
-          "author": "Marek Ostatek",
-          "rating": 5,
-          "timestamp": 1755601994,
-          "date": "19.08.2025",
-          "text": "I'd like to sincerely thank the technical department for efficiently and seamlessly removing the leak from the gutter into my apartment. As a long-time resident of Klecina, I know I can always count on the Budotex staff. Thank you again."
-        },
-        {
-          "author": "Maria Leks",
-          "rating": 1,
-          "timestamp": 1734632513,
-          "date": "19.12.2024",
-          "text": "It's hard to find a worse property manager. They don't respond to emails, answer phone calls, or take any action when a problem arises. Even the smallest task (like mowing the grass outside the building or sweeping the stairwell) is incredibly difficult for Budotex to accomplish, and only after months of negotiations. A terrible company. I suspect it only gets worse as a developer."
-        },
-        {
-          "author": "SopeLek",
-          "rating": 1,
-          "timestamp": 1753527725,
-          "date": "26.07.2025",
-          "text": "No response to emails.\n\nSmoke detectors\nIn apartments that detect a kettle and wake you up at 3 a.m., cheers."
-        }
-      ],
-      "latest_review_ts": 1755601994,
-      "gus": {
-        "phones": [
-          "717866530",
-          "717866533",
-          "717860530",
-          "7178666530"
-        ],
-        "emails": [
-          "ADMINISTRACJA@BUDOTEX.PL",
-          "ADMINISTRATOR@BUDOTEX.PL"
-        ],
-        "website": "https://budotex.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 28
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 28
-    },
-    {
       "id": "r-group-company",
       "place_id": null,
       "name": "R-Group Company sp. z o.o.",
@@ -16803,65 +16390,21 @@
       "wspolnoty_count": 2
     },
     {
-      "id": "rachmix-zarzadzanie",
-      "place_id": "ChIJF6QigVyWcUERS5Q7pf_TCHk",
+      "id": "rachmix-biuro-rachunkowe",
+      "place_id": "",
       "name": "Rachmix. Biuro rachunkowe",
-      "address": "Jerzego Bajana 24B, 54-129 Wrocław, Poland",
-      "phone": "71 794 05 95",
-      "website": "http://www.rachmix.com.pl/",
-      "rating": 4.9,
-      "reviews_count": 13,
-      "maps_url": "https://maps.google.com/?cid=8721453773345231947",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 7:00 AM – 4:00 PM",
-        "Tuesday: 7:00 AM – 4:00 PM",
-        "Wednesday: 7:00 AM – 4:00 PM",
-        "Thursday: 7:00 AM – 4:00 PM",
-        "Friday: 7:00 AM – 4:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.12749849999999,
-      "lng": 16.9645154,
-      "reviews": [
-        {
-          "author": "Gigi Becali",
-          "rating": 5,
-          "timestamp": 1733832976,
-          "date": "10.12.2024",
-          "text": "A great accounting firm. Monika helped me with issues that other firms couldn't handle. Monika has extensive knowledge, which she constantly updates. I recommend her to everyone."
-        },
-        {
-          "author": "Przemek K",
-          "rating": 5,
-          "timestamp": 1535269020,
-          "date": "26.08.2018",
-          "text": "I wholeheartedly recommend this accounting firm. I've been using their services for over five years. They provide professional, high-quality accounting services, not only for basic accounting but also, importantly, for commercial law companies, including joint-stock companies, which are important to me. The staff is very friendly and helpful, but above all, they constantly update their knowledge and skills. I'm very satisfied. Finally, the office also manages payroll and HR, so they provide comprehensive services tailored to each company's needs. Best regards."
-        },
-        {
-          "author": "Małgorzata Tyczyno",
-          "rating": 5,
-          "timestamp": 1552828442,
-          "date": "17.03.2019",
-          "text": "Professional tax office"
-        },
-        {
-          "author": "jas malgosia",
-          "rating": 5,
-          "timestamp": 1556966285,
-          "date": "04.05.2019",
-          "text": "I recommend"
-        },
-        {
-          "author": "Roman музыка Roman",
-          "rating": 4,
-          "timestamp": 1777368395,
-          "date": "28.04.2026",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1777368395,
+      "address": "",
+      "phone": "603605610",
+      "website": "http://rachmix-z.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "603605610"
@@ -16875,71 +16418,26 @@
         "wspolnoty_count": 3
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 3
     },
     {
-      "id": "rem-group-zarzadzanie-nieruchomo-iami",
-      "place_id": "ChIJwa8GrznCD0cRvCikgRmzVxQ",
+      "id": "remgroup",
+      "place_id": "",
       "name": "REMGroup Sp. z o.o.",
-      "address": "32, Jastrzębia 21, 53-148 Wrocław, Poland",
-      "phone": "71 311 12 02",
-      "website": "http://www.remgroup.pl/",
-      "rating": 3.6,
-      "reviews_count": 83,
-      "maps_url": "https://maps.google.com/?cid=1465837125862959292",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 7:30 AM – 3:30 PM",
-        "Tuesday: 11:00 AM – 7:00 PM",
-        "Wednesday: 7:30 AM – 3:30 PM",
-        "Thursday: Closed",
-        "Friday: 7:30 AM – 3:30 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.085593,
-      "lng": 17.0071605,
-      "reviews": [
-        {
-          "author": "Jack Bo",
-          "rating": 1,
-          "timestamp": 1768576187,
-          "date": "16.01.2026",
-          "text": "They do not know or simply do not comply with the Act on Ownership of Premises Art. 12. 1. The owner of the premises has the right to co-use the common property in accordance with its intended purpose."
-        },
-        {
-          "author": "Barbara Kuroń-Misztal",
-          "rating": 5,
-          "timestamp": 1717859445,
-          "date": "08.06.2024",
-          "text": "REMGroup is the property manager of my building, and I'm very pleased with their work. Since REMGroup took over, I've noticed significant improvements in many areas. Communication is always smooth and seamless, which is extremely important. Whenever I had questions or concerns, they were answered quickly and competently. I especially appreciate their approach to environmental issues during the renovation of my building. REMGroup didn't ignore this aspect, as is often the case in Poland, where indifference is commonplace. Instead, the property manager carefully analyzed the impact of the renova"
-        },
-        {
-          "author": "Sylwia Maliszewska",
-          "rating": 1,
-          "timestamp": 1707485877,
-          "date": "09.02.2024",
-          "text": "At first, the collaboration was good, but after a few years, communication became very poor. They don't respond to emails. They drag on everything. Water pours from the gutters during rain. After reporting the problem, I was told that an inspection had been performed... I don't know how. The holes in the gutter are visible from the sidewalk. After a good few months, we managed to get a resolution passed... We'll be renovating the electrical system in the staircase. I sent them a new bid and the contractor's estimate. The resolution included the old amount. Of course, I emailed them about it, b"
-        },
-        {
-          "author": "Peter",
-          "rating": 1,
-          "timestamp": 1710166609,
-          "date": "11.03.2024",
-          "text": "Unfortunately, the management is very poor. Kłodzka Street 5, 3, and 1 are a disaster. There's a very dangerous playground, people park their cars where they shouldn't, and every day, some guy drives right up to the staircase at 5 a.m. and doesn't turn off his engine, waking up half the building. Apparently, during the meeting, the management promised to close the entrance to the staircase, but that was all they kept. Furthermore, the cleaning company was also a mistake."
-        },
-        {
-          "author": "Sector473",
-          "rating": 1,
-          "timestamp": 1715779855,
-          "date": "15.05.2024",
-          "text": "My question is simple: who got screwed for changing the cleaning company at Kłodzka Street, 5, 3, or 1???\n\nThe current company is a joke (on a scale of 1-10, only a 1; the previous one was a solid 7). They don't even have cleaning supplies, they don't clean at all. It's filthy, stinky, and miserable. The woman who shows up once a week cleans three cages with a dirty mop.\n\nSome guy mows the grass with a lawnmower on SUNDAY!!!! Is this some kind of joke or a hidden camera?\n\nWe demand not only that the previous cleaning company be reinstated, but also that I spend a few months collecting signatur"
-        }
-      ],
-      "latest_review_ts": 1768576187,
+      "address": "",
+      "phone": "713111202",
+      "website": "http://www.remgroup.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "713111202"
@@ -16952,8 +16450,7 @@
         "wspolnoty_count": 3
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 3
     },
@@ -16988,84 +16485,6 @@
         "gus"
       ],
       "wspolnoty_count": 1
-    },
-    {
-      "id": "spodzielnia-budowlano-mieszkaniowa-maslice",
-      "place_id": "ChIJ34WXR4vqD0cR9NmDNB-2Jak",
-      "name": "\"Maślice\" Cooperative Building and Housing",
-      "address": "Pilczycka 196D, 54-144 Wrocław, Poland",
-      "phone": "71 354 14 66",
-      "website": "http://maslice.pl/",
-      "rating": 3.5,
-      "reviews_count": 36,
-      "maps_url": "https://maps.google.com/?cid=12188348211689413108",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 7:00 AM – 3:00 PM",
-        "Tuesday: 7:00 AM – 3:00 PM",
-        "Wednesday: 7:00 AM – 3:00 PM",
-        "Thursday: 7:00 AM – 3:00 PM",
-        "Friday: 7:00 AM – 3:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.1451637,
-      "lng": 16.9481643,
-      "reviews": [
-        {
-          "author": "Róża Maciejska",
-          "rating": 1,
-          "timestamp": 1751455882,
-          "date": "02.07.2025",
-          "text": "My interaction with President Tomasz was exceptionally unpleasant and left a very negative impression. I encountered a dismissive attitude and a lack of respect, which I consider absolutely unacceptable in this position. In my opinion, this person lacks the appropriate level of personal culture or competence required to run a cooperative. This experience undermined my trust in the entire institution."
-        },
-        {
-          "author": "Aneta Klicińska",
-          "rating": 1,
-          "timestamp": 1580371675,
-          "date": "30.01.2020",
-          "text": "The housing cooperative should be banned from engaging in any development activities. There are massive delays, failure to honor contracts, and property prices are rising just before handover. The quality of the plaster, floors, and balconies is abysmal. Only the defects that were supposed to be fixed by an external contractor, such as replacing the window glass, have been repaired. The cooperative is blaming the market situation and, I believe, expects future residents to be grateful that they even completed the project. I don't recommend it."
-        },
-        {
-          "author": "jozef labuda",
-          "rating": 4,
-          "timestamp": 1652177895,
-          "date": "10.05.2022",
-          "text": "The place is nice, they should tidy up the sidewalks, in one place they have them and in another place they don't, the road leading to the street is wet, there is no room for pedestrians, they should tidy up the ditches, the trees are broken, the cable is hanging very low"
-        },
-        {
-          "author": "Atram Lawok",
-          "rating": 1,
-          "timestamp": 1570702011,
-          "date": "10.10.2019",
-          "text": "The housing association ignored the mold problem in the apartment, blaming it on unfavorable weather conditions. After a tenacious fight, it was finally discovered that there was a leak in the roof, which is why mold was appearing in one spot in the apartment. I do not recommend them. They sent incompetent people and dismissed me without engaging or attempting to resolve the problem."
-        },
-        {
-          "author": "Tomasz Makuch",
-          "rating": 3,
-          "timestamp": 1582265576,
-          "date": "21.02.2020",
-          "text": "Opóźnienie w realizacji, znaczne zwiększenie ceny nieruchomości na chwilę przed oddaniem mieszkania i troche drobnych wpadek. Niemniej pięknie usytuowana inwestycja, mieszkanie wykończone ładnie. Taka słodko gorzka relacja."
-        }
-      ],
-      "latest_review_ts": 1751455882,
-      "gus": {
-        "phones": [
-          "713541466",
-          "713548440"
-        ],
-        "emails": [
-          "sekretariat@maslice.pl"
-        ],
-        "website": "https://maslice.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 19
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 19
     },
     {
       "id": "spodzielnia-mieszkaniowa-nasz-energetyk",
@@ -17145,152 +16564,6 @@
       "wspolnoty_count": 12
     },
     {
-      "id": "spodzielnia-mieszkaniowa-wrocawski-dom",
-      "place_id": "ChIJ7-tJpFLoD0cRI54uN44oq8g",
-      "name": "Wrocławski Dom. Spółdzielnia Mieszkaniowa",
-      "address": "Grudziądzka 91A, 51-166 Wrocław, Poland",
-      "phone": "71 325 26 95",
-      "website": "http://www.wroclawskidom.pl/",
-      "rating": 3.6,
-      "reviews_count": 18,
-      "maps_url": "https://maps.google.com/?cid=14459695619879378467",
-      "status": "OPERATIONAL",
-      "hours": [],
-      "lat": 51.1381114,
-      "lng": 17.0774949,
-      "reviews": [
-        {
-          "author": "Damian",
-          "rating": 1,
-          "timestamp": 1769494373,
-          "date": "27.01.2026",
-          "text": "Every year, it's the same story with the heating. It's winter and it doesn't work again. Despite huge price increases, it's currently almost 100 PLN, and the rent for a 46m² apartment is already 950 PLN. Our apartments are cold. I recommend avoiding this housing cooperative."
-        },
-        {
-          "author": "Michal S",
-          "rating": 1,
-          "timestamp": 1759260001,
-          "date": "30.09.2025",
-          "text": "Rents are high because the high management salaries have to be financed somehow. The constant selling of properties, coupled with exorbitant rents, is still a long way off. My landlord pays 1,700 PLN for 87m². Isn't that normal? I personally pay 1,100 PLN for 50m². The building isn't insulated and can be replaced like that. We blocked the funds at the general meeting through a vote, so out of anger they raised the rent. You're worthy of television."
-        },
-        {
-          "author": "Adam",
-          "rating": 1,
-          "timestamp": 1760935043,
-          "date": "20.10.2025",
-          "text": "In four years, prices have increased by over 100 percent. A 50-square-meter apartment costs around 1,000 PLN. Larger apartments cost even more. It's almost like paying mortgage installments. Furthermore, hot water is often problematic, with brown water often leaking out. This is a matter for the media."
-        },
-        {
-          "author": "Dominik Dolecki",
-          "rating": 5,
-          "timestamp": 1768482682,
-          "date": "15.01.2026",
-          "text": "I'm in the process of selling a property. The ladies are very helpful, answering every question and holding my hand when needed. Thank you."
-        },
-        {
-          "author": "Tadeusz Kacprzyński",
-          "rating": 4,
-          "timestamp": 1495168261,
-          "date": "19.05.2017",
-          "text": "Good Housing Cooperative"
-        }
-      ],
-      "latest_review_ts": 1769494373,
-      "gus": {
-        "phones": [
-          "713252695"
-        ],
-        "emails": [
-          "BIURO@WROCLAWSKIDOM.PL"
-        ],
-        "website": "https://wroclawskidom.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 3
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 3
-    },
-    {
-      "id": "tbs-wrocaw",
-      "place_id": "ChIJzfgRv7vpD0cR1fsAx-Ow9A0",
-      "name": "Towarzystwo Budownictwa Społecznego Wrocław Spółka z o.o.",
-      "address": "Stanisława Przybyszewskiego 102/104, 51-148 Wrocław, Poland",
-      "phone": "71 325 33 38",
-      "website": "http://www.tbs-wroclaw.com.pl/",
-      "rating": 3.3,
-      "reviews_count": 104,
-      "maps_url": "https://maps.google.com/?cid=1005623109153258453",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 7:30 AM – 3:30 PM",
-        "Tuesday: 7:30 AM – 3:30 PM",
-        "Wednesday: 7:30 AM – 3:30 PM",
-        "Thursday: 7:30 AM – 3:30 PM",
-        "Friday: 7:30 AM – 3:30 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.14113709999999,
-      "lng": 17.0620554,
-      "reviews": [
-        {
-          "author": "anopsinh zala",
-          "rating": 5,
-          "timestamp": 1670359685,
-          "date": "06.12.2022",
-          "text": "👍"
-        },
-        {
-          "author": "Fadi Skaikar",
-          "rating": 5,
-          "timestamp": 1688917293,
-          "date": "09.07.2023",
-          "text": "Good"
-        },
-        {
-          "author": "Ewa Stączek",
-          "rating": 1,
-          "timestamp": 1704905739,
-          "date": "10.01.2024",
-          "text": "I've been without gas for five days because I'm waiting for a new stove to be installed. No one even came to see if the old one could be repaired. They couldn't tell me when I'd get the stove. I called two or three times a day, supposedly passing the information on to someone else. No one called back. In the end, it turned out that the plumbers who were supposed to install the stove didn't even know I'd called. One woman called back after four days. I didn't know what to do or when I'd get the stove. The men were supposed to arrive when I left the house. They said no one told them I'd reported"
-        },
-        {
-          "author": "Dorota",
-          "rating": 5,
-          "timestamp": 1686295632,
-          "date": "09.06.2023",
-          "text": "Sometimes it's hard to get through on the phone, but the people are very helpful, and you can always reach an agreement. I've been with TBS for two years now, and I honestly don't know why people complain so much, and the prices are half what they would normally rent. Greetings to all people of good will! "
-        },
-        {
-          "author": "Kamila Krusińska",
-          "rating": 1,
-          "timestamp": 1609835481,
-          "date": "05.01.2021",
-          "text": "The door on Wojanowska Street hasn't been repaired for a year. Someone came twice, tried to fix the door to get the intercom working, but gave up. No one at TBS seems interested, and once, when I called, the lady complained that the door wasn't working, as if I'd broken it. It's beyond words. And calling there is next to impossible."
-        }
-      ],
-      "latest_review_ts": 1704905739,
-      "gus": {
-        "phones": [
-          "713253338"
-        ],
-        "emails": [
-          "TBS@TBS-WROCLAW.COM.PL"
-        ],
-        "website": "http://www.tbs-wroclaw.com.pl",
-        "confidence": "wysoka",
-        "wspolnoty_count": 22
-      },
-      "sources": [
-        "gus",
-        "maps"
-      ],
-      "wspolnoty_count": 22
-    },
-    {
       "id": "tectum-zarzadzanie-nieruchomo-iami",
       "place_id": "ChIJDZ6DhCzDD0cRnS7lZ5gtfZw",
       "name": "Tectum Zarządzanie Nieruchomościami",
@@ -17360,81 +16633,36 @@
       "wspolnoty_count": 6
     },
     {
-      "id": "u-residence-ms-pro-apartamenty",
-      "place_id": "ChIJe4AaZYbDD0cRLXvj3fPqoLo",
-      "name": "MS Pro Investments",
-      "address": "Powstańców Śląskich 9, 53-332 Wrocław, Poland",
-      "phone": "577 151 553",
-      "website": "http://www.msproinvestments.pl/",
-      "rating": 4.6,
-      "reviews_count": 11,
-      "maps_url": "https://maps.google.com/?cid=13448006820448926509",
-      "status": "OPERATIONAL",
-      "hours": [
-        "Monday: 9:00 AM – 5:00 PM",
-        "Tuesday: 9:00 AM – 5:00 PM",
-        "Wednesday: 9:00 AM – 5:00 PM",
-        "Thursday: 9:00 AM – 5:00 PM",
-        "Friday: 9:00 AM – 5:00 PM",
-        "Saturday: Closed",
-        "Sunday: Closed"
-      ],
-      "lat": 51.0980374,
-      "lng": 17.024356,
-      "reviews": [
-        {
-          "author": "Dariusz Wysocki",
-          "rating": 5,
-          "timestamp": 1642446991,
-          "date": "17.01.2022",
-          "text": "Communication with the company was excellent. Easy to use from the website owner to manage online reservations. All information was readily available at all times."
-        },
-        {
-          "author": "Jakub Byzdra",
-          "rating": 1,
-          "timestamp": 1720455481,
-          "date": "08.07.2024",
-          "text": "They cancel the reservation 1.5 weeks before arrival even though we booked a year in advance, no thanks and no regards"
-        },
-        {
-          "author": "Iwona Cichosz",
-          "rating": 5,
-          "timestamp": 1642494845,
-          "date": "18.01.2022",
-          "text": "We've been working together for three years now, at a high level, reliably and professionally, and the apartment we entrusted to them is like new. I highly recommend them! The collaboration and the apartments."
-        },
-        {
-          "author": "Andrzej Pelesz",
-          "rating": 5,
-          "timestamp": 1642450696,
-          "date": "17.01.2022",
-          "text": "I know her, I work with her – I highly recommend her and encourage you to collaborate.\n\nProfessional approach, topics \"organized\" here and now\nI RECOMMEND\nDanuta Ł"
-        },
-        {
-          "author": "Piotr Sanok",
-          "rating": 5,
-          "timestamp": 1642440766,
-          "date": "17.01.2022",
-          "text": "I recommend it! The service is of a very high standard. Top notch!"
-        }
-      ],
-      "latest_review_ts": 1720455481,
+      "id": "towarzystwo-budownictwa-spoecznego-wrocaw-spoka-z-o-o",
+      "place_id": "",
+      "name": "Towarzystwo Budownictwa Społecznego Wrocław Spółka z o.o.",
+      "address": "",
+      "phone": "713253338",
+      "website": "http://www.tbs-wroclaw.com.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
-          "729963656"
+          "713253338"
         ],
         "emails": [
-          "INFO@U-RESIDENCE.PL"
+          "TBS@TBS-WROCLAW.COM.PL"
         ],
-        "website": "https://u-residence.pl",
-        "confidence": "niska",
-        "wspolnoty_count": 1
+        "website": "http://www.tbs-wroclaw.com.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 23
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
-      "wspolnoty_count": 1
+      "wspolnoty_count": 23
     },
     {
       "id": "ultranet",
@@ -17505,13 +16733,13 @@
         ],
         "website": "https://ultranet.com.pl/nieruchomosci/",
         "confidence": "niska",
-        "wspolnoty_count": 1
+        "wspolnoty_count": 2
       },
       "sources": [
         "gus",
         "maps"
       ],
-      "wspolnoty_count": 1
+      "wspolnoty_count": 2
     },
     {
       "id": "wpb-zarzadzanie-nieruchomo-iami",
@@ -17546,6 +16774,72 @@
       "wspolnoty_count": 4
     },
     {
+      "id": "wrocawski-dom-spodzielnia-mieszkaniowa",
+      "place_id": "",
+      "name": "Wrocławski Dom. Spółdzielnia Mieszkaniowa",
+      "address": "",
+      "phone": "713252695",
+      "website": "https://wroclawskidom.pl",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713252695"
+        ],
+        "emails": [
+          "BIURO@WROCLAWSKIDOM.PL"
+        ],
+        "website": "https://wroclawskidom.pl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 3
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 3
+    },
+    {
+      "id": "wspolnota-mieszkaniowa-dembowskiego-48",
+      "place_id": "",
+      "name": "Wspólnota Mieszkaniowa Dembowskiego 48 (wspólnota – nie zarządca)",
+      "address": "",
+      "phone": "510056636",
+      "website": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "510056636",
+          "504173550"
+        ],
+        "emails": [
+          "wmdembowskiego48@gmail.com",
+          "w.grunwaldzka100@wp.pl"
+        ],
+        "website": "",
+        "confidence": "niska",
+        "wspolnoty_count": 2
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 2
+    },
+    {
       "id": "wspolnota-mieszkaniowa-zwycieska-45",
       "place_id": "",
       "name": "Wspólnota Mieszkaniowa Zwycięska 45 (wspólnota – nie zarządca)",
@@ -17578,11 +16872,92 @@
       "wspolnoty_count": 1
     },
     {
+      "id": "y-a-r-d",
+      "place_id": "",
+      "name": "Y.A.R.D sp. z o.o.",
+      "address": "",
+      "phone": "713482473",
+      "website": "https://geoportal.wroclaw.pl/poi/poi/372",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
+      "hours": [],
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
+      "gus": {
+        "phones": [
+          "713482473",
+          "713556109"
+        ],
+        "emails": [
+          "eska-zarzadzanie@wp.pl"
+        ],
+        "website": "https://geoportal.wroclaw.pl/poi/poi/372",
+        "confidence": "niska",
+        "wspolnoty_count": 20
+      },
+      "sources": [
+        "gus"
+      ],
+      "wspolnoty_count": 20
+    },
+    {
+      "id": "zarosa-barbara-zarzadzanie-nieruchomo-iami-ubezpieczenia",
+      "place_id": "ChIJl7KWCmHCD0cRXeaUIQfJoU8",
+      "name": "Zarosa Barbara. Zarządzanie nieruchomościami i ubezpieczenia",
+      "address": "Boczna 2, 50-502 Wrocław, Poland",
+      "phone": "601 754 696",
+      "website": "http://zarosa.pl/kontakt.html",
+      "rating": 1,
+      "reviews_count": 1,
+      "maps_url": "https://maps.google.com/?cid=5738088432712083037",
+      "status": "OPERATIONAL",
+      "hours": [],
+      "lat": 51.0926339,
+      "lng": 17.0437703,
+      "reviews": [
+        {
+          "author": "mariusz swiezewski",
+          "rating": 1,
+          "timestamp": 1583185883,
+          "date": "02.03.2020",
+          "text": ""
+        }
+      ],
+      "latest_review_ts": 1583185883,
+      "gus": {
+        "phones": [
+          "601754696",
+          "717233636",
+          "746487171",
+          "713488171",
+          "713486754",
+          "713466753"
+        ],
+        "emails": [
+          "bpr.dn@wp.pl",
+          "MARITUMAT@WP.PL",
+          "BIURO@APW.WROCLAW.PL"
+        ],
+        "website": "https://share.google/gzNk6dzWQjqlw6BXl",
+        "confidence": "wysoka",
+        "wspolnoty_count": 41
+      },
+      "sources": [
+        "gus",
+        "maps"
+      ],
+      "wspolnoty_count": 41
+    },
+    {
       "id": "zarzadca",
       "place_id": "",
       "name": "ZARZĄDCA Sp. z o.o.",
       "address": "",
-      "phone": "173538610",
+      "phone": "3392228",
       "website": "",
       "rating": 0,
       "reviews_count": 0,
@@ -17595,20 +16970,23 @@
       "latest_review_ts": 0,
       "gus": {
         "phones": [
+          "173538610",
           "713420021",
-          "126889014"
+          "126889014",
+          "713420019"
         ],
         "emails": [
-          "zarzadca@zarzadca.x.pl"
+          "zarzadca@zarzadca.x.pl",
+          "ZARZADCA@ZARZADCA.WROC.PL"
         ],
         "website": "https://zarzadca.wroc.pl/",
         "confidence": "niska",
-        "wspolnoty_count": 12
+        "wspolnoty_count": 171
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 12
+      "wspolnoty_count": 171
     },
     {
       "id": "zarzadzanie-nieruchomo-iami-nasze-domy",
@@ -17643,43 +17021,21 @@
       "wspolnoty_count": 12
     },
     {
-      "id": "zuh-partner-nieruchomo-i",
-      "place_id": "ChIJuUDMUD_ZFkcRzZQuxhgmMxE",
+      "id": "zuh-partner-nierucho-i",
+      "place_id": "",
       "name": "ZUH PARTNER NIERUCHOŚCI Sp. z o.o.",
-      "address": "Aleja Marszałka Józefa Piłsudskiego 92, 41-303 Dąbrowa Górnicza, Poland",
+      "address": "",
       "phone": "510013797",
       "website": "http://www.zuhpartner.pl",
-      "rating": 3,
-      "reviews_count": 3,
-      "maps_url": "https://maps.google.com/?cid=1239376210303030477",
-      "status": "OPERATIONAL",
+      "rating": 0,
+      "reviews_count": 0,
+      "maps_url": "",
+      "status": "",
       "hours": [],
-      "lat": 50.34566239999999,
-      "lng": 19.2648909,
-      "reviews": [
-        {
-          "author": "Jan Kania",
-          "rating": 3,
-          "timestamp": 1535965621,
-          "date": "03.09.2018",
-          "text": "Okay"
-        },
-        {
-          "author": "siwy 1986",
-          "rating": 5,
-          "timestamp": 1752519786,
-          "date": "14.07.2025",
-          "text": ""
-        },
-        {
-          "author": "Pawel Niewiejski",
-          "rating": 1,
-          "timestamp": 1547231191,
-          "date": "11.01.2019",
-          "text": ""
-        }
-      ],
-      "latest_review_ts": 1752519786,
+      "lat": null,
+      "lng": null,
+      "reviews": [],
+      "latest_review_ts": 0,
       "gus": {
         "phones": [
           "510013797"
@@ -17692,8 +17048,7 @@
         "wspolnoty_count": 1
       },
       "sources": [
-        "gus",
-        "maps"
+        "gus"
       ],
       "wspolnoty_count": 1
     },
@@ -17716,7 +17071,8 @@
       "gus": {
         "phones": [
           "717652962",
-          "221239050"
+          "221239050",
+          "717654867"
         ],
         "emails": [
           "KAROLINA.SWIESCIAK@ZZN.PL",
@@ -17724,12 +17080,12 @@
         ],
         "website": "https://strefaklienta24.pl",
         "confidence": "wysoka",
-        "wspolnoty_count": 24
+        "wspolnoty_count": 28
       },
       "sources": [
         "gus"
       ],
-      "wspolnoty_count": 24
+      "wspolnoty_count": 28
     },
     {
       "id": "swiat-nieruchomo-i-znib-wspolnota",
